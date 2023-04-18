@@ -29,7 +29,7 @@ The header additionally displays information about the ONU's MAC/SN. ONU name an
 
 *   Number – ONU number on the OLT port
 
-![ONU page](../../assets/eGU5GENHX30KaO9WlwDXj_image.png)
+![ONU page](.gitbook/assets/eGU5GENHX30KaO9WlwDXj_image.png)
 
 # Quick Actions Panel
 
@@ -47,7 +47,7 @@ On the quick actions panel, quick commands are available that can be executed on
 
 *   Delete - delete the ONU from the OLT
 
-![Reboot ONU confirmation dialog](../../assets/cb45fpvcPT-LOMVW1uqIR_image.png)
+![Reboot ONU confirmation dialog](.gitbook/assets/cb45fpvcPT-LOMVW1uqIR_image.png)
 
 # Information
 
@@ -115,7 +115,7 @@ The graph represents the readings of the optical Tx/Rx signal. It is possible to
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
-![Graph Tx/Rx](../../assets/zDdW_wuvW2Pwz25QvTsjK_image.png)
+![Graph Tx/Rx](.gitbook/assets/zDdW_wuvW2Pwz25QvTsjK_image.png)
 
 # Graph attenuations
 
@@ -123,5 +123,5 @@ The graph represents the readings of the attenuation signals on OLT and ONU. It 
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
-![Graph attenuations](../../assets/ypjzai_byXXxqvKCgqh_X_image.png)
+![Graph attenuations](.gitbook/assets/ypjzai_byXXxqvKCgqh_X_image.png)
 

@@ -7,7 +7,7 @@ updatedAt: Fri Mar 03 2023 08:44:38 GMT+0000 (Coordinated Universal Time)
 
 In the ONU main menu section, the All ONU page displays the list of ONU available in the EasyPON system In a summary table it is possible to filter and open a specific ONU page. It is also possible to Download filtered ONU table and download reports in [Reports](https://app.archbee.com/docs/TzlFsLikA7TqxqriFHwd8/nsviDpiegg1WUNi2IeChX) section.
 
-![List of available ONU with filter](../../assets/6RgTyqbj48OIdlQsy4VsY_screenshot-2023-01-28-at-230046.png)
+![List of available ONU with filter](.gitbook/assets/6RgTyqbj48OIdlQsy4VsY_screenshot-2023-01-28-at-230046.png)
 
 # Filter ONU list
 

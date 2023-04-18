@@ -17,7 +17,7 @@ The switch name and port are shown for found Switch.
 
 It is possible to go to the search object by a link in View. The Mac address where the prank was performed will be highlighted in color.
 
-![Displaying search elements](../../assets/MF7LHgcH90UbdGzQ82oXS_screencapture-ep-stg-disoft-dev-dashboard-2022-11-19-004041.png)
+![Displaying search elements](.gitbook/assets/MF7LHgcH90UbdGzQ82oXS_screencapture-ep-stg-disoft-dev-dashboard-2022-11-19-004041.png)
 
 # Last Found ONU
 

@@ -23,13 +23,13 @@ All available permission groups are displayed on the All-access page in a list w
 
 *   View - displaying information about a specific group of permissions
 
-![The All Access page, which displays all available groups of access rights in the EasyPON system](../../assets/9rUwVPK3SeRQFvXF7toBa_image.png)
+![The All Access page, which displays all available groups of access rights in the EasyPON system](.gitbook/assets/9rUwVPK3SeRQFvXF7toBa_image.png)
 
 # Access group view
 
 After clicking the View button, a page with information about the selected group of access rights is displayed in the Group list table. On this page, you can edit the group name and access rights or delete the selected group.
 
-![Group info page](../../assets/dPhqcvrTTr5_B8I9f2X2A_image.png)
+![Group info page](.gitbook/assets/dPhqcvrTTr5_B8I9f2X2A_image.png)
 
 ## Quick Actions Bar
 
@@ -51,7 +51,7 @@ The display of individual elements in the rights section has the value Yes and N
 
 # Adding an access permission group
 
-![Add group page](../../assets/kgXuvLrTN7mkh-D0WwZ1y_image.png)
+![Add group page](.gitbook/assets/kgXuvLrTN7mkh-D0WwZ1y_image.png)
 
 To add a group, you need to specify the name in the Name group input and the sections of access rights that will be activated in the group. If you need to set full access to the section, you need to activate the Full Access switch. If the rights are limited, then the group will have Partial Access and the necessary accesses must be set separately.
 

@@ -17,5 +17,5 @@ On the Macros form, it is possible to edit the following Macros fields:
 
 After editing, you can save changes by using the Save button or cancel the action by using the Cancel button.
 
-![Edit Macros form](../../assets/-PD2BCftHyfpQ0cVoxvpv_screenshot-2023-01-28-at-225507.png)
+![Edit Macros form](.gitbook/assets/-PD2BCftHyfpQ0cVoxvpv_screenshot-2023-01-28-at-225507.png)
 

@@ -7,9 +7,9 @@ updatedAt: Tue Mar 07 2023 22:56:27 GMT+0000 (Coordinated Universal Time)
 
 OLT information can be edited by pressing the Edit button in the Quick Actions Bar section on the OLT page. To edit the OLT you need to modify all required data fields and Save the form.&#x20;
 
-![OLT edit form](../../assets/JB0yftS_ftq5AdPMTZ8Nd_image.png)
+![OLT edit form](.gitbook/assets/JB0yftS_ftq5AdPMTZ8Nd_image.png)
 
-![Add OLT form](../../assets/WBMIZOzWHg_wssMRRFsyy_image.png)
+![Add OLT form](.gitbook/assets/WBMIZOzWHg_wssMRRFsyy_image.png)
 
 The Edit OLT form consists of the following fields:
 
@@ -41,5 +41,5 @@ After filling in the data on the edit OLT form, it is possible to check the conn
 
 You can also Check the connection with OLT before saving the edit form.
 
-![](../../assets/6kFO0QOPCwszoNkunMh2v_image.png)
+![](.gitbook/assets/6kFO0QOPCwszoNkunMh2v_image.png)
 

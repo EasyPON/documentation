@@ -33,5 +33,5 @@ A list of predefined Macros variables that can be used as templates for substitu
 
 While creating or editing Preset, it is possible to click on a macro field with the left mouse button to add it to the Code field while editing preset in the Preset form.
 
-![Macros list](../../assets/hlF6DGDCJgwJSWglb7QNG_image.png)
+![Macros list](.gitbook/assets/hlF6DGDCJgwJSWglb7QNG_image.png)
 

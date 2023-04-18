@@ -17,7 +17,7 @@ You can change the Admin Status on the switch port. Also, each port displays the
 
 
 
-![Specific Switch page](../../assets/8_kUGCPS9k6m6I1zz3YAs_image.png)
+![Specific Switch page](.gitbook/assets/8_kUGCPS9k6m6I1zz3YAs_image.png)
 
 # Quick Actions Bar
 

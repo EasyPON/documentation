@@ -7,7 +7,7 @@ updatedAt: Fri Mar 03 2023 08:48:22 GMT+0000 (Coordinated Universal Time)
 
 The Account page displays information about the user's account and the history of his work sessions in the EasyPON system.
 
-![Profile page](../../assets/yZhnDee8JqzRSPw-c_rYV_screencapture-ep-stg-disoft-dev-profile-2022-11-26-014321.png)
+![Profile page](.gitbook/assets/yZhnDee8JqzRSPw-c_rYV_screencapture-ep-stg-disoft-dev-profile-2022-11-26-014321.png)
 
 The Logout button allows you to end the session and exit the EasyPON system. After the session ends, the user will be redirected to the login page
 

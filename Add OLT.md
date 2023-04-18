@@ -7,7 +7,7 @@ updatedAt: Tue Mar 07 2023 22:58:27 GMT+0000 (Coordinated Universal Time)
 
 The Add OLT button opens the form for creating a new OLT Create OLT. On this page, it is possible to add a new OLT to the system and check the connection with the OLT before adding it using the Test Connection button.
 
-![Add OLT form](../../assets/WBMIZOzWHg_wssMRRFsyy_image.png)
+![Add OLT form](.gitbook/assets/WBMIZOzWHg_wssMRRFsyy_image.png)
 
 The Add OLT form consists of the following fields:
 

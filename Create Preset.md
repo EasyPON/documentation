@@ -23,7 +23,7 @@ Creating a new preset ONU pattern in the EasyPON system by using the Preset form
 
 *   Code - Preset configuration script with macros fields
 
-![Preset form](../../assets/tIav7KLWutnXf2IRXtHrK_screenshot-2023-01-28-at-224057.png)
+![Preset form](.gitbook/assets/tIav7KLWutnXf2IRXtHrK_screenshot-2023-01-28-at-224057.png)
 
 #
 

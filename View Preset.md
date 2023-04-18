@@ -19,5 +19,5 @@ The values are displayed in the block of the selected Preset
 
 Also, the Edit and Delete buttons are available in the block, which allows you to edit and delete Presets.
 
-![View preset](../../assets/hlF6DGDCJgwJSWglb7QNG_image.png)
+![View preset](.gitbook/assets/hlF6DGDCJgwJSWglb7QNG_image.png)
 

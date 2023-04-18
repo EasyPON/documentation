@@ -27,5 +27,5 @@ Adding new switches is available by clicking the Add switch button, which opens 
 
 On the Add switch form, there are also buttons Save - to save the Switch and Cancel - to cancel the addition of the Switch.
 
-![Add Switch form](../../assets/cBxWXpJEwOMMBC3NOqd2Y_image.png)
+![Add Switch form](.gitbook/assets/cBxWXpJEwOMMBC3NOqd2Y_image.png)
 

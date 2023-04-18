@@ -7,7 +7,7 @@ updatedAt: Tue Mar 07 2023 22:35:01 GMT+0000 (Coordinated Universal Time)
 
 All planned, In the process, and finished port migrations can be found on the Migrations page. You can find OLT name shelf/slot/port info, the date the migration has been created, the user started the migration process, its current status, and View action.
 
-![A List of Migrations](../../assets/phJZiT7rifTGJuou_IiQr_image.png)
+![A List of Migrations](.gitbook/assets/phJZiT7rifTGJuou_IiQr_image.png)
 
 ## Specific migration page
 
@@ -35,7 +35,7 @@ There is also a History block showing all ONUs which are migrated with the param
 
 *   Show configs action - view ONU configs in the terminal
 
-![A planned port migration page](../../assets/1iDYUjfHnJx8n_aRtlB3T_image.png)
+![A planned port migration page](.gitbook/assets/1iDYUjfHnJx8n_aRtlB3T_image.png)
 
-![A finished port migration page](../../assets/GYTiGCNvPBAcbT_FmUppT_image.png)
+![A finished port migration page](.gitbook/assets/GYTiGCNvPBAcbT_FmUppT_image.png)
 

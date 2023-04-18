@@ -17,7 +17,7 @@ The OLT page displays information on the selected OLT and consists of several se
 
 *   Tasks - table showing periodic OLT tasks and their status
 
-![OLT page](../../assets/UVSiAKo32h60hogplfM0X_image.png)
+![OLT page](.gitbook/assets/UVSiAKo32h60hogplfM0X_image.png)
 
 # Quick Actions Bar
 
@@ -87,7 +87,7 @@ The graph displays the number of all ONUs on the OLT relative to the ONUs that h
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
-![Graph all ONU / Online ONU](../../assets/JF2kp0HIq3RrcF0bmQKoI_image.png)
+![Graph all ONU / Online ONU](.gitbook/assets/JF2kp0HIq3RrcF0bmQKoI_image.png)
 
 # Amount of errors by OLT in the time graph
 
@@ -95,5 +95,5 @@ The graph displays the number of errors on the OLT within a time scale. It is po
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
-![Amount of errors by OLT in time graph](../../assets/7oE5NXNEdAUS-J0VDtLmt_image.png)
+![Amount of errors by OLT in time graph](.gitbook/assets/7oE5NXNEdAUS-J0VDtLmt_image.png)
 

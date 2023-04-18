@@ -21,7 +21,7 @@ The Users section displays the list of users available in the EasyPON system and
 
 *   View – link to view the registered user profile page.
 
-![List of available users User list](../../assets/hKk5AYTWQHspaMT9YVcIq_image.png)
+![List of available users User list](.gitbook/assets/hKk5AYTWQHspaMT9YVcIq_image.png)
 
 # User creation
 
@@ -41,11 +41,11 @@ The Create user form displays the following fields for filling:
 
 *   Individual permissions for the user - individual user permissions. Individual user permissions have higher priority status over permission groups.
 
-![Create user form](../../assets/9iCIyhtazJMDclE2_K18e_image.png)
+![Create user form](.gitbook/assets/9iCIyhtazJMDclE2_K18e_image.png)
 
 # User page
 
-![User profile page](../../assets/3PIPCww-r_UfHC6FVvq7W_image.png)
+![User profile page](.gitbook/assets/3PIPCww-r_UfHC6FVvq7W_image.png)
 
 After clicking the View link in the User list table, the page with data about a specific user opens.
 
@@ -73,7 +73,7 @@ Displaying user access rights in the User permission and Group permissions secti
 
 # Editing a user
 
-![Edit user and permissions form](../../assets/gH9gNPZfNIsFEQqzkr0Hw_image.png)
+![Edit user and permissions form](.gitbook/assets/gH9gNPZfNIsFEQqzkr0Hw_image.png)
 
 The Edit user edit form displays the following fields for filling:
 

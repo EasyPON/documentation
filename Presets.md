@@ -9,11 +9,11 @@ The Presets section of the main menu displays a list of available Presets, which
 
 There is a Macros list is available. It can be used as the template for substituting standard parameters into a Preset configuration in the Code input field while adding or editing the preset.
 
-![Preset for ONU section](../../assets/hlF6DGDCJgwJSWglb7QNG_image.png)
+![Preset for ONU section](.gitbook/assets/hlF6DGDCJgwJSWglb7QNG_image.png)
 
 # Preset list&#x20;
 
 Displaying added Presets list. You can select items in the table to open a quick card for viewing the selected Preset.
 
-![Preset form](../../assets/tIav7KLWutnXf2IRXtHrK_screenshot-2023-01-28-at-224057.png)
+![Preset form](.gitbook/assets/tIav7KLWutnXf2IRXtHrK_screenshot-2023-01-28-at-224057.png)
 

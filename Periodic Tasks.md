@@ -17,13 +17,13 @@ List of periodic tasks created in the system in the form of a table with fields:
 
 *   View - a link to view detailed information about a specific task.
 
-![Tasks list](../../assets/3sLVjT2Vh1H7nk80U50mo_screencapture-ep-stg-disoft-dev-periodic-task-2022-11-24-002058.png)
+![Tasks list](.gitbook/assets/3sLVjT2Vh1H7nk80U50mo_screencapture-ep-stg-disoft-dev-periodic-task-2022-11-24-002058.png)
 
 # Periodic Task view
 
 Clicking on the View button from the Tasks table displays detailed information about the recurring task.&#x20;
 
-![Periodic Task page](../../assets/YzshMW0B9dgKQFYiSgR4Z_screencapture-ep-stg-disoft-dev-periodic-task-87-info-2022-11-24-002147.png)
+![Periodic Task page](.gitbook/assets/YzshMW0B9dgKQFYiSgR4Z_screencapture-ep-stg-disoft-dev-periodic-task-87-info-2022-11-24-002147.png)
 
 ## Quick Actions Bar
 
@@ -49,7 +49,7 @@ Clicking on the View button from the Tasks table displays detailed information a
 
 > Periodic Task can only be edited when it is deactivated
 
-![Periodic Task editing form](../../assets/nh47Z8HdMJqJ2SG13ExG1_screencapture-ep-stg-disoft-dev-periodic-task-130-info-2022-12-04-230834.png)
+![Periodic Task editing form](.gitbook/assets/nh47Z8HdMJqJ2SG13ExG1_screencapture-ep-stg-disoft-dev-periodic-task-130-info-2022-12-04-230834.png)
 
 You can set a value on the editing form:
 

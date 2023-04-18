@@ -17,5 +17,5 @@ It is possible to edit the selected Preset by pressing the Edit button and openi
 
 *   Code - Preset configuration script with the values of the macros.
 
-![Edit preset](../../assets/tIav7KLWutnXf2IRXtHrK_screenshot-2023-01-28-at-224057.png)
+![Edit preset](.gitbook/assets/tIav7KLWutnXf2IRXtHrK_screenshot-2023-01-28-at-224057.png)
 

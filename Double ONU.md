@@ -29,5 +29,5 @@ The Double ONU page displays the list of duplicated ONUs in the EasyPon system. 
 
 *   View - button to view the ONU card
 
-![Double ONU page](../../assets/zdDlhB3S2yTs5YxUt5vDQ_image.png)
+![Double ONU page](.gitbook/assets/zdDlhB3S2yTs5YxUt5vDQ_image.png)
 

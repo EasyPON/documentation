@@ -13,7 +13,7 @@ The value of the administrative status of the Ethernet port can be Auto or Down.
 
 *   Down
 
-![Change admin status confirmation dialog box.](../../assets/d0wr09KK663uV_hSyHBcq_image.png)
+![Change admin status confirmation dialog box.](.gitbook/assets/d0wr09KK663uV_hSyHBcq_image.png)
 
 #
 

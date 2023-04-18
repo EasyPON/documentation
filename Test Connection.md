@@ -7,5 +7,5 @@ updatedAt: Tue Mar 07 2023 23:00:11 GMT+0000 (Coordinated Universal Time)
 
 You can also Check the connection with the existing OLT on the OLT page or before saving the OLT add/edit form results by pressing the "Test Connection" button.
 
-![Test connection results dialog](../../assets/6kFO0QOPCwszoNkunMh2v_image.png)
+![Test connection results dialog](.gitbook/assets/6kFO0QOPCwszoNkunMh2v_image.png)
 

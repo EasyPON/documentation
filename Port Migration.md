@@ -15,11 +15,11 @@ It is possible to migrate a separate port with all registered ONU cards on OLT t
 
 If the migration process has been planned earlier on the specific port, the action Migration icon will be changed to the link for locating planned migration.
 
-![Migration from OLT Ports list](../../assets/GtEOw67QlykNqzYm5dUdM_image.png)
+![Migration from OLT Ports list](.gitbook/assets/GtEOw67QlykNqzYm5dUdM_image.png)
 
 The Migrations button can be also located in the OLT section.
 
-![Migrations button in the OLT section](../../assets/PKvPQ8Qrz2v387E4Jk2Qa_image.png)
+![Migrations button in the OLT section](.gitbook/assets/PKvPQ8Qrz2v387E4Jk2Qa_image.png)
 
 
 

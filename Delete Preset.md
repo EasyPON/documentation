@@ -9,5 +9,5 @@ By pressing the Delete button, you can delete the selected Preset after confirma
 
 If you want to keep preset configuration data, it is possible to keep empty preset without OLT, ​ONU technology and ​ONU type parameters and add them later.
 
-![Delete preset](../../assets/hlF6DGDCJgwJSWglb7QNG_image.png)
+![Delete preset](.gitbook/assets/hlF6DGDCJgwJSWglb7QNG_image.png)
 

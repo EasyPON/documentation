@@ -21,7 +21,7 @@ The All OLT page displays a table with a list of registered OLTs in the system w
 
 *   View -  button to view detailed information about the OLT by switching to the page [OLT](https://app.archbee.com/docs/TzlFsLikA7TqxqriFHwd8/kPwRlOlzYiioLTyFeHgLz)
 
-![All OLT page](../../assets/f-JGpkb18pZOm6d2Y9WPt_image.png)
+![All OLT page](.gitbook/assets/f-JGpkb18pZOm6d2Y9WPt_image.png)
 
 
 
