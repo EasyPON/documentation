@@ -43,4 +43,5 @@
 * [Users](Users.md)
 * [View Macros](<View Macros.md>)
 * [View Preset](<View Preset.md>)
-* [Test page with image](test-page-with-image.md)
+* [Olt functions](olt_functions.md)
+* [Card functions](card_functions.md)
