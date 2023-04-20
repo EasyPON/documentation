@@ -1,33 +1,37 @@
 ---
-title: Account
-slug: ox0QwPC_r32D0zLXSEY29
-createdAt: Wed Nov 23 2022 22:25:13 GMT+0000 (Coordinated Universal Time)
-updatedAt: Fri Mar 03 2023 08:48:22 GMT+0000 (Coordinated Universal Time)
+title: Add OLT
+slug: 5U4s-add-olt
+createdAt: Tue Mar 07 2023 22:32:13 GMT+0000 (Coordinated Universal Time)
+updatedAt: Tue Mar 07 2023 22:58:27 GMT+0000 (Coordinated Universal Time)
 ---
 
-The Account page displays information about the user's account and the history of his work sessions in the EasyPON system.
+The Add OLT button opens the form for creating a new OLT Create OLT. On this page, it is possible to add a new OLT to the system and check the connection with the OLT before adding it using the Test Connection button.
 
-![Profile page](.gitbook/assets/yZhnDee8JqzRSPw-c_rYV_screencapture-ep-stg-disoft-dev-profile-2022-11-26-014321.png)
+![Add OLT form](.gitbook/assets/WBMIZOzWHg_wssMRRFsyy_image.png)
 
-The Logout button allows you to end the session and exit the EasyPON system. After the session ends, the user will be redirected to the login page
+The Add OLT form consists of the following fields:
 
-# Info
+*   OLT Name - OLT title to identify it in the EasyPON system
 
-The Info card displays information on the user's account name - username and the user's email address - email.
+*   Type OLT - the type of OLT
 
-# Sessions
+*   IP address - IP address of the OLT
 
-The list with the session history in the Sessions section is displayed in tabular form with fields:
+*   Shel - shelf number on the OLT
 
-*   Date created - session creation date and time
+*   SNMP read community - SNMP sequence for reading OLT statistics
 
-*   Last activity - date and time of the user's last activity
+*   SNMP write community - SNMP sequence for recording OLT statistics data
 
-*   Expiry - the expiration date of the session in the system
+*   SNMP port - SNMP port
 
-*   IP address - IP address of the user
+*   Telnet login - Telnet login
 
-*   Current session – session status. Possible values are Yes and No
+*   Telnet password - Telnet password
 
-*   Delete – delete session button. When deleting a session with the value Yes in the current session, the current user session will be deleted.
+*   Telnet port - Telnet port
+
+*   Autosave (On або Off) - auto save
+
+After entering the data on the form, it is possible to check the connection with the OLT using Test Connection before adding it to the EasyPON system or adding it
 
