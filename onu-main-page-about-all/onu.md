@@ -5,7 +5,7 @@ createdAt: Fri Nov 04 2022 15:46:40 GMT+0000 (Coordinated Universal Time)
 updatedAt: Tue Mar 07 2023 23:08:17 GMT+0000 (Coordinated Universal Time)
 ---
 
-# ONU
+# ONU detailed info
 
 The ONU page displays data on the selected ONU and consists of several sections:
 
@@ -13,6 +13,7 @@ The ONU page displays data on the selected ONU and consists of several sections:
 * Information - general information about ONU
 * Stats - Display of ONU statistical data
 * ONU Ports - ONU display with available ports and their status
+* ONU on the map - functional of pointing ONU on the map and changing it
 * Ethernet ports - display of ONU Ethernet ports
 * Charts - graphs with optical signal readings are displayed
 
