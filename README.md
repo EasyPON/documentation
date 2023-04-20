@@ -1,37 +1,31 @@
 ---
-title: Add OLT
-slug: 5U4s-add-olt
-createdAt: Tue Mar 07 2023 22:32:13 GMT+0000 (Coordinated Universal Time)
-updatedAt: Tue Mar 07 2023 22:58:27 GMT+0000 (Coordinated Universal Time)
+title: Add Switch
+slug: vDli-add-switch
+createdAt: Fri Mar 17 2023 20:48:11 GMT+0000 (Coordinated Universal Time)
+updatedAt: Fri Mar 17 2023 20:49:10 GMT+0000 (Coordinated Universal Time)
 ---
 
-The Add OLT button opens the form for creating a new OLT Create OLT. On this page, it is possible to add a new OLT to the system and check the connection with the OLT before adding it using the Test Connection button.
+Adding new switches is available by clicking the Add switch button, which opens a form with fields:
 
-![Add OLT form](.gitbook/assets/WBMIZOzWHg_wssMRRFsyy_image.png)
+*   Name - switch title
 
-The Add OLT form consists of the following fields:
+*   IP Address - IP Address&#x20;
 
-*   OLT Name - OLT title to identify it in the EasyPON system
+*   Telnet login - account name for the telnet connection
 
-*   Type OLT - the type of OLT
+*   Telnet password - telnet connection password
 
-*   IP address - IP address of the OLT
+*   Port ssh - port ssh
 
-*   Shel - shelf number on the OLT
+*   Telnet port - port telnet
 
-*   SNMP read community - SNMP sequence for reading OLT statistics
+*   SNMP read community - SNMP sequence to read
 
-*   SNMP write community - SNMP sequence for recording OLT statistics data
+*   SNMP write community - SNMP sequence to write
 
-*   SNMP port - SNMP port
+*   SNMP port - port  SNMP
 
-*   Telnet login - Telnet login
+On the Add switch form, there are also buttons Save - to save the Switch and Cancel - to cancel the addition of the Switch.
 
-*   Telnet password - Telnet password
-
-*   Telnet port - Telnet port
-
-*   Autosave (On або Off) - auto save
-
-After entering the data on the form, it is possible to check the connection with the OLT using Test Connection before adding it to the EasyPON system or adding it
+![Add Switch form](.gitbook/assets/cBxWXpJEwOMMBC3NOqd2Y_image.png)
 
