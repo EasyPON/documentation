@@ -3,11 +3,18 @@ title: Presets
 slug: jUAY-presets
 createdAt: Fri Nov 11 2022 20:49:05 GMT+0000 (Coordinated Universal Time)
 updatedAt: Tue Mar 07 2023 22:20:18 GMT+0000 (Coordinated Universal Time)
+description: >-
+  The Presets section of the main menu displays a list of available Presets,
+  which can be used to register ONU on the OLT
 ---
 
 # Preset list
 
-The Presets section of the main menu displays a list of available Presets, which can be used to register ONU on the OLT. The presets can be added, edited, and deleted. Also empty presets can be kept.
+The presets can be added, edited, and deleted. Also empty presets can be kept.
+
+For your convenience, we prepared standard drafts of presets so you can use it from the beginning of your interaction with EasyPON.
+
+## Macros list
 
 There is a [Macros list](macros.md) is available on the right side. It can be used as the template for substituting standard parameters into a Preset configuration in the Code input field while adding or editing the preset.
 
