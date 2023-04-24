@@ -5,19 +5,23 @@ createdAt: Mon Nov 14 2022 15:29:11 GMT+0000 (Coordinated Universal Time)
 updatedAt: Tue Mar 07 2023 22:53:32 GMT+0000 (Coordinated Universal Time)
 ---
 
-# OLT
+# OLT detailed information
 
 The OLT page displays information on the selected OLT and consists of several sections:
 
-* Quick actions panel - the quick actions panel contains quick commands that can be executed on the page or from the OLT
-* Main Info - view detailed information about the OLT
-* Slots - available slots on the OLT
-* Ports - the ports on the slot that are displayed in the summary table
-* Tasks - table showing periodic OLT tasks and their status
+**Quick actions panel** - the quick actions panel contains quick commands that can be executed on the page or from the OLT
 
-![OLT page](../.gitbook/assets/UVSiAKo32h60hogplfM0X\_image.png)
+**Main Info** - view detailed information about the OLT
 
-## Quick Actions Bar
+**Slots** - available slots on the OLT
+
+**Ports** - the ports on the slot that are displayed in the summary table
+
+**Tasks** - table showing periodic OLT tasks and their status
+
+![OLT page](../../.gitbook/assets/UVSiAKo32h60hogplfM0X\_image.png)
+
+### Quick Actions Bar
 
 * Back – back to the OLT list
 * Edit - OLT editing
@@ -64,7 +68,7 @@ The graph displays the number of all ONUs on the OLT relative to the ONUs that h
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
-![Graph all ONU / Online ONU](../.gitbook/assets/JF2kp0HIq3RrcF0bmQKoI\_image.png)
+![Graph all ONU / Online ONU](../../.gitbook/assets/JF2kp0HIq3RrcF0bmQKoI\_image.png)
 
 ## Amount of errors by OLT in the time graph
 
@@ -72,4 +76,4 @@ The graph displays the number of errors on the OLT within a time scale. It is po
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
-![Amount of errors by OLT in time graph](../.gitbook/assets/7oE5NXNEdAUS-J0VDtLmt\_image.png)
+![Amount of errors by OLT in time graph](../../.gitbook/assets/7oE5NXNEdAUS-J0VDtLmt\_image.png)
