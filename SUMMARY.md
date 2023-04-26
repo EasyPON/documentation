@@ -1,9 +1,9 @@
 # Table of contents
 
-* [How to install EasyPON](README.md)
-* [🔐 Management & Access](management-and-access/README.md)
-  * [Standard permission groups](management-and-access/standard-permission-groups.md)
+* [1⃣ How to install EasyPON](README.md)
+* [2⃣ Management & Access](management-and-access/README.md)
   * [Login page](management-and-access/login-page.md)
+  * [Standard permission groups](management-and-access/standard-permission-groups.md)
   * [Account](management-and-access/readme.md)
   * [Group access](management-and-access/group-access.md)
   * [Users](management-and-access/users.md)

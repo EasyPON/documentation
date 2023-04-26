@@ -7,6 +7,10 @@ updatedAt: Fri Mar 24 2023 19:56:16 GMT+0000 (Coordinated Universal Time)
 
 # Group access
 
+## Standard permission groups
+
+We added for you two standard groups with permissions, that are, for our opinion, suitable for admins and support managers. By the way, you can easily configure
+
 > The Group access section may not be displayed due to the limited access permissions of your account.
 
 The Group access section displays information about already existing permission groups and allows their creation, editing, and deletion in the EasyPON system.
