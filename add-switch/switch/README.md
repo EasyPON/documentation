@@ -15,7 +15,7 @@ View information about a specific Switch:
 
 You can change the Admin Status on the switch port. Also, each port displays the client MAC addresses on which the global search works.
 
-![Specific Switch page](../.gitbook/assets/8\_kUGCPS9k6m6I1zz3YAs\_image.png)
+![Specific Switch page](../../.gitbook/assets/8\_kUGCPS9k6m6I1zz3YAs\_image.png)
 
 ## Quick Actions Bar
 

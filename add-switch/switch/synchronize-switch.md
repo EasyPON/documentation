@@ -9,4 +9,4 @@ updatedAt: Tue Mar 21 2023 07:02:24 GMT+0000 (Coordinated Universal Time)
 
 It is possible to synchronize connection and data with existing Switch by pressing Synchronize button on the Quick Actions Bar section on the Switch page. After successful synchronization, all Switch data should be up to date.
 
-![Switch page](../.gitbook/assets/Djs6WgiHA-gNlxGMoEmin\_image.png)
+![Switch page](../../.gitbook/assets/Djs6WgiHA-gNlxGMoEmin\_image.png)

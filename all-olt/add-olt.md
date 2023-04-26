@@ -1,26 +1,4 @@
-# All OLT
-
-<details>
-
-<summary>The All OLT page displays a table with a list of registered OLTs in the system with the following data</summary>
-
-№ - is the serial number in the table
-
-Name - how OLT is called
-
-Hostname -IP address of the host
-
-ONU - the number of connected ONUs on the OLT
-
-Status - current OLT status
-
-Autosave - autosave (On/Off)
-
-View - button to view detailed information about the OLT by switching to the page [OLT](https://app.archbee.com/docs/TzlFsLikA7TqxqriFHwd8/kPwRlOlzYiioLTyFeHgLz)
-
-</details>
-
-<figure><img src="../.gitbook/assets/all-olt-image.png" alt=""><figcaption></figcaption></figure>
+# Actions on the OLT
 
 ## Add OLT
 
@@ -65,3 +43,10 @@ OLT information can be edited by pressing the Edit button in the Quick Actions B
 You can also Check the connection with the existing OLT on the OLT page or before saving the OLT add/edit form results by pressing the "Test Connection" button.
 
 <figure><img src="../.gitbook/assets/test connection.png" alt=""><figcaption><p>Test connection in complete</p></figcaption></figure>
+
+## Migrations
+
+{% content-ref url="port-migration.md" %}
+[port-migration.md](port-migration.md)
+{% endcontent-ref %}
+

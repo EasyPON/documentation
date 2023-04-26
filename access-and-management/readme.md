@@ -17,6 +17,10 @@ The Logout button allows you to end the session and exit the EasyPON system. Aft
 
 The Info card displays information on the user's account name - username and the user's email address - email. You can also change your password here.
 
+## Licence
+
+Check here your subscription plan and payment amount
+
 ## Sessions
 
 The list with the session history in the Sessions section is displayed in tabular form with fields:

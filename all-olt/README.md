@@ -5,28 +5,35 @@ createdAt: Mon Nov 14 2022 15:28:41 GMT+0000 (Coordinated Universal Time)
 updatedAt: Tue Mar 07 2023 22:52:46 GMT+0000 (Coordinated Universal Time)
 ---
 
-# OLT workspace
+# 3⃣ OLT workspace
 
+&#x20;synchronization, ONU getting, Migrations action pannel
 
+## OLT list page
 
-<details>
-
-<summary>The All OLT page displays a table with a list of registered OLTs in the system with the following data</summary>
-
-№ - is the serial number in the table
-
-Name - how OLT is called
-
-Hostname -IP address of the host
-
-ONU - the number of connected ONUs on the OLT
-
-Status - current OLT status
-
-Autosave - autosave (On/Off)
-
-View - button to view detailed information about the OLT by switching to the page [OLT](https://app.archbee.com/docs/TzlFsLikA7TqxqriFHwd8/kPwRlOlzYiioLTyFeHgLz)
-
-</details>
+You can access basic information about the OLT in the general sector. To explore further about any of them, you can navigate to the "[OLT detailed info](./#olt-detailed-information)" page by clicking on the arrow in the 'View' section. Also from here you are able to access the [Migrations](port-migration.md) page.
 
 ![All OLT page](../.gitbook/assets/f-JGpkb18pZOm6d2Y9WPt\_image.png)
+
+## OLT detailed information
+
+The detailed information page contains of:
+
+* Main info
+* [Quick actions panel](./#quick-actions-bar)&#x20;
+* [Slots & Ports bar](./#slots-and-ports)
+* [Tasks](./#tasks)
+* [Graph all ONU / Online ONU](./#graph-all-onu-online-onu)
+* [Graph of amount of errors by OLT in the time](./#amount-of-errors-by-olt-in-the-time-graph)
+
+{% content-ref url="add-olt.md" %}
+[add-olt.md](add-olt.md)
+{% endcontent-ref %}
+
+{% content-ref url="olt.md" %}
+[olt.md](olt.md)
+{% endcontent-ref %}
+
+{% content-ref url="port-migration.md" %}
+[port-migration.md](port-migration.md)
+{% endcontent-ref %}
