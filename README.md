@@ -18,12 +18,11 @@ Storage: 30GB
 
 ## Demo
 
-If you want to check what is EasyPon able to - just viit our demo page and try it from the web.
+To see what EasyPON is capable of, simply visit our demo page and give it a try on the web:
 
 [https://demo.easypon.in/login](https://demo.easypon.in/login)
 
-Login: demo&#x20;
-
+Login: demo \
 Password: epdemo12
 
 ## Updating EasyPon
