@@ -11,7 +11,7 @@ updatedAt: Tue Mar 07 2023 22:52:46 GMT+0000 (Coordinated Universal Time)
 
 ## OLT list page
 
-You can access basic information about the OLT in the general sector. To explore further about any of them, you can navigate to the "[OLT detailed info](./#olt-detailed-information)" page by clicking on the arrow in the 'View' section. Also from here you are able to access the [Migrations](port-migration.md) page.
+You can access basic information about the OLT in the general sector. To explore further about any of them, you can navigate to the "[OLT detailed info](./#olt-detailed-information)" page by clicking on the arrow in the 'View' section. Also from here you are able to access the [Migrations](<../Port Migration.md>) page.
 
 ![All OLT page](../.gitbook/assets/f-JGpkb18pZOm6d2Y9WPt\_image.png)
 
@@ -30,10 +30,10 @@ The detailed information page contains of:
 [add-olt.md](add-olt.md)
 {% endcontent-ref %}
 
-{% content-ref url="olt.md" %}
-[olt.md](olt.md)
+{% content-ref url="olt/" %}
+[olt](olt/)
 {% endcontent-ref %}
 
-{% content-ref url="port-migration.md" %}
-[port-migration.md](port-migration.md)
+{% content-ref url="../Port Migration.md" %}
+[Port Migration.md](<../Port Migration.md>)
 {% endcontent-ref %}

@@ -23,7 +23,7 @@ onu-profile gpon remote standart
 !
 ```
 
-Then add this preset to the [Preset list](./) in EasyPON and start to use it while registering ONU.
+Then add this preset to the [Preset list](../presets.md) in EasyPON and start to use it while registering ONU.
 
 ```
 interface  {{onu.port_interface}} 

@@ -1,10 +1,3 @@
----
-title: Group access
-slug: Im7v-group-access
-createdAt: Wed Nov 23 2022 22:25:03 GMT+0000 (Coordinated Universal Time)
-updatedAt: Fri Mar 24 2023 19:56:16 GMT+0000 (Coordinated Universal Time)
----
-
 # Group access
 
 > The Group access section may not be displayed due to the limited access permissions of your account.

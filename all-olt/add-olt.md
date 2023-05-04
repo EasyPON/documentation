@@ -46,7 +46,7 @@ You can also Check the connection with the existing OLT on the OLT page or befor
 
 ## Migrations
 
-{% content-ref url="port-migration.md" %}
-[port-migration.md](port-migration.md)
+{% content-ref url="../Port Migration.md" %}
+[Port Migration.md](<../Port Migration.md>)
 {% endcontent-ref %}
 

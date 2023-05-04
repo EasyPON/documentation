@@ -23,4 +23,4 @@ It is possible to go to the search object by a link in View. The Mac address whe
 
 ## Last Found ONU
 
-It is also possible to use the Last Found ONU list in the [Dashboard ](https://app.archbee.com/docs/lY30u8w4Ej45vCHqsmBtW/ChIjuNrVPblWxnXzAXD6Q)section to keep track of all ONUs that have been searched for in the EasyPON system for the last 24 hours.
+It is also possible to use the Last Found ONU list in the [Find ONU](onu-search.md) section to keep track of all ONUs that have been searched for in the EasyPON system for the last 24 hours.

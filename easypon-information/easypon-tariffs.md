@@ -1,10 +1,3 @@
----
-title: EasyPON Tariffs
-slug: 9vKx-easypon-tariffs
-createdAt: Fri Mar 24 2023 19:40:02 GMT+0000 (Coordinated Universal Time)
-updatedAt: Fri Mar 24 2023 19:58:42 GMT+0000 (Coordinated Universal Time)
----
-
 # EasyPON pricing
 
 A wide and flexible range of tariff plans is available for EasyPON system customers:
