@@ -1,6 +1,8 @@
 # Table of contents
 
 * [1⃣ How to install EasyPON](README.md)
+  * [Guide for Debian 11](how-to-install-easypon/guide-for-debian-11.md)
+  * [Docker compose installation guide](how-to-install-easypon/docker-compose-installation-guide.md)
 * [2⃣ Access & Management](management-and-access/README.md)
   * [Login page](management-and-access/login-page.md)
   * [Account](management-and-access/readme.md)
