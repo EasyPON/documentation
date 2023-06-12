@@ -9,74 +9,193 @@ updatedAt: Tue Mar 07 2023 23:08:17 GMT+0000 (Coordinated Universal Time)
 
 The ONU page displays data on the selected ONU and consists of several sections:
 
-* Quick actions panel - quick commands are available on the quick actions panel that can be executed on the page or from the ONU
-* Information - general information about ONU
-* Stats - Display of ONU statistical data
-* ONU Ports - ONU display with available ports and their status
-* ONU on the map - functional of pointing ONU on the map and changing it
-* Ethernet ports - display of ONU Ethernet ports
-* Charts - graphs with optical signal readings are displayed
+[Quick actions panel](onu.md#quick-actions-panel) - quick commands are available on the quick actions panel that can be executed on the page or from the ONU\
+[Information](onu.md#information) - general information about ONU\
+[Stats](onu.md#stats) - Display of ONU statistical data\
+[ONU Ports](onu.md#onu-ports) - ONU display with available ports and their status\
+[ONU location](onu.md#onu-location) - functional of pointing ONU on the map and changing it\
+[Ethernet ports](onu.md#ethernet-ports) - display of ONU Ethernet ports\
+[Charts](onu.md#charts) - graphs with optical signal readings are displayed\
+[Graph Tx/Rx](onu.md#graph-tx-rx) - the graph represents the readings of the optical Tx/Rx signal\
+[Graph attenuations](onu.md#graph-attenuations) - the graph represents the readings of the attenuation signals on OLT and ONU\
 
-The header additionally displays information about the ONU's MAC/SN. ONU name and description and OLT name with ONU position on OLT in "Shelf/Slot/Port:Number" format.
 
-* Shelf - ONU position
-* Slot - slot number
-* Port - ONU port number
-* Number – ONU number on the OLT port
+<details>
+
+<summary>The header additionally displays information about the ONU's MAC/SN. ONU name and description and OLT name with ONU position on OLT in "Shelf/Slot/Port:Number" format.</summary>
+
+* **Shelf** - ONU position
+
+<!---->
+
+* **Slot** - slot number
+
+<!---->
+
+* **Port** - ONU port number
+
+<!---->
+
+* **Number** – ONU number on the OLT port
+
+</details>
 
 ![ONU page](../.gitbook/assets/eGU5GENHX30KaO9WlwDXj\_image.png)
 
 ## Quick Actions Panel
 
-On the quick actions panel, quick commands are available that can be executed on the page or from the ONU:
+<details>
 
-* Back - switch to the ONU list
-* Show configs - display in the ONU configuration console
-* Change preset - change the ONU configuration
-* Reboot - ONU reboot
-* Synchronize - ONU synchronization with OLT
-* Delete - delete the ONU from the OLT
+<summary>On the quick actions panel, quick commands are available that can be executed on the page or from the ONU:</summary>
 
-![Reboot ONU confirmation dialog](../.gitbook/assets/cb45fpvcPT-LOMVW1uqIR\_image.png)
+* **Back** - switch to the ONU list
+
+<!---->
+
+* **Show configs** - display in the ONU configuration console
+
+<!---->
+
+* **Change preset** - change the ONU configuration
+
+<!---->
+
+* **Custom Action** - change custom ONU configuration
+
+<!---->
+
+* **Event logs** - redirect us to [Event logs](https://ep.stg.disoft.dev/log?base\_content\_type=21\&base\_object\_id=5193\&itemTitle=1%2F2%2F1%3A1\&page=1) page
+
+</details>
+
+<figure><img src="../.gitbook/assets/o1.png" alt=""><figcaption><p>Quick Actions Panel buttons</p></figcaption></figure>
 
 ## Information
 
-General information about ONU.
+<details>
 
-* ONU name - ONU name provided during registration
-* ID - ONU identifier
-* Firmware version - firmware version
-* MAC/SN - mac address or serial number of the ONU
-* OLT - the name of the OLT on which ONU is registered
-* Configured type - ONU configuration type
-* Real Type - ONU type
-* Date created - ONU registration date
-* Description - a detailed description of the ONU
-* Last synchronize client mac - a table of client MAC addresses assigned to the ONU
+<summary>General information about ONU:</summary>
+
+* **ONU name** - ONU name provided during registration
+
+<!---->
+
+* **ID** - ONU identifier
+
+<!---->
+
+* **Firmware version** - firmware version
+
+<!---->
+
+* **MAC/SN** - mac address or serial number of the ONU
+
+<!---->
+
+* **OLT** - the name of the OLT on which ONU is registered
+
+<!---->
+
+* **Configured type** - ONU configuration type
+
+<!---->
+
+* **Real Type** - ONU type
+
+<!---->
+
+* **Date created** - ONU registration date
+
+<!---->
+
+* **Description** - a detailed description of the ONU
+
+<!---->
+
+* **Last synchronize client mac** - a table of client MAC addresses assigned to the ONU
+
+</details>
+
+<figure><img src="../.gitbook/assets/o2.png" alt=""><figcaption></figcaption></figure>
 
 ## Stats
 
 Displaying ONU statistical data in sections:
 
-* Status - ONU status
-* Uptime - a time stamp that shows how many ONUs are online
-* Date modified - a time marker that shows how much time has passed since the last modification of the ONU
-* Rx/Tx indicators on OLT, ONU, and signal attenuation (Attenuation)
+* **Status** - ONU status
+* **Uptime** - a time stamp that shows how many ONUs are online
+* **Date modified** - a time marker that shows how much time has passed since the last modification of the ONU
+* **Rx/Tx** indicators on OLT, ONU, and signal attenuation (Attenuation)
+
+<figure><img src="../.gitbook/assets/o3.png" alt=""><figcaption></figcaption></figure>
+
+Also there are 3 buttons to interact with ONU:
+
+* **Reboot** - reboot selected ONU
+* **Synchronize** - after successful synchronization, all ONU data should be up to date
+* **Delete** - delete the ONU from system
 
 ## ONU Ports
 
 ONU display with available ports and their status. The connected port type and its operational status.
 
-* Port type - port type (Auto, 10m/half(full), 100m/half(full), 1000m/full)
-* Port status - administrative port status (Auto, Down)
+* **Port type** - port type (Auto, 10m/half(full), 100m/half(full), 1000m/full)
+* **Port status** - administrative port status (Auto, Down)
+
+<figure><img src="../.gitbook/assets/o4.png" alt=""><figcaption></figcaption></figure>
+
+## ONU location
+
+Shows ONU location on the map. If we move the mouse cursor over the label of ONU displays additional information, such as: ONU's amount, address, status and commentary.&#x20;
+
+<figure><img src="../.gitbook/assets/o5 (1).png" alt=""><figcaption></figcaption></figure>
+
+Also If the map extended there are 2 buttons:&#x20;
+
+* **Create building** - creating new ONU location&#x20;
+*   **Edit location** - edit an existing ONU  location
+
+
+
+<div>
+
+<figure><img src="../.gitbook/assets/create.png" alt="" width="304"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ed.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+##
 
 ## Ethernet Ports
 
-* Admin status - the administrative status of the Ethernet port (can be Auto or Down)
-* Oper. status - operational status
-* Vlans - available Vlans ports
-* Type - port type
-* Speed - port speed
+<details>
+
+<summary>Ethernet Ports consist of table with futher fields:</summary>
+
+* **Admin status** - the administrative status of the Ethernet port (can be Auto or Down)
+
+<!---->
+
+* **Oper. status** - operational status
+
+<!---->
+
+* **Vlans** - available Vlans ports
+
+<!---->
+
+* **Type** - port type
+
+<!---->
+
+* **Speed** - port speed
+
+</details>
+
+<figure><img src="../.gitbook/assets/o6.png" alt=""><figcaption></figcaption></figure>
 
 ## Charts
 
