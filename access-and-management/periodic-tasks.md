@@ -7,8 +7,6 @@ updatedAt: Fri Mar 24 2023 19:57:20 GMT+0000 (Coordinated Universal Time)
 
 # Periodic Tasks
 
-Сказать еще дополнительно про таски на дашборде и олте
-
 List of periodic tasks created in the system in the form of a table with fields:
 
 * Name - the title of the periodic task

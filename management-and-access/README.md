@@ -1,7 +1,3 @@
----
-description: тестова головна сторінка
----
-
 # 2⃣ Access & Management
 
 ## Log in
