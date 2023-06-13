@@ -1,16 +1,12 @@
 # 1⃣ How to install EasyPON
 
-<details>
-
-<summary>OS requirements:</summary>
+## OS requirements
 
 OS: Debian 11
 
 RAM: 4GB
 
 Storage: 30GB
-
-</details>
 
 {% content-ref url="how-to-install-easypon/guide-for-debian-11.md" %}
 [guide-for-debian-11.md](how-to-install-easypon/guide-for-debian-11.md)
