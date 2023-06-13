@@ -12,9 +12,9 @@ Storage: 30GB
 
 </details>
 
-### [EasyPON on Debian 11 guide](./#easypon-on-debian-11-guide)
+### [EasyPON on Debian 11 guide](how-to-install-easypon/guide-for-debian-11.md)
 
-### [EasyPON on Docker compose](./#easypon-on-docker-compose)
+### [EasyPON on Docker compose](how-to-install-easypon/docker-compose-installation-guide.md)
 
 ## Demo
 
