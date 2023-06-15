@@ -29,8 +29,4 @@ Password: epdemo12
 
 To update EasyPon to the latest version, run the following command:
 
-> bash <(curl -k
->
-> [https://cabinet.easypon.in/install\_ep.sh](https://cabinet.easypon.in/install\_ep.sh)
->
-> ) upgrade
+> bash <(curl -k [https://cabinet.easypon.in/install\_ep.sh](https://cabinet.easypon.in/install\_ep.sh)) upgrade
