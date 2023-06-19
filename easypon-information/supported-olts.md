@@ -13,5 +13,6 @@ description: >-
 * BDCOM P3310B
 * BDCOM P3310C
 * ZTE C320v2
+* Huawei MA5608T
 
-Huawei is on it's way for our customers.
+Other Huawei vendors are on it's way for our customers.

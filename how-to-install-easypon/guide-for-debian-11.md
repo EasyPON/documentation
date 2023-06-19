@@ -8,9 +8,12 @@
 {% code fullWidth="false" %}
 ```
 apt update && apt install curl -y
-bash <(curl -k https://cabinet.easypon.in/install_ep.sh) install
 ```
 {% endcode %}
+
+```
+bash <(curl -k https://cabinet.easypon.in/install_ep.sh) install
+```
 
 The installation process will prompt you for various configuration options, such as your domain name and login password for the EasyPon cabinet. App will be installed in \`/usr/apps/easypon\`
 
