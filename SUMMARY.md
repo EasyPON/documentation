@@ -36,4 +36,5 @@
   * [Supported hardware](easypon-information/supported-olts.md)
   * [Card functions](easypon-information/card\_functions.md)
   * [Olt functions](easypon-information/olt\_functions.md)
+  * [Releases](easypon-information/Releases.md)
 * [❔ FAQ](faq.md)
