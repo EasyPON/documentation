@@ -262,6 +262,7 @@
 #### Changes:
 * Update release-it package (da53d73)
 * Add artifacts (7b8e461)
+* test
 ---
 ## v2.0.1 - 2023-03-29
 #### Changes:
