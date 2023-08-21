@@ -272,7 +272,6 @@
 * fix outdated checking (750abc7)
 * add latest ep release endpoint (f3eab1f)
 * decompress data in license check request (5af9d9b)
-* Merge remote-tracking branch 'origin/stg' into stg (0a9a612)
 ---
 ## v2.0.0 - 2023-03-29
 
