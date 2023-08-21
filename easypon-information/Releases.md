@@ -265,6 +265,7 @@
 ---
 ## v2.0.1 - 2023-03-29
 #### Changes:
+* Merge branch 'EP-000/release_changelog_and_decompess_response_data' into 'stg' (ea4a79d)
 * Done with cicd (e6735b6)
 * Fix module (764a6ea)
 * remove compressed data (f41cb55)
