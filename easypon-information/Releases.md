@@ -3,7 +3,6 @@
 ## v2.3.10 - 2023-08-07
 #### Changes:
 * remove author from config creation when using jwt stateless authentication (ee53662)
-* Stg (8576680)
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
