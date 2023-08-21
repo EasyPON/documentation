@@ -262,7 +262,6 @@
 #### Changes:
 * Update release-it package (da53d73)
 * Add artifacts (7b8e461)
-* test
 ---
 ## v2.0.1 - 2023-03-29
 #### Changes:
@@ -272,6 +271,7 @@
 * fix outdated checking (750abc7)
 * add latest ep release endpoint (f3eab1f)
 * decompress data in license check request (5af9d9b)
+* test
 ---
 ## v2.0.0 - 2023-03-29
 
