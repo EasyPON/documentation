@@ -15,7 +15,6 @@
 * set timeouts for cache keys (2f8247e)
 * move documentation files to the correct folder (05fd9d0)
 * fix get onu configs on bdcom olts (467deea)
-* Merge branch 'stg' into 'master' (ccc46c9)
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
