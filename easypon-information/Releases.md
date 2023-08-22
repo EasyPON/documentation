@@ -3,6 +3,7 @@
 ## v2.3.10 - 2023-08-07
 #### Changes:
 * remove author from config creation when using jwt stateless authentication (ee53662)
+* Merge branch 'stg' into 'master' (8ab2622)
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
@@ -274,7 +275,6 @@
 * test
 ---
 ## v2.0.0 - 2023-03-29
-#### Changes:
-* 123123
+
 ---
 ## v1.0.0 - 2023-03-28
