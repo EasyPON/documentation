@@ -37,8 +37,7 @@
 
 ---
 ## v2.2.1 - 2023-04-27
-#### Changes:
-* Fix update onu on ZTE GPON (0b33d05)
+
 ---
 ## v2.2.0 - 2023-04-27
 #### Changes:
