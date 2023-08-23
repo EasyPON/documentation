@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* check client exists with a billing key (2fb47ef)
 * limited max retries and added timeout (c1dc2f8)
 * limited max retries and added timeout (3747b37)
 * method for send and receive commands with retry (d0dd251)
