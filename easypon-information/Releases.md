@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Add find by hexed serial number onu (25aa30b)
 * Fix onu update tasks (e6f7c46)
 * Skipped slots without qinq (bb6b87d)
 * Fix onu update tasks (d787667)
