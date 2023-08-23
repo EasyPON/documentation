@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Added ability for users to save and retrieve filter parameters. (be73aef)
 * Added installation instructions for EasyPON. (496bf5e)
 * Improve ONU logging to include information on retrieval and applying configuration results: success and failure. (bcefcc4)
 * Resolve EP-899 "/merge migrations" (7142e3b)
