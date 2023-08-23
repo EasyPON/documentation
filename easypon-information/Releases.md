@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Rename some settings (68bbc2e)
 * Fix configuration with live settings (07475ea)
 * Done with config in web (f9c95fc)
 * Done with adding building to onu (37b964a)
