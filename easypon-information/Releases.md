@@ -11,7 +11,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* new status field and filter (e9b39d9)
 * added building status choices (e24ba46)
 * remove graypy handler for client installation (627fcb4)
 * add graylog integration (e9fa8ba)
