@@ -12,7 +12,6 @@
 ## v2.3.7 - 2023-07-12
 #### Changes:
 * remove graypy handler for client installation (627fcb4)
-* add graylog integration (e9fa8ba)
 * add names for loggers (f36c7ea)
 * add names for loggers (e482a26)
 * add filters by slots and ports to the building map (45993cf)
