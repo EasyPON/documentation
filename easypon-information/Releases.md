@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* change invalid login description message (3747b18)
 * logout user after deactivating (4eca60d)
 ---
 ## v2.3.0 - 2023-05-18
