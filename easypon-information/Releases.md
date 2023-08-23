@@ -26,7 +26,6 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* add api request type and address to serializer (0d85dbc)
 * collect request ip address (d8450d5)
 * remove reqeust from args (487a938)
 * set author null (bab0927)
