@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Test clear cache endpoint (1dfa70d)
 * Removed the internal periodic tasks from the request result, so now users will only see the main tasks associated with them. (8dedbd9)
 * Added ability for users to save and retrieve filter parameters. (be73aef)
 * Added installation instructions for EasyPON. (496bf5e)
