@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Fix problem on c320 with "No such instance" on get onu status (60459eb)
 * Changed method for retrieving olt timezone to improve time calculation. (576fef3)
 * Fixed error when trying to update periodic tasks. (5b5866e)
 * Fixed error on retrieving shel information on ZTE C220 olts. (fc40d8a)
