@@ -5,7 +5,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Resolve EP-1184 "/onu autoregistration" (e3b86f2)
 * do not count deleted onus for a building map (4c73cfd)
 * Resolve EP-000 "/added endpoint for external api" (42f26ec)
 * set timeouts for cache keys (2f8247e)
