@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* try to fix redis failures (0bc7bac)
 * added redoc openapi schema (559a073)
 * added redoc openapi schema (446c546)
 * set port status as unknown (0be0975)
