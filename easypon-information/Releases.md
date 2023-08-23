@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Fix install issue with DB migration. (03db83c)
 * Fix problem with infinity get all onu on some ZTE (6c6e247)
 * Fix problem on c320 with "No such instance" on get onu status (60459eb)
 * Changed method for retrieving olt timezone to improve time calculation. (576fef3)
