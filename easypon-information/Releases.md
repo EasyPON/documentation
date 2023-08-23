@@ -11,7 +11,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* refactor (d3c300e)
 * remove inheritance (81946b4)
 * remove old get status serializer method (d1eda61)
 * new status field and filter (e9b39d9)
