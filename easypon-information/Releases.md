@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Changed method for retrieving olt timezone to improve time calculation. (576fef3)
 * Fixed error when trying to update periodic tasks. (5b5866e)
 * Fixed error on retrieving shel information on ZTE C220 olts. (fc40d8a)
 * Increased description information about config onu log entry. (62134b9)
