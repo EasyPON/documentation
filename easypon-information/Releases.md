@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Fix reboot on huawei (4a368e4)
 * Fix full update onu on huawei (cab7422)
 * Add support of Huawei MA5608T. (9540005)
 * make google keys not required (022017f)
