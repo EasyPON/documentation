@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* Add celery integration to sentry sdk (a9cf1e3)
 * Change crontab of userside sync (507c2a2)
 * Resolve EP-1059 "/add permission to config endpoint" (03db858)
 * fix retrieving qinq port (97ac61d)
