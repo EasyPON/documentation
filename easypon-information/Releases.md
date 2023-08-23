@@ -11,7 +11,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* add names for loggers (e482a26)
 * add filters by slots and ports to the building map (45993cf)
 * forbid celery remote control (af06d42)
 * reduce db queries (2aa3264)
