@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* Save and manage filters the user uses to filter some data in different modules. (47a6c5d)
 * Resolve EP-1025 "/transfer onu location and notice after dublicate deletion" (6df012e)
 * Fix switch urls (46d71ca)
 * Add switch topology graph (9d9fc15)
