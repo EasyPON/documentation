@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* add onu magic and olt type in external onu response (eda168d)
 * send domain name in header on check license requests (d67d098)
 * Resolve EP-000 "/add onu list to building" (90f63d2)
 * Resolve EP-1057 "/userside integration settings" (a8250c8)
