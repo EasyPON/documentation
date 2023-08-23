@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Retrieve Google client id for oauth2 authentication. (79ebeb7)
 * Add redis to ci/cd (dffe609)
 * Add redis to ci/cd (103f6e5)
 * Add redis to ci/cd (1b444e8)
