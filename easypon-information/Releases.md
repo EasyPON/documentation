@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Fix onu update tasks (d787667)
 * Fix update onu ethernet vlans tasks. (c85d573)
 * Formatted custom action result response. (11990b6)
 * Added ordering to for onu port migration and file report tables. (2a19963)
