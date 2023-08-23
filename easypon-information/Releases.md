@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Added installation instructions for EasyPON. (496bf5e)
 * Improve ONU logging to include information on retrieval and applying configuration results: success and failure. (bcefcc4)
 * Resolve EP-899 "/merge migrations" (7142e3b)
 * Implement access control for dedicated source with new 'Can view onu duplicates' permission (f5ae1d0)
