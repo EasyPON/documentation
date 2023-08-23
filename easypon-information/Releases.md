@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Add integration for userside, now you can import geolocation onu (a4e6f7e)
 * Update disprofile module (b882b4b)
 * Add near onu geolocation (920ac3c)
 * Fix registering onu on deleted onu. (d0642c3)
