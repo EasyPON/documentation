@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Resolve EP-899 "/merge migrations" (7142e3b)
 * Implement access control for dedicated source with new 'Can view onu duplicates' permission (f5ae1d0)
 * add celery-expoter binary adn systemd service (49e2c1a)
 * Simplify the OLT registration process with the minimal required info: IP, login, pass, and olt type (30c8973)
