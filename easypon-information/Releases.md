@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* fix BDCOM olt snmp protocol connection check and adding new one (78ac96a)
 * forbid celery remote control (ea4013a)
 * try to fix redis failures (0bc7bac)
 * added redoc openapi schema (559a073)
