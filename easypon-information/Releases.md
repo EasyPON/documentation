@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Done with export documentation to gitbook (d5d41ef)
 * Done with export documentation to gitbook (e50a8e1)
 * Done with export documentation to gitbook (ff09f6d)
 * Done with export documentation to gitbook (a31d634)
