@@ -1,57 +1,127 @@
-# Changelog
+# Releases
 
 ## v2.3.10 - 2023-08-07
 
----
+***
+
 ## v2.3.9 - 2023-07-24
 
----
+***
+
 ## v2.3.8 - 2023-07-13
 
----
+***
+
 ## v2.3.7 - 2023-07-12
 
----
+***
+
 ## v2.3.6 - 2023-07-04
 
----
+***
+
 ## v2.3.5 - 2023-06-21
 
----
+***
+
 ## v2.3.4 - 2023-06-20
 
----
+***
+
 ## v2.3.3 - 2023-06-20
 
----
+***
+
 ## v2.3.2 - 2023-06-16
 
----
+***
+
 ## v2.3.1 - 2023-06-13
 
----
+***
+
 ## v2.3.0 - 2023-05-18
 
----
+#### Changes:
+
+* Rename some settings (68bbc2e)
+* Fix configuration with live settings (07475ea)
+* Done with config in web (f9c95fc)
+* Done with adding building to onu (37b964a)
+* Add views/serializers for buildings and clients (af2391f)
+* Done with buildings and clients (b768c8e)
+* Add migration (4a1dede)
+* Add integration for userside, now you can import geolocation onu (a4e6f7e)
+* Update disprofile module (b882b4b)
+* Add near onu geolocation (920ac3c)
+* Fix registering onu on deleted onu. (d0642c3)
+* Add detail task information about initialise OLT. (34f1690)
+* Fix onu config type creating on Huawei olt. (607e04d)
+* Remove damaged reports after unsuccessful file downloading. (085058a)
+* Fix onu task status changes. (b5c685d)
+* Return descriptive message when try to reboot onu and get the connection error. (78c153b)
+* Add release to sentry tracking (250da80)
+* Fix clients mac on huawei (9c851d5)
+* Add find by hexed serial number onu (25aa30b)
+* Fix onu update tasks (e6f7c46)
+* Skipped slots without qinq (bb6b87d)
+* Fix onu update tasks (d787667)
+* Fix update onu ethernet vlans tasks. (c85d573)
+* Formatted custom action result response. (11990b6)
+* Added ordering to for onu port migration and file report tables. (2a19963)
+* Clear not existing files and delete them from the filesystem. (f7f0e37)
+* Improved onu filtering in logs. (2420155)
+* Log can handle the entire onu history. After onu deletion, it does not remove from db. (85dcc5a)
+* Add version checker for huawei (56a90d0)
+* Change commands for show config in huawei (a3d353a)
+* Fix reboot on huawei (4a368e4)
+* Fix full update onu on huawei (cab7422)
+* Add support of Huawei MA5608T. (9540005)
+* make google keys not required (022017f)
+* It was improved receiving latest release information. Now get the version that matches client requirements. (267121d)
+* Show notification for admin users if a new version of EeasyPON was released. (a1e4374)
+
+***
+
 ## v2.2.2 - 2023-05-01
 
----
+#### Changes:
+
+* Created permission for custom onu action. (4a8fded)
+
+***
+
 ## v2.2.1 - 2023-04-27
 
----
-## v2.2.0 - 2023-04-27
 #### Changes:
+
+* Fix update onu on ZTE GPON (0b33d05)
+
+***
+
+## v2.2.0 - 2023-04-27
+
+#### Changes:
+
 * Release v2.1.1 (982ac49)
 * Update .gitlab-ci.yml file (a2e4a18)
 * Fix problem with compiled version (cb893d1)
----
+
+***
+
 ## v2.1.1 - 2023-04-27
+
 #### Changes:
+
 * Update .gitlab-ci.yml file (a2e4a18)
 * Fix problem with compiled version (cb893d1)
----
+
+***
+
 ## v2.1.0 - 2023-04-27
+
 #### Changes:
+
 * Fix install issue with DB migration. (03db83c)
 * Fix problem with infinity get all onu on some ZTE (6c6e247)
 * Fix problem on c320 with "No such instance" on get onu status (60459eb)
@@ -65,7 +135,8 @@
 * Remove logging every view action on the switch and switch port. (7bb4929)
 * New macros for retrieving onu port number (8bad61b)
 * A more informative description of the Excel exported file. (f348f53)
-* Added to background task that scans all "onus" on the olt more detailed information about each record.<br> Implemented a counter to keep track of the total number of ONUs found when scanning them on OLT. (3792717)
+* Added to background task that scans all "onus" on the olt more detailed information about each record.\
+  Implemented a counter to keep track of the total number of ONUs found when scanning them on OLT. (3792717)
 * Updated install instructions (25e7fda)
 * Retrieve Google client id for oauth2 authentication. (79ebeb7)
 * Add redis to ci/cd (dffe609)
@@ -101,17 +172,26 @@
 * In the onu firmware variety list, all rows are not grouped by olt. (6319bbb)
 * Resolve EP-847 "/change start time for tasks" (4ca46db)
 * edit all permissions name (250d4db)
----
+
+***
+
 ## v2.0.3 - 2023-04-03
 
----
+***
+
 ## v2.0.2 - 2023-03-29
+
 #### Changes:
+
 * Update release-it package (da53d73)
 * Add artifacts (7b8e461)
----
+
+***
+
 ## v2.0.1 - 2023-03-29
+
 #### Changes:
+
 * Done with cicd (e6735b6)
 * Fix module (764a6ea)
 * remove compressed data (f41cb55)
@@ -119,8 +199,11 @@
 * add latest ep release endpoint (f3eab1f)
 * decompress data in license check request (5af9d9b)
 * test
----
+
+***
+
 ## v2.0.0 - 2023-03-29
 
----
+***
+
 ## v1.0.0 - 2023-03-28
