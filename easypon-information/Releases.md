@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* add celery-expoter binary adn systemd service (49e2c1a)
 * Simplify the OLT registration process with the minimal required info: IP, login, pass, and olt type (30c8973)
 * Resolve EP-907 "/add offline time to duplicates onus on detail onu edpoint" (eb4648b)
 * Implemented new feature for detail page that allows users to view a list of duplicated ONUs, if they exist. (6f27c17)
