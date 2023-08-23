@@ -26,7 +26,6 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* create user for external api requests if auth is stateless (dab3083)
 * shift crontab (40d5dbb)
 * shift crontab (cb214f4)
 * set default values to progress counter if key not exists (d8382bd)
