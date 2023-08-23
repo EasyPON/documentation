@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Resolve EP-847 "/change start time for tasks" (4ca46db)
 * edit all permissions name (250d4db)
 ---
 ## v2.0.3 - 2023-04-03
