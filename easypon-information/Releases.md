@@ -11,7 +11,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* more info about author (c62a7d5)
 * use update methods to change status (33c9bd4)
 * switch on/off admin status on port (0a3eb17)
 ---
