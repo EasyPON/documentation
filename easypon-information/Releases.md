@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Increased description information about config onu log entry. (62134b9)
 * Fix migrate onu on another port (19bbfe2)
 * Disable prefetch related in olt viewset (b243cad)
 * Show additional info about the object in the main user log table. (9091164)
