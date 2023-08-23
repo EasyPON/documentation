@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* add created permission to the admin group member as user permission (88a236b)
 * assign new permissions to the admin group (516a7c5)
 * check client exists with a billing key (2fb47ef)
 * limited max retries and added timeout (c1dc2f8)
