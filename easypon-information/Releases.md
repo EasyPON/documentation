@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* added redoc openapi schema (446c546)
 * set port status as unknown (0be0975)
 * raise error when port oper status is unknown (5c7d9fd)
 * check connection with user credentials on retry (1107142)
