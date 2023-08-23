@@ -7,8 +7,7 @@
 
 ---
 ## v2.3.8 - 2023-07-13
-#### Changes:
-* Empty-Commit (cff5d0f)
+
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
