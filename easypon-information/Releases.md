@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* description for template module (06aab06)
 * description for onu module (8b5016b)
 * description for olt (6743d77)
 * description for core module (3436382)
