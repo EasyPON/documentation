@@ -5,7 +5,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Resolve EP-000 "/added endpoint for external api" (42f26ec)
 * set timeouts for cache keys (2f8247e)
 * move documentation files to the correct folder (05fd9d0)
 * fix get onu configs on bdcom olts (467deea)
