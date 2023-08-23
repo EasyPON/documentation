@@ -47,7 +47,6 @@
 ---
 ## v2.1.1 - 2023-04-27
 #### Changes:
-* Update .gitlab-ci.yml file (a2e4a18)
 * Fix problem with compiled version (cb893d1)
 ---
 ## v2.1.0 - 2023-04-27
