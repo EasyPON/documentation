@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* validate onu instances with serializer (b66d621)
 * fix settings for userside integration (3933b50)
 * create signal kwargs on class initialization (a524912)
 * fix retrieving crontab for tasks (aa4d4ea)
