@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Disable prefetch related in olt viewset (b243cad)
 * Show additional info about the object in the main user log table. (9091164)
 * Remove logging every view action on the switch and switch port. (7bb4929)
 * New macros for retrieving onu port number (8bad61b)
