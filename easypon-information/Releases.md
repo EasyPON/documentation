@@ -5,7 +5,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* fix retry attempts to send command on the onu registration (f710735)
 * Resolve EP-1192 "/change balance info in license to user address" (999df88)
 * fix onu auto registration on 220 zte olts (c18a636)
 * Resolve EP-1184 "/onu autoregistration" (e3b86f2)
