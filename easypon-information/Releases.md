@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Add redis to ci/cd (103f6e5)
 * Add redis to ci/cd (1b444e8)
 * Add redis to ci/cd (f744867)
 * Done with export documentation to gitbook (d9107f0)
