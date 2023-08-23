@@ -26,7 +26,6 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* update main onu info on sync and refresh from db (55888cb)
 * remove old method (7c097cb)
 * get first match onu when filter without id (6a973b3)
 * add api request type and address to serializer (0d85dbc)
