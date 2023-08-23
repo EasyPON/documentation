@@ -5,7 +5,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* move documentation files to the correct folder (05fd9d0)
 * fix get onu configs on bdcom olts (467deea)
 ---
 ## v2.3.8 - 2023-07-13
