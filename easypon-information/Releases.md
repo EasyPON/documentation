@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* update description (ce9aa08)
 * added changed data to the title of log entry (3294376)
 * use suppress context manager (dca7401)
 * fix get onu mac or serial from userside user info (3d28ec1)
