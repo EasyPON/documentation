@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Done with export documentation to gitbook (a31d634)
 * Done with export documentation to gitbook (9ba1d43)
 * Done with export documentation to gitbook (830ffcd)
 * Add override xclsx name for olt classes (3317a2c)
