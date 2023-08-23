@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Fix onu task status changes. (b5c685d)
 * Return descriptive message when try to reboot onu and get the connection error. (78c153b)
 * Add release to sentry tracking (250da80)
 * Fix clients mac on huawei (9c851d5)
