@@ -34,8 +34,7 @@
 
 ---
 ## v2.2.2 - 2023-05-01
-#### Changes:
-* Created permission for custom onu action. (4a8fded)
+
 ---
 ## v2.2.1 - 2023-04-27
 #### Changes:
