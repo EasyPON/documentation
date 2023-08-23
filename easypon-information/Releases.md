@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* fix mac assigment in userside integration (537c7be)
 * update description (ce9aa08)
 * added changed data to the title of log entry (3294376)
 * use suppress context manager (dca7401)
