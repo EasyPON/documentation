@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* limited max retries and added timeout (c1dc2f8)
 * limited max retries and added timeout (3747b37)
 * method for send and receive commands with retry (d0dd251)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
