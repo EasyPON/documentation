@@ -31,8 +31,7 @@
 
 ---
 ## v2.3.0 - 2023-05-18
-#### Changes:
-* Show notification for admin users if a new version of EeasyPON was released. (a1e4374)
+
 ---
 ## v2.2.2 - 2023-05-01
 #### Changes:
