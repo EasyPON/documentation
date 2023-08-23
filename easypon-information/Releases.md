@@ -46,8 +46,7 @@
 * Fix problem with compiled version (cb893d1)
 ---
 ## v2.1.1 - 2023-04-27
-#### Changes:
-* Fix problem with compiled version (cb893d1)
+
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
