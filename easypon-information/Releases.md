@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* created filters and split serializers (69f0331)
 * add pagination to building map (214444a)
 * Resolve EP-000 "/return all buildings on map" (70909ef)
 * add onu magic and olt type in external onu response (eda168d)
