@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* create signal kwargs on class initialization (a524912)
 * fix retrieving crontab for tasks (aa4d4ea)
 * fix retrieving crontab for tasks (b1da729)
 * add client to admin site (5dd062b)
