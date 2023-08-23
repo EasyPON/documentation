@@ -56,7 +56,6 @@
 ---
 ## v2.0.1 - 2023-03-29
 #### Changes:
-* Done with cicd (e6735b6)
 * Fix module (764a6ea)
 * remove compressed data (f41cb55)
 * fix outdated checking (750abc7)
