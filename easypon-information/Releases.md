@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* fix retrieving crontab for tasks (aa4d4ea)
 * fix retrieving crontab for tasks (b1da729)
 * add client to admin site (5dd062b)
 * fix group creation when not exists (a221259)
