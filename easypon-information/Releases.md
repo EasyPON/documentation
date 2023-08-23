@@ -4,8 +4,7 @@
 
 ---
 ## v2.3.9 - 2023-07-24
-#### Changes:
-* fix get onu configs on bdcom olts (467deea)
+
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
