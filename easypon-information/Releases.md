@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Fix full update onu on huawei (cab7422)
 * Add support of Huawei MA5608T. (9540005)
 * make google keys not required (022017f)
 * It was improved receiving latest release information. Now get the version that matches client requirements. (267121d)
