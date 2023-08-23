@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Remove logging every view action on the switch and switch port. (7bb4929)
 * New macros for retrieving onu port number (8bad61b)
 * A more informative description of the Excel exported file. (f348f53)
 * Added to background task that scans all "onus" on the olt more detailed information about each record.<br> Implemented a counter to keep track of the total number of ONUs found when scanning them on OLT. (3792717)
