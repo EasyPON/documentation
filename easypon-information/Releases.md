@@ -17,7 +17,6 @@
 ---
 ## v2.3.5 - 2023-06-21
 #### Changes:
-* generate title for log entry (f00af8e)
 * trim to long title (772d8d8)
 * cut generated title and mask password (a8c9470)
 * fix registering onu when number on port is not free (4a4c2de)
