@@ -26,7 +26,6 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* remove reqeust from args (487a938)
 * set author null (bab0927)
 * create user for external api requests if auth is stateless (dab3083)
 * shift crontab (40d5dbb)
