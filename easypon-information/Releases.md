@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* make google keys not required (022017f)
 * It was improved receiving latest release information. Now get the version that matches client requirements. (267121d)
 * Show notification for admin users if a new version of EeasyPON was released. (a1e4374)
 ---
