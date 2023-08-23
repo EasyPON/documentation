@@ -13,8 +13,7 @@
 
 ---
 ## v2.3.6 - 2023-07-04
-#### Changes:
-* Resolve EP-1129 "/enabale us sync and google auth flag" (d0b2269)
+
 ---
 ## v2.3.5 - 2023-06-21
 #### Changes:
