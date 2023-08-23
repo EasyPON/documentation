@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* added ordering by title (6e7175e)
 * replaced paginator with increased page size (48547d8)
 * validate onu instances with serializer (b66d621)
 * fix settings for userside integration (3933b50)
