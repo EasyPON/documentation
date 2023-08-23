@@ -48,7 +48,6 @@
 ## v2.1.0 - 2023-04-27
 #### Changes:
 * Streamlined project language support by keeping only English descriptions. (e81eaa2)
-* Implemented new feature: Ordering filter now available for all tables. (e665ddd)
 * In the onu firmware variety list, all rows are not grouped by olt. (6319bbb)
 * Resolve EP-847 "/change start time for tasks" (4ca46db)
 * edit all permissions name (250d4db)
