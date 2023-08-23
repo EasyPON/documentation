@@ -26,7 +26,6 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* set default values to progress counter if key not exists (d8382bd)
 * has templates count without custom presets (a4c7241)
 * fix onu task status receiving (5687238)
 * change interval for periodic tasks (6e48c59)
