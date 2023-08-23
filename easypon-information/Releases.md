@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Changed location map route. (e8e78cb)
 * Fixed onu location retrieving (63cef46)
 * Add cache-control to allow headers (db2c1ed)
 * Test clear cache endpoint (1dfa70d)
