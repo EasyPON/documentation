@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
 * Revert "fix BDCOM olt snmp protocol connection check and adding new one" (757e309)
 * Revert "fix BDCOM olt snmp protocol connection check and adding new one" (6a6bbf3)
 * fix BDCOM olt snmp protocol connection check and adding new one (466082d)
