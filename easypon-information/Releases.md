@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Add views/serializers for buildings and clients (af2391f)
 * Done with buildings and clients (b768c8e)
 * Add migration (4a1dede)
 * Add integration for userside, now you can import geolocation onu (a4e6f7e)
