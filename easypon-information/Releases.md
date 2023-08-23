@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Add detail task information about initialise OLT. (34f1690)
 * Fix onu config type creating on Huawei olt. (607e04d)
 * Remove damaged reports after unsuccessful file downloading. (085058a)
 * Fix onu task status changes. (b5c685d)
