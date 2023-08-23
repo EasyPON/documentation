@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* fix get onu mac or serial from userside user info (3d28ec1)
 * added ordering by title (6e7175e)
 * replaced paginator with increased page size (48547d8)
 * validate onu instances with serializer (b66d621)
