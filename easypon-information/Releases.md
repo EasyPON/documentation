@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* fixed cython compilation (f4d90b5)
 * rename logger (0603e74)
 * add created permission to the admin group member as user permission (88a236b)
 * assign new permissions to the admin group (516a7c5)
