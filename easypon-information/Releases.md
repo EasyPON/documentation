@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* fix log error on failed request (c9be74e)
 * fix request args (ad5d1f2)
 * remove redundant serializer (c16c12b)
 * created filters and split serializers (69f0331)
