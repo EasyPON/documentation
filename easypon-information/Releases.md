@@ -18,7 +18,6 @@
 ## v2.3.5 - 2023-06-21
 #### Changes:
 * fix retrieving onu when there is more than one onu (9e36768)
-* fix migration dependencies (e0ade66)
 ---
 ## v2.3.4 - 2023-06-20
 
