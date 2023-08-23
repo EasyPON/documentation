@@ -25,8 +25,7 @@
 
 ---
 ## v2.3.2 - 2023-06-16
-#### Changes:
-* fix onu port migration (150f665)
+
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
