@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Add release to sentry tracking (250da80)
 * Fix clients mac on huawei (9c851d5)
 * Add find by hexed serial number onu (25aa30b)
 * Fix onu update tasks (e6f7c46)
