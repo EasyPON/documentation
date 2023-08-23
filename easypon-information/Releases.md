@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Added ordering to for onu port migration and file report tables. (2a19963)
 * Clear not existing files and delete them from the filesystem. (f7f0e37)
 * Improved onu filtering in logs. (2420155)
 * Log can handle the entire onu history. After onu deletion, it does not remove from db. (85dcc5a)
