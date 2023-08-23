@@ -26,7 +26,6 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* change interval for periodic tasks (6e48c59)
 * fix onu port migration (150f665)
 ---
 ## v2.3.1 - 2023-06-13
