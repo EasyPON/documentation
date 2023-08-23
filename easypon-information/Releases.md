@@ -26,7 +26,6 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* fix onu task status receiving (5687238)
 * change interval for periodic tasks (6e48c59)
 * fix onu port migration (150f665)
 ---
