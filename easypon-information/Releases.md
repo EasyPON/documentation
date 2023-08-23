@@ -33,7 +33,6 @@
 ## v2.3.0 - 2023-05-18
 #### Changes:
 * Fix configuration with live settings (07475ea)
-* Done with adding building to onu (37b964a)
 * Add views/serializers for buildings and clients (af2391f)
 * Done with buildings and clients (b768c8e)
 * Add migration (4a1dede)
