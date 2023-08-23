@@ -46,8 +46,7 @@
 
 ---
 ## v2.1.0 - 2023-04-27
-#### Changes:
-* edit all permissions name (250d4db)
+
 ---
 ## v2.0.3 - 2023-04-03
 
