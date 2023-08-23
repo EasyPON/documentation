@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* Resolve EP-000 "/return all buildings on map" (70909ef)
 * add onu magic and olt type in external onu response (eda168d)
 * send domain name in header on check license requests (d67d098)
 * Resolve EP-000 "/add onu list to building" (90f63d2)
