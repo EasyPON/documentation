@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* replaced paginator with increased page size (48547d8)
 * validate onu instances with serializer (b66d621)
 * fix settings for userside integration (3933b50)
 * create signal kwargs on class initialization (a524912)
