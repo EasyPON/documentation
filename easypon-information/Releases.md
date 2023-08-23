@@ -55,8 +55,7 @@
 
 ---
 ## v2.0.1 - 2023-03-29
-#### Changes:
-* decompress data in license check request (5af9d9b)
+
 ---
 ## v2.0.0 - 2023-03-29
 
