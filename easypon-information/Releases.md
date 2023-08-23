@@ -14,7 +14,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* description for olt (6743d77)
 * description for core module (3436382)
 * fixed cython compilation (f4d90b5)
 * rename logger (0603e74)
