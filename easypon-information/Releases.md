@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* Resolve EP-000 "/add onu list to building" (90f63d2)
 * Resolve EP-1057 "/userside integration settings" (a8250c8)
 * Fix filtering in map building (7751d9e)
 * Exclude from map building empty buildings (9ca4343)
