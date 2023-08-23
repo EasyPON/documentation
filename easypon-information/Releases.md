@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Added to background task that scans all "onus" on the olt more detailed information about each record.<br> Implemented a counter to keep track of the total number of ONUs found when scanning them on OLT. (3792717)
 * Updated install instructions (25e7fda)
 * Retrieve Google client id for oauth2 authentication. (79ebeb7)
 * Add redis to ci/cd (dffe609)
