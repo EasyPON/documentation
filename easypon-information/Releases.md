@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Log can handle the entire onu history. After onu deletion, it does not remove from db. (85dcc5a)
 * Add version checker for huawei (56a90d0)
 * Change commands for show config in huawei (a3d353a)
 * Fix reboot on huawei (4a368e4)
