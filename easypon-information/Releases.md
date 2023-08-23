@@ -47,7 +47,6 @@
 ---
 ## v2.1.0 - 2023-04-27
 #### Changes:
-* Implemented new feature for detail page that allows users to view a list of duplicated ONUs, if they exist. (6f27c17)
 * Streamlined project language support by keeping only English descriptions. (e81eaa2)
 * Implemented new feature: Ordering filter now available for all tables. (e665ddd)
 * In the onu firmware variety list, all rows are not grouped by olt. (6319bbb)
