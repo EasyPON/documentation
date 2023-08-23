@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* fix group creation when not exists (a221259)
 * remove not exists task (cf7c15e)
 * fix log error on failed request (c9be74e)
 * fix request args (ad5d1f2)
