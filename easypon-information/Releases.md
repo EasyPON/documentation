@@ -10,8 +10,7 @@
 
 ---
 ## v2.3.7 - 2023-07-12
-#### Changes:
-* switch on/off admin status on port (0a3eb17)
+
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
