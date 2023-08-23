@@ -32,7 +32,6 @@
 ---
 ## v2.3.0 - 2023-05-18
 #### Changes:
-* Add version checker for huawei (56a90d0)
 * Change commands for show config in huawei (a3d353a)
 * Fix reboot on huawei (4a368e4)
 * Fix full update onu on huawei (cab7422)
