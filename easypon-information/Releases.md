@@ -29,7 +29,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* Resolve EP-1059 "/add permission to config endpoint" (03db858)
 * fix retrieving qinq port (97ac61d)
 * Save and manage filters the user uses to filter some data in different modules. (47a6c5d)
 * Change format of geopoint in map_building (2077d63)
