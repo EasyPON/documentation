@@ -1,10 +1,11 @@
 # Changelog
 
+## v2.3.11 - 2023-08-31
+
+---
 ## v2.3.10 - 2023-08-07
 #### Changes:
-* This is changelog changed
 * Stg (8576680)
-* 1
 ---
 ## v2.3.9 - 2023-07-24
 
