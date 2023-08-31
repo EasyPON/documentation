@@ -4,6 +4,7 @@
 #### Changes:
 * This is changelog
 * Merge branch 'stg' into 'master'
+* Merge branch 'EP-000/remove_author_from_config_on_the_onu_autore_cherry_pick' into 'master' (86a7139)
 ---
 ## v2.3.9 - 2023-07-24
 
