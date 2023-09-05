@@ -1,4 +1,4 @@
-# Docker compose installation guide
+# 🐳 Docker compose installation guide
 
 1. Download and unpack the archive, go to the unpacked directory.
 2. Build images with the following command:

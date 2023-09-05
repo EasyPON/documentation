@@ -25,10 +25,6 @@ To see what EasyPON is capable of, simply visit our demo page and give it a try 
 Login: demo \
 Password: epdemo12
 
-## Updating EasyPon
+### Updating EasyPON
 
-To update EasyPon to the latest version, run the following command:
-
-```
-bash <(curl -k https://cabinet.easypon.in/install_ep.sh) upgrade
-```
+[Debian 11 update](how-to-install-easypon/guide-for-debian-11.md#updating-easypon-debian) guide
