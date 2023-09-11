@@ -7,6 +7,7 @@
 * Building map and table filters have been changed on to work with statuses and filters by OLT
 * New methods to get ONU MAC-addresses from Userside by integration
 * The comment section for ONU was added for use on each page of ONU detailed information
+* Added block for application configuration to a non-existing ONU
 * Fixed the missing ONU amount in generated reports on the All OLT page
 ---
 ## v2.3.10 - 2023-08-07
