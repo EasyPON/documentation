@@ -9,6 +9,7 @@
 * The comment section for ONU was added for use on each page of ONU detailed information
 * Added block for application configuration to a non-existing ONU
 * Fixed the missing ONU amount in generated reports on the All OLT page
+* Added variety of statuses that are given by OLT BDCOM P3600-08E to see in the EasyPON
 ---
 ## v2.3.10 - 2023-08-07
 #### Changes:
