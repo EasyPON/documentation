@@ -2,7 +2,7 @@
 
 ## v2.3.11 - 2023-08-31
 #### Changes:
-* Merge branch 'EP-1263/fix-missing-onu-count-and-sw-version-in-the-olt-report-file' into 'stg' (13a78c42)
+* Fixed the missing ONU amount in generated reports on the All OLT page
 ---
 ## v2.3.10 - 2023-08-07
 #### Changes:
