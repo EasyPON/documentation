@@ -2,6 +2,7 @@
 
 ## v2.3.11 - 2023-08-31
 #### Changes:
+* Reduce task chunk amount
 * Fixed the missing ONU amount in generated reports on the All OLT page
 ---
 ## v2.3.10 - 2023-08-07
