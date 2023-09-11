@@ -3,8 +3,8 @@
 ## v2.3.11 - 2023-08-31
 #### Changes:
 * Reduce task chunk amount for OLT ZTE c220
-* Merge branch 'EP-1193/multiple-methods-to-get-onu-mac-from-userside' into 'stg' (dd67e9cc)
 * Building map and table filters have been changed on to work with statuses and filters by OLT
+* New methods to get ONU MAC-addresses from Userside by integration
 * Fixed the missing ONU amount in generated reports on the All OLT page
 ---
 ## v2.3.10 - 2023-08-07
