@@ -3,6 +3,7 @@
 ## v2.3.11 - 2023-08-31
 #### Changes:
 * Reduce task chunk amount for OLT ZTE c220
+* Added detailed endpoint for report files
 * Building map and table filters have been changed on to work with statuses and filters by OLT
 * New methods to get ONU MAC-addresses from Userside by integration
 * Fixed the missing ONU amount in generated reports on the All OLT page
