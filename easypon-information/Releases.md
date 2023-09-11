@@ -10,6 +10,7 @@
 * Added block for application configuration to a non-existing ONU
 * Fixed the missing ONU amount in generated reports on the All OLT page
 * Added variety of statuses that are given by OLT BDCOM P3600-08E to see in the EasyPON
+* The building types on the map and in general table now can be filtered and be seen differently by the icon as apartment buildings and private houses
 ---
 ## v2.3.10 - 2023-08-07
 #### Changes:
