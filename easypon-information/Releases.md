@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Merge branch 'EP-1192/change_balance_info_in_license_to_user_address' into 'stg' (1100912)
 * Resolve EP-1192 "/change balance info in license to user address" (999df88)
 * Merge branch 'EP-1196/fix_onu_autoregistration_on_220_olt' into 'stg' (eb64eda)
 * Merge branch 'EP-1184/onu_autoregistration' into 'stg' (c23b778)
