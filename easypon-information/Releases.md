@@ -25,7 +25,7 @@
 * Added not showing the deleted ONUs on a building map (4c73cfd)
 * Added new endpoint for external API (42f26ec)
 * Set timeouts for cache keys (2f8247e)
-* Move this documentation files to the correct folder for a right ordering(05fd9d0)
+* Move this documentation files to the correct folder for a right ordering (05fd9d0)
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
