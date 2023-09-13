@@ -88,7 +88,6 @@
 * has templates count without custom presets (a4c7241)
 * fix onu task status receiving (5687238)
 * change interval for periodic tasks (6e48c59)
-* Merge branch 'stg' into 'master' (346d7f5)
 * Fixes on the functional of ONU port migration (150f665)
 ---
 ## v2.3.1 - 2023-06-13
