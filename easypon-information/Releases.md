@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* use update methods to change status (33c9bd4)
 * switch on/off admin status on port (0a3eb17)
 * Code refactoring (d3c300e)
 * Added new statuses for building and to the filter (6c33c8f)
@@ -40,6 +39,7 @@
 * Reduced DB queries (2aa3264)
 * Added more info about author to the Event log section (c62a7d5)
 * Forbid celery remote control (af06d42)
+* Added usage of update methods to change port's admin status (33c9bd4)
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
