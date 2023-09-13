@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Resolve EP-1192 "/change balance info in license to user address" (999df88)
 * Merge branch 'EP-1196/fix_onu_autoregistration_on_220_olt' into 'stg' (eb64eda)
 * Merge branch 'EP-1184/onu_autoregistration' into 'stg' (c23b778)
 * Resolve EP-1184 "/onu autoregistration" (e3b86f2)
@@ -34,6 +33,7 @@
 * fix get onu configs on bdcom olts (467deea)
 * The ONU autoregistration on 220 ZTE OLTs for additional clients were fixed (c18a636)
 * Added the retry attempts to send command for the ONU registration
+* Changed balance information in license by adding user address
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
