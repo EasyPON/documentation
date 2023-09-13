@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* add filters by slots and ports to the building map (45993cf)
 * forbid celery remote control (af06d42)
 * Merge branch 'EP-000/add_more_info_about_author_in_detail_log_response' into 'stg' (f154a4c)
 * reduce db queries (2aa3264)
@@ -42,6 +41,7 @@
 * switch on/off admin status on port (0a3eb17)
 * Code refactoring (d3c300e)
 * Added new statuses for building and to the filter (6c33c8f)
+* Added filters by slots and ports to the building map (45993cf)
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
