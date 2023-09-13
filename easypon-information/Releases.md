@@ -54,7 +54,6 @@
 * add created permission to the admin group member as user permission (88a236b)
 * assign new permissions to the admin group (516a7c5)
 * check client exists with a billing key (2fb47ef)
-* Merge branch 'EP-000/try_to_fix_registering_onu_on_zte_220_olts' into 'stg' (6ff72d6)
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
