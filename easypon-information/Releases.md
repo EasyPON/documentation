@@ -42,7 +42,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* Merge branch 'stg' into 'master' (230d36e)
 * Merge branch 'EP-000/add_redoc_schema' into 'stg' (f79194b)
 * include migrations (1447063)
 * description for template module (06aab06)
