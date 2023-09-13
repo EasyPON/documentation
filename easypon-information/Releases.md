@@ -75,10 +75,10 @@
 * remove old method (7c097cb)
 * get first match onu when filter without id (6a973b3)
 * add api request type and address to serializer (0d85dbc)
-* collect request ip address (d8450d5)
 * Fixes on the functional of ONU port migration (150f665)
 * Changed default interval for periodic tasks (6e48c59)
 * Fixes on ONU task status receiving (5687238)
+* Added collecting of requested IP address(d8450d5)
 * Separation of the templates and custom actions in a list through the system (a4c7241)
 ---
 ## v2.3.1 - 2023-06-13
