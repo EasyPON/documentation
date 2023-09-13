@@ -33,7 +33,6 @@
 ## v2.3.7 - 2023-07-12
 #### Changes:
 * forbid celery remote control (af06d42)
-* Merge branch 'EP-000/add_more_info_about_author_in_detail_log_response' into 'stg' (f154a4c)
 * Merge branch 'EP-1110/change_port_status_by_user' into 'stg' (efbc919)
 * use update methods to change status (33c9bd4)
 * switch on/off admin status on port (0a3eb17)
