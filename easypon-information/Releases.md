@@ -77,7 +77,6 @@
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
-* Merge branch 'EP-000/fix_mac_assigment_in_userside_integration' into 'stg' (60f170b)
 * fix mac assigment in userside integration (537c7be)
 * Merge branch 'EP-000/more_descriptive_title_for_patch_log_entry' into 'stg' (0989103)
 * update description (ce9aa08)
