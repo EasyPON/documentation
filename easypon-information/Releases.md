@@ -79,7 +79,6 @@
 * remove reqeust from args (487a938)
 * set author null (bab0927)
 * create user for external api requests if auth is stateless (dab3083)
-* Merge branch 'stg' into 'master' (f9851ac)
 * Fixes on the functional of ONU port migration (150f665)
 * Changed default interval for periodic tasks (6e48c59)
 * Fixes on ONU task status receiving (5687238)
