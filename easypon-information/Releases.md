@@ -42,7 +42,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* Merge branch 'EP-1142/add_all_new_permissions_to_admin_group' into 'stg' (c74ab94)
 * check client exists with a billing key (2fb47ef)
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
