@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Resolve EP-000 "/added endpoint for external api" (42f26ec)
 * Merge branch 'EP-000/reduce_cache_key_timeouts' into 'stg' (081229e)
 * set timeouts for cache keys (2f8247e)
 * Merge branch 'stg' into 'master' (00abd73)
@@ -29,6 +28,7 @@
 * Added the retry attempts to send command for the ONU registration
 * Changed balance information in license by adding user address
 * Added not showing the deleted ONUs on a building map (4c73cfd)
+* Added new endpoint for external API (42f26ec)
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
