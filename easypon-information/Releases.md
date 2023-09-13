@@ -69,7 +69,6 @@
 ## v2.3.2 - 2023-06-16
 #### Changes:
 * update main onu info on sync and refresh from db (55888cb)
-* Merge branch 'EP-000/fix_multiple_onu_return_in_save_onu_method' into 'stg' (4507b4e)
 * Fixes on the functional of ONU port migration (150f665)
 * Changed default interval for periodic tasks (6e48c59)
 * Fixes on ONU task status receiving (5687238)
