@@ -59,6 +59,7 @@
 * fix retrieving onu when there is more than one onu (9e36768)
 * Generated titles for log entry (f00af8e)
 * Fixed registering ONU when number on port is unavailable (4a4c2de)
+* Minor fixes for enhancing user experience satisfaction
 ---
 ## v2.3.4 - 2023-06-20
 
