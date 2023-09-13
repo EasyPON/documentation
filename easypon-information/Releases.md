@@ -56,7 +56,6 @@
 * check client exists with a billing key (2fb47ef)
 * Merge branch 'EP-000/try_to_fix_registering_onu_on_zte_220_olts' into 'stg' (6ff72d6)
 * limited max retries and added timeout (c1dc2f8)
-* limited max retries and added timeout (3747b37)
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
@@ -75,6 +74,7 @@
 * check connection with user credentials on retry (1107142)
 * Added Userside check connection with data from user or from the settings (fe6a3a3)
 * Opportunity to enable Userside sync and Google auth flag in the settings(d0b2269)
+* Limited max retries and added timeout for OLT ZTE c220 ONU configuration(3747b37)
 ---
 ## v2.3.5 - 2023-06-21
 #### Changes:
