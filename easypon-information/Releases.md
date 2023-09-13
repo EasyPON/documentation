@@ -20,7 +20,6 @@
 * Merge branch 'EP-1184/onu_autoregistration' into 'stg' (c23b778)
 * Resolve EP-1184 "/onu autoregistration" (e3b86f2)
 * Merge branch 'EP-000/excluce_deleted_onu_in_buildings_counting' into 'stg' (8535a5f)
-* do not count deleted onus for a building map (4c73cfd)
 * Merge branch 'EP-000/added_endpoint_for_external_api' into 'stg' (5c5036b)
 * Resolve EP-000 "/added endpoint for external api" (42f26ec)
 * Merge branch 'EP-000/reduce_cache_key_timeouts' into 'stg' (081229e)
@@ -33,6 +32,7 @@
 * The ONU autoregistration on 220 ZTE OLTs for additional clients were fixed (c18a636)
 * Added the retry attempts to send command for the ONU registration
 * Changed balance information in license by adding user address
+* Added not showing the deleted ONUs on a building map (4c73cfd)
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
