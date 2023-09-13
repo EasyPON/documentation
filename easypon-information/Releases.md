@@ -87,8 +87,8 @@
 * set default values to progress counter if key not exists (d8382bd)
 * has templates count without custom presets (a4c7241)
 * fix onu task status receiving (5687238)
-* change interval for periodic tasks (6e48c59)
 * Fixes on the functional of ONU port migration (150f665)
+* Changed default interval for periodic tasks (6e48c59)
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
