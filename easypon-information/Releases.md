@@ -13,8 +13,7 @@
 * The building types on the map and in general table now can be filtered and be seen differently by the icon as apartment buildings and private houses
 ---
 ## v2.3.10 - 2023-08-07
-#### Changes:
-* Merge branch 'stg' into 'master' (8ab2622)
+
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
