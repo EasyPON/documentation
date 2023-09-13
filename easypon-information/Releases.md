@@ -73,8 +73,8 @@
 * raise error when port oper status is unknown (5c7d9fd)
 * Merge branch 'EP-1130/check_connection_with_user_credentials_on_retry' into 'stg' (1045a35)
 * check connection with user credentials on retry (1107142)
-* check userside connection with data from user of from settings (fe6a3a3)
 * Resolve EP-1129 "/enabale us sync and google auth flag" (d0b2269)
+* Added Userside check connection with data from user or from the settings (fe6a3a3)
 ---
 ## v2.3.5 - 2023-06-21
 #### Changes:
