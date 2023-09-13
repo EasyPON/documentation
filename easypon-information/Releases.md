@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* fix get onu configs on bdcom olts (467deea)
 * The ONU autoregistration on 220 ZTE OLTs for additional clients were fixed (c18a636)
 * Added the retry attempts to send command for the ONU registration
 * Changed balance information in license by adding user address
@@ -25,6 +24,7 @@
 * Added new endpoint for external API (42f26ec)
 * Set timeouts for cache keys (2f8247e)
 * Move this documentation files to the correct folder for a right ordering (05fd9d0)
+* Fixed proccess of getting ONU configs on BDCOM OLTs (467deea)
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
