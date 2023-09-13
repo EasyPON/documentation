@@ -46,7 +46,6 @@
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
-* raise error when port oper status is unknown (5c7d9fd)
 * Merge branch 'EP-1130/check_connection_with_user_credentials_on_retry' into 'stg' (1045a35)
 * check connection with user credentials on retry (1107142)
 * Added Userside check connection with data from user or from the settings (fe6a3a3)
@@ -55,6 +54,7 @@
 * Assigned new default permissions to the admin group (516a7c5)
 * Fixed OLT SNMP protocol connection checking and adding new one for BDCOM vendors (78ac96a)
 * Added external API schema (559a073)
+* Awaken an error when the port operational status is unknown (5c7d9fd)
 * Set port status as unknown when OLT does not response with the information about it (0be0975)
 ---
 ## v2.3.5 - 2023-06-21
