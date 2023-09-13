@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Merge branch 'stg' into 'master' (ccc46c9)
 * Merge branch 'EP-000/fix_retry_attemps_on_the_onu_registration' into 'stg' (0a8fe04)
 * fix retry attempts to send command on the onu registration (f710735)
 * Merge branch 'EP-1192/change_balance_info_in_license_to_user_address' into 'stg' (1100912)
