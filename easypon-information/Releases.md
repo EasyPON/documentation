@@ -46,7 +46,6 @@
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
-* try to fix redis failures (0bc7bac)
 * added redoc openapi schema (559a073)
 * added redoc openapi schema (446c546)
 * Merge branch 'EP-000/fix_onu_ethernet_oper_status_port' into 'stg' (2944ebb)
