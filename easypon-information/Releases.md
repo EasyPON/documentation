@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Merge branch 'EP-000/fix_get_onu_configs_on_bdcom_epon_cards' into 'stg' (16d603b)
 * fix get onu configs on bdcom olts (467deea)
 * The ONU autoregistration on 220 ZTE OLTs for additional clients were fixed (c18a636)
 * Added the retry attempts to send command for the ONU registration
