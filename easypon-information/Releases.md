@@ -47,7 +47,6 @@
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
 * Revert "fix BDCOM olt snmp protocol connection check and adding new one" (757e309)
-* Revert "fix BDCOM olt snmp protocol connection check and adding new one" (6a6bbf3)
 * fix BDCOM olt snmp protocol connection check and adding new one (466082d)
 * fix BDCOM olt snmp protocol connection check and adding new one (78ac96a)
 * forbid celery remote control (ea4013a)
