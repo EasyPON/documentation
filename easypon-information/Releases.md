@@ -42,7 +42,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* remove CELERY_ENABLE_REMOTE_CONTROL (71c64b6)
 * Merge branch 'stg' into 'master' (230d36e)
 * Merge branch 'EP-000/add_redoc_schema' into 'stg' (f79194b)
 * include migrations (1447063)
