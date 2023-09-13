@@ -75,7 +75,6 @@
 * check connection with user credentials on retry (1107142)
 * Merge branch 'EP-1130/check_userside_connection_by_data_from_user_or_from_db' into 'stg' (d3772c3)
 * check userside connection with data from user of from settings (fe6a3a3)
-* Merge branch 'EP-1129/enabale_us_sync_and_google_auth_flag' into 'stg' (ee4007d)
 * Resolve EP-1129 "/enabale us sync and google auth flag" (d0b2269)
 ---
 ## v2.3.5 - 2023-06-21
