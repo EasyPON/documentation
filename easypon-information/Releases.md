@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* added building status choices (e24ba46)
 * Merge branch 'EP-1104/remove_log_handler_for_client_ep_installaation' into 'stg' (f0b676a)
 * remove graypy handler for client installation (627fcb4)
 * Merge branch 'EP-1104/add_graylog_integration' into 'stg' (8b6a729)
