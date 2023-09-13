@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* move documentation files to the correct folder (05fd9d0)
 * Merge branch 'EP-000/fix_get_onu_configs_on_bdcom_epon_cards' into 'stg' (16d603b)
 * fix get onu configs on bdcom olts (467deea)
 * The ONU autoregistration on 220 ZTE OLTs for additional clients were fixed (c18a636)
@@ -26,6 +25,7 @@
 * Added not showing the deleted ONUs on a building map (4c73cfd)
 * Added new endpoint for external API (42f26ec)
 * Set timeouts for cache keys (2f8247e)
+* Move this documentation files to the correct folder for a right ordering(05fd9d0)
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
