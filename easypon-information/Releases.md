@@ -46,7 +46,6 @@
 * description for template module (06aab06)
 * description for onu module (8b5016b)
 * description for olt (6743d77)
-* description for core module (3436382)
 * Merge branch 'EP-000/fix_duplicate_client_error' into 'stg' (3587980)
 * Merge branch 'EP-1142/add_all_new_permissions_to_admin_group' into 'stg' (c74ab94)
 * check client exists with a billing key (2fb47ef)
