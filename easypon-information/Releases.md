@@ -46,7 +46,6 @@
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
-* Merge branch 'EP-1130/check_connection_with_user_credentials_on_retry' into 'stg' (1045a35)
 * check connection with user credentials on retry (1107142)
 * Added Userside check connection with data from user or from the settings (fe6a3a3)
 * Opportunity to enable Userside sync and Google auth flag in the settings(d0b2269)
