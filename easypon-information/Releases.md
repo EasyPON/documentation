@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Merge branch 'EP-000/try_to_fix_documentation_upload_with_ci' into 'stg' (efed2b3)
 * move documentation files to the correct folder (05fd9d0)
 * Merge branch 'EP-000/fix_get_onu_configs_on_bdcom_epon_cards' into 'stg' (16d603b)
 * fix get onu configs on bdcom olts (467deea)
