@@ -68,11 +68,11 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* update main onu info on sync and refresh from db (55888cb)
 * Fixes on the functional of ONU port migration (150f665)
 * Changed default interval for periodic tasks (6e48c59)
 * Fixes on ONU task status receiving (5687238)
 * Added collecting of requested IP address(d8450d5)
+* Started to update main ONU info on sync and refresh buttons from DB (55888cb)
 * Separation of the templates and custom actions in a list through the system (a4c7241)
 ---
 ## v2.3.1 - 2023-06-13
