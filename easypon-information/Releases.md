@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Merge branch 'EP-000/added_endpoint_for_external_api' into 'stg' (5c5036b)
 * Resolve EP-000 "/added endpoint for external api" (42f26ec)
 * Merge branch 'EP-000/reduce_cache_key_timeouts' into 'stg' (081229e)
 * set timeouts for cache keys (2f8247e)
