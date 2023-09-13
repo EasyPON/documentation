@@ -43,7 +43,6 @@
 ## v2.3.6 - 2023-07-04
 #### Changes:
 * include migrations (1447063)
-* description for template module (06aab06)
 * description for olt (6743d77)
 * Merge branch 'EP-000/fix_duplicate_client_error' into 'stg' (3587980)
 * Merge branch 'EP-1142/add_all_new_permissions_to_admin_group' into 'stg' (c74ab94)
