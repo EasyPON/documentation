@@ -76,7 +76,6 @@
 * get first match onu when filter without id (6a973b3)
 * add api request type and address to serializer (0d85dbc)
 * collect request ip address (d8450d5)
-* remove reqeust from args (487a938)
 * Fixes on the functional of ONU port migration (150f665)
 * Changed default interval for periodic tasks (6e48c59)
 * Fixes on ONU task status receiving (5687238)
