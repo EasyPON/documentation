@@ -81,7 +81,6 @@
 * create user for external api requests if auth is stateless (dab3083)
 * Merge branch 'stg' into 'master' (f9851ac)
 * Merge branch 'EP-000/onu_config_type_has_templates_count_without_custom_presets' into 'stg' (2a3582e)
-* Merge branch 'EP-000/increase_time_for_onu_periodic_time_and_fix_task_status' into 'stg' (2cabeca)
 * Fixes on the functional of ONU port migration (150f665)
 * Changed default interval for periodic tasks (6e48c59)
 * Fixes on ONU task status receiving (5687238)
