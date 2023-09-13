@@ -46,7 +46,6 @@
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
-* added redoc openapi schema (559a073)
 * added redoc openapi schema (446c546)
 * Merge branch 'EP-000/fix_onu_ethernet_oper_status_port' into 'stg' (2944ebb)
 * set port status as unknown (0be0975)
@@ -58,6 +57,7 @@
 * Limited max retries and added timeout for OLT ZTE c220 ONU configuration(3747b37)
 * Assigned new default permissions to the admin group (516a7c5)
 * Fixed OLT SNMP protocol connection checking and adding new one for BDCOM vendors (78ac96a)
+* Added external API schema (559a073)
 ---
 ## v2.3.5 - 2023-06-21
 #### Changes:
