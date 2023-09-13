@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* Merge branch 'stg' into 'master' (82c2450)
 * Merge branch 'EP-1115/new_statuses_for_building' into 'stg' (6c33c8f)
 * remove inheritance (81946b4)
 * remove old get status serializer method (d1eda61)
