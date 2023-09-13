@@ -33,7 +33,6 @@
 ## v2.3.7 - 2023-07-12
 #### Changes:
 * Merge branch 'EP-1104/remove_log_handler_for_client_ep_installaation' into 'stg' (f0b676a)
-* remove graypy handler for client installation (627fcb4)
 * Merge branch 'EP-1156/add_new_filters_to_the_building_map_endpoint' into 'stg' (7d84762)
 * add filters by slots and ports to the building map (45993cf)
 * forbid celery remote control (af06d42)
