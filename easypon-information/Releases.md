@@ -46,7 +46,6 @@
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
-* Merge branch 'EP-000/fix_onu_ethernet_oper_status_port' into 'stg' (2944ebb)
 * set port status as unknown (0be0975)
 * raise error when port oper status is unknown (5c7d9fd)
 * Merge branch 'EP-1130/check_connection_with_user_credentials_on_retry' into 'stg' (1045a35)
