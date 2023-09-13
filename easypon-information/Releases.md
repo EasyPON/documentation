@@ -42,7 +42,6 @@
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
-* check client exists with a billing key (2fb47ef)
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
