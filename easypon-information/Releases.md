@@ -23,7 +23,6 @@
 * Merge branch 'EP-1192/change_balance_info_in_license_to_user_address' into 'stg' (1100912)
 * Resolve EP-1192 "/change balance info in license to user address" (999df88)
 * Merge branch 'EP-1196/fix_onu_autoregistration_on_220_olt' into 'stg' (eb64eda)
-* fix onu auto registration on 220 zte olts (c18a636)
 * Merge branch 'EP-1184/onu_autoregistration' into 'stg' (c23b778)
 * Resolve EP-1184 "/onu autoregistration" (e3b86f2)
 * Merge branch 'EP-000/excluce_deleted_onu_in_buildings_counting' into 'stg' (8535a5f)
@@ -37,6 +36,7 @@
 * move documentation files to the correct folder (05fd9d0)
 * Merge branch 'EP-000/fix_get_onu_configs_on_bdcom_epon_cards' into 'stg' (16d603b)
 * fix get onu configs on bdcom olts (467deea)
+* The ONU autoregistration on 220 ZTE OLTs for additional clients were fixed (c18a636)
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
