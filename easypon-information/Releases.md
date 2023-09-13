@@ -68,7 +68,6 @@
 ---
 ## v2.3.2 - 2023-06-16
 #### Changes:
-* Merge branch 'stg' into 'master' (b1503a7)
 * Merge branch 'EP-000/update_onu_main_info_on_sync' into 'stg' (465513b)
 * update main onu info on sync and refresh from db (55888cb)
 * Merge branch 'EP-000/fix_multiple_onu_return_in_save_onu_method' into 'stg' (4507b4e)
