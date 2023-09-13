@@ -46,7 +46,6 @@
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
-* fix BDCOM olt snmp protocol connection check and adding new one (78ac96a)
 * forbid celery remote control (ea4013a)
 * try to fix redis failures (0bc7bac)
 * added redoc openapi schema (559a073)
@@ -60,6 +59,7 @@
 * Opportunity to enable Userside sync and Google auth flag in the settings(d0b2269)
 * Limited max retries and added timeout for OLT ZTE c220 ONU configuration(3747b37)
 * Assigned new default permissions to the admin group (516a7c5)
+* Fixed OLT SNMP protocol connection checking and adding new one for BDCOM vendors (78ac96a)
 ---
 ## v2.3.5 - 2023-06-21
 #### Changes:
