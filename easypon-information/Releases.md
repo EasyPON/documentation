@@ -56,7 +56,6 @@
 ---
 ## v2.3.5 - 2023-06-21
 #### Changes:
-* Merge branch 'stg' into 'master' (44d843c)
 * Merge branch 'EP-000/fix_zte_220_onu_registration' into 'stg' (7411535)
 * generate title for log entry (f00af8e)
 * trim to long title (772d8d8)
