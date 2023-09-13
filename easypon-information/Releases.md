@@ -59,6 +59,7 @@
 * fix retrieving onu when there is more than one onu (9e36768)
 * fix migration dependencies (e0ade66)
 * Generated titles for log entry (f00af8e)
+* fix registering onu when number on port is not free (4a4c2de)
 ---
 ## v2.3.4 - 2023-06-20
 
