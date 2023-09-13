@@ -17,7 +17,6 @@
 * Merge branch 'stg' into 'master' (8ab2622)
 * Stg (8576680)
 * Merge branch 'EP-000/remove_author_from_config_on_the_onu_autore_cherry_pick' into 'master' (86a7139)
-* remove author from config creation when using jwt stateless authentication (ee53662)
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
