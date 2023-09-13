@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Merge branch 'EP-000/reduce_cache_key_timeouts' into 'stg' (081229e)
 * set timeouts for cache keys (2f8247e)
 * Merge branch 'stg' into 'master' (00abd73)
 * Merge branch 'EP-000/try_to_fix_documentation_upload_with_ci' into 'stg' (efed2b3)
