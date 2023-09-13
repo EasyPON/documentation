@@ -33,7 +33,6 @@
 ## v2.3.7 - 2023-07-12
 #### Changes:
 * Merge branch 'stg' into 'master' (82c2450)
-* refactor (d3c300e)
 * Merge branch 'EP-1115/new_statuses_for_building' into 'stg' (6c33c8f)
 * remove inheritance (81946b4)
 * remove old get status serializer method (d1eda61)
@@ -54,6 +53,7 @@
 * Merge branch 'EP-1110/change_port_status_by_user' into 'stg' (efbc919)
 * use update methods to change status (33c9bd4)
 * switch on/off admin status on port (0a3eb17)
+* Code refactoring (d3c300e)
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
