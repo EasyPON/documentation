@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* Merge branch 'EP-1156/add_new_filters_to_the_building_map_endpoint' into 'stg' (7d84762)
 * add filters by slots and ports to the building map (45993cf)
 * forbid celery remote control (af06d42)
 * Merge branch 'EP-000/add_more_info_about_author_in_detail_log_response' into 'stg' (f154a4c)
