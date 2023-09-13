@@ -49,7 +49,6 @@
 * description for core module (3436382)
 * Merge branch 'EP-000/fix_duplicate_client_error' into 'stg' (3587980)
 * Merge branch 'EP-1142/add_all_new_permissions_to_admin_group' into 'stg' (c74ab94)
-* Merge branch 'stg' into 'master' (ba04ce5)
 * fixed cython compilation (f4d90b5)
 * Merge branch 'stg' into 'master' (7034702)
 * rename logger (0603e74)
