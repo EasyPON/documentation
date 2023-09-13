@@ -90,7 +90,7 @@
 * change interval for periodic tasks (6e48c59)
 * Merge branch 'stg' into 'master' (346d7f5)
 * Merge branch 'EP-000/fix_migration_onu_args' into 'stg' (f00d486)
-* fix onu port migration (150f665)
+* Fixes on the functional of ONU port migration (150f665)
 ---
 ## v2.3.1 - 2023-06-13
 #### Changes:
