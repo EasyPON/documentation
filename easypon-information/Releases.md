@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* set timeouts for cache keys (2f8247e)
 * Merge branch 'stg' into 'master' (00abd73)
 * Merge branch 'EP-000/try_to_fix_documentation_upload_with_ci' into 'stg' (efed2b3)
 * move documentation files to the correct folder (05fd9d0)
@@ -28,6 +27,7 @@
 * Changed balance information in license by adding user address
 * Added not showing the deleted ONUs on a building map (4c73cfd)
 * Added new endpoint for external API (42f26ec)
+* Set timeouts for cache keys (2f8247e)
 ---
 ## v2.3.8 - 2023-07-13
 #### Changes:
