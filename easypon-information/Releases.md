@@ -52,7 +52,6 @@
 * fixed cython compilation (f4d90b5)
 * rename logger (0603e74)
 * add created permission to the admin group member as user permission (88a236b)
-* assign new permissions to the admin group (516a7c5)
 * check client exists with a billing key (2fb47ef)
 * method for send and receive commands with retry (d0dd251)
 * Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
@@ -73,6 +72,7 @@
 * Added Userside check connection with data from user or from the settings (fe6a3a3)
 * Opportunity to enable Userside sync and Google auth flag in the settings(d0b2269)
 * Limited max retries and added timeout for OLT ZTE c220 ONU configuration(3747b37)
+* Assigned new default permissions to the admin group (516a7c5)
 ---
 ## v2.3.5 - 2023-06-21
 #### Changes:
