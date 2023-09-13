@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* forbid celery remote control (af06d42)
 * Merge branch 'EP-1110/change_port_status_by_user' into 'stg' (efbc919)
 * use update methods to change status (33c9bd4)
 * switch on/off admin status on port (0a3eb17)
@@ -41,6 +40,7 @@
 * Added filters by slots and ports to the building map (45993cf)
 * Reduced DB queries (2aa3264)
 * Added more info about author to the Event log section (c62a7d5)
+* Forbid celery remote control (af06d42)
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
