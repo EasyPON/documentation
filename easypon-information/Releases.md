@@ -36,7 +36,6 @@
 * remove graypy handler for client installation (627fcb4)
 * Merge branch 'EP-1104/add_graylog_integration' into 'stg' (8b6a729)
 * add graylog integration (e9fa8ba)
-* add names for loggers (f36c7ea)
 * Merge branch 'EP-1156/add_new_filters_to_the_building_map_endpoint' into 'stg' (7d84762)
 * add filters by slots and ports to the building map (45993cf)
 * forbid celery remote control (af06d42)
