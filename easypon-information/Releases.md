@@ -79,7 +79,6 @@
 #### Changes:
 * fix mac assigment in userside integration (537c7be)
 * Merge branch 'EP-000/more_descriptive_title_for_patch_log_entry' into 'stg' (0989103)
-* update description (ce9aa08)
 * added changed data to the title of log entry (3294376)
 * Merge branch 'EP-000/fix_get_onu_mac_from_user_info' into 'stg' (fd5c754)
 * use suppress context manager (dca7401)
