@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* Merge branch 'EP-1110/change_port_status_by_user' into 'stg' (efbc919)
 * use update methods to change status (33c9bd4)
 * switch on/off admin status on port (0a3eb17)
 * Code refactoring (d3c300e)
