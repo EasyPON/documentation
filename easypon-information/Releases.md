@@ -17,7 +17,6 @@
 ---
 ## v2.3.9 - 2023-07-24
 #### Changes:
-* Merge branch 'EP-1196/fix_onu_autoregistration_on_220_olt' into 'stg' (eb64eda)
 * Merge branch 'EP-1184/onu_autoregistration' into 'stg' (c23b778)
 * Resolve EP-1184 "/onu autoregistration" (e3b86f2)
 * Merge branch 'EP-000/excluce_deleted_onu_in_buildings_counting' into 'stg' (8535a5f)
