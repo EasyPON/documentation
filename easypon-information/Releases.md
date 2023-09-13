@@ -84,7 +84,6 @@
 * Merge branch 'EP-000/increase_time_for_onu_periodic_time_and_fix_task_status' into 'stg' (2cabeca)
 * shift crontab (40d5dbb)
 * shift crontab (cb214f4)
-* set default values to progress counter if key not exists (d8382bd)
 * Fixes on the functional of ONU port migration (150f665)
 * Changed default interval for periodic tasks (6e48c59)
 * Fixes on ONU task status receiving (5687238)
