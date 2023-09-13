@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* switch on/off admin status on port (0a3eb17)
 * Code refactoring (d3c300e)
 * Added new statuses for building and to the filter (6c33c8f)
 * Added filters by slots and ports to the building map (45993cf)
