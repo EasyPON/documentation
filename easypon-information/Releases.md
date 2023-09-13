@@ -32,7 +32,6 @@
 ---
 ## v2.3.7 - 2023-07-12
 #### Changes:
-* Merge branch 'EP-1115/new_statuses_for_building' into 'stg' (6c33c8f)
 * remove inheritance (81946b4)
 * remove old get status serializer method (d1eda61)
 * new status field and filter (e9b39d9)
@@ -53,6 +52,7 @@
 * use update methods to change status (33c9bd4)
 * switch on/off admin status on port (0a3eb17)
 * Code refactoring (d3c300e)
+* Added new statuses for building and to the filter (6c33c8f)
 ---
 ## v2.3.6 - 2023-07-04
 #### Changes:
