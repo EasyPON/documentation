@@ -1,9 +1,7 @@
-# Releases
+# Changelog
 
 ## v2.3.11 - 2023-08-31
-
 #### Changes:
-
 * Reduce task chunk amount for OLT ZTE c220
 * Added detailed endpoint for report files
 * Building map and table filters have been changed on to work with statuses and filters by OLT
@@ -13,17 +11,12 @@
 * Fixed the missing ONU amount in generated reports on the All OLT page
 * Added variety of statuses that are given by OLT BDCOM P3600-08E to see in the EasyPON
 * The building types on the map and in general table now can be filtered and be seen differently by the icon as apartment buildings and private houses
-
-***
-
+---
 ## v2.3.10 - 2023-08-07
 
-***
-
+---
 ## v2.3.9 - 2023-07-24
-
 #### Changes:
-
 * The ONU autoregistration on 220 ZTE OLTs for additional clients were fixed (c18a636)
 * Added the retry attempts to send command for the ONU registration
 * Changed balance information in license by adding user address
@@ -32,59 +25,42 @@
 * Set timeouts for cache keys (2f8247e)
 * Move this documentation files to the correct folder for a right ordering (05fd9d0)
 * Fixed proccess of getting ONU configs on BDCOM OLTs (467deea)
-
-***
-
+---
 ## v2.3.8 - 2023-07-13
-
 #### Changes:
-
 * Minor fixes of frontend layout (cff5d0f)
-
-***
-
+---
 ## v2.3.7 - 2023-07-12
-
 #### Changes:
-
-* remove inheritance (81946b4)
-* remove old get status serializer method (d1eda61)
-* new status field and filter (e9b39d9)
-* added building status choices (e24ba46)
-* Merge branch 'EP-1104/remove\_log\_handler\_for\_client\_ep\_installaation' into 'stg' (f0b676a)
+* Merge branch 'EP-1104/remove_log_handler_for_client_ep_installaation' into 'stg' (f0b676a)
 * remove graypy handler for client installation (627fcb4)
-* Merge branch 'EP-1104/add\_graylog\_integration' into 'stg' (8b6a729)
+* Merge branch 'EP-1104/add_graylog_integration' into 'stg' (8b6a729)
 * add graylog integration (e9fa8ba)
 * add names for loggers (f36c7ea)
-* add names for loggers (e482a26)
-* Merge branch 'EP-1156/add\_new\_filters\_to\_the\_building\_map\_endpoint' into 'stg' (7d84762)
+* Merge branch 'EP-1156/add_new_filters_to_the_building_map_endpoint' into 'stg' (7d84762)
 * add filters by slots and ports to the building map (45993cf)
 * forbid celery remote control (af06d42)
-* Merge branch 'EP-000/add\_more\_info\_about\_author\_in\_detail\_log\_response' into 'stg' (f154a4c)
+* Merge branch 'EP-000/add_more_info_about_author_in_detail_log_response' into 'stg' (f154a4c)
 * reduce db queries (2aa3264)
 * more info about author (c62a7d5)
-* Merge branch 'EP-1110/change\_port\_status\_by\_user' into 'stg' (efbc919)
+* Merge branch 'EP-1110/change_port_status_by_user' into 'stg' (efbc919)
 * use update methods to change status (33c9bd4)
 * switch on/off admin status on port (0a3eb17)
 * Code refactoring (d3c300e)
 * Added new statuses for building and to the filter (6c33c8f)
-
-***
-
+---
 ## v2.3.6 - 2023-07-04
-
 #### Changes:
-
-* remove CELERY\_ENABLE\_REMOTE\_CONTROL (71c64b6)
+* remove CELERY_ENABLE_REMOTE_CONTROL (71c64b6)
 * Merge branch 'stg' into 'master' (230d36e)
-* Merge branch 'EP-000/add\_redoc\_schema' into 'stg' (f79194b)
+* Merge branch 'EP-000/add_redoc_schema' into 'stg' (f79194b)
 * include migrations (1447063)
 * description for template module (06aab06)
 * description for onu module (8b5016b)
 * description for olt (6743d77)
 * description for core module (3436382)
-* Merge branch 'EP-000/fix\_duplicate\_client\_error' into 'stg' (3587980)
-* Merge branch 'EP-1142/add\_all\_new\_permissions\_to\_admin\_group' into 'stg' (c74ab94)
+* Merge branch 'EP-000/fix_duplicate_client_error' into 'stg' (3587980)
+* Merge branch 'EP-1142/add_all_new_permissions_to_admin_group' into 'stg' (c74ab94)
 * Merge branch 'stg' into 'master' (ba04ce5)
 * fixed cython compilation (f4d90b5)
 * Merge branch 'stg' into 'master' (7034702)
@@ -92,11 +68,11 @@
 * add created permission to the admin group member as user permission (88a236b)
 * assign new permissions to the admin group (516a7c5)
 * check client exists with a billing key (2fb47ef)
-* Merge branch 'EP-000/try\_to\_fix\_registering\_onu\_on\_zte\_220\_olts' into 'stg' (6ff72d6)
+* Merge branch 'EP-000/try_to_fix_registering_onu_on_zte_220_olts' into 'stg' (6ff72d6)
 * limited max retries and added timeout (c1dc2f8)
 * limited max retries and added timeout (3747b37)
 * method for send and receive commands with retry (d0dd251)
-* Merge branch 'EP-000/fix\_bdcom\_olt\_creating' into 'stg' (8c448f3)
+* Merge branch 'EP-000/fix_bdcom_olt_creating' into 'stg' (8c448f3)
 * fix BDCOM olt snmp protocol connection check and adding new one (4e9b45b)
 * Revert "fix BDCOM olt snmp protocol connection check and adding new one" (757e309)
 * Revert "fix BDCOM olt snmp protocol connection check and adding new one" (6a6bbf3)
@@ -106,51 +82,41 @@
 * try to fix redis failures (0bc7bac)
 * added redoc openapi schema (559a073)
 * added redoc openapi schema (446c546)
-* Merge branch 'EP-000/fix\_onu\_ethernet\_oper\_status\_port' into 'stg' (2944ebb)
+* Merge branch 'EP-000/fix_onu_ethernet_oper_status_port' into 'stg' (2944ebb)
 * set port status as unknown (0be0975)
 * raise error when port oper status is unknown (5c7d9fd)
-* Merge branch 'EP-1130/check\_connection\_with\_user\_credentials\_on\_retry' into 'stg' (1045a35)
+* Merge branch 'EP-1130/check_connection_with_user_credentials_on_retry' into 'stg' (1045a35)
 * check connection with user credentials on retry (1107142)
-* Merge branch 'EP-1130/check\_userside\_connection\_by\_data\_from\_user\_or\_from\_db' into 'stg' (d3772c3)
+* Merge branch 'EP-1130/check_userside_connection_by_data_from_user_or_from_db' into 'stg' (d3772c3)
 * check userside connection with data from user of from settings (fe6a3a3)
-* Merge branch 'EP-1129/enabale\_us\_sync\_and\_google\_auth\_flag' into 'stg' (ee4007d)
+* Merge branch 'EP-1129/enabale_us_sync_and_google_auth_flag' into 'stg' (ee4007d)
 * Resolve EP-1129 "/enabale us sync and google auth flag" (d0b2269)
-
-***
-
+---
 ## v2.3.5 - 2023-06-21
-
 #### Changes:
-
 * Merge branch 'stg' into 'master' (44d843c)
-* Merge branch 'EP-000/fix\_zte\_220\_onu\_registration' into 'stg' (7411535)
+* Merge branch 'EP-000/fix_zte_220_onu_registration' into 'stg' (7411535)
 * generate title for log entry (f00af8e)
 * trim to long title (772d8d8)
 * cut generated title and mask password (a8c9470)
 * fix registering onu when number on port is not free (4a4c2de)
 * fix retrieving onu when there is more than one onu (9e36768)
 * fix migration dependencies (e0ade66)
-
-***
-
+---
 ## v2.3.4 - 2023-06-20
 
-***
-
+---
 ## v2.3.3 - 2023-06-20
 
-***
-
+---
 ## v2.3.2 - 2023-06-16
-
 #### Changes:
-
 * Merge branch 'stg' into 'master' (b1503a7)
-* Merge branch 'EP-000/update\_onu\_main\_info\_on\_sync' into 'stg' (465513b)
+* Merge branch 'EP-000/update_onu_main_info_on_sync' into 'stg' (465513b)
 * update main onu info on sync and refresh from db (55888cb)
-* Merge branch 'EP-000/fix\_multiple\_onu\_return\_in\_save\_onu\_method' into 'stg' (4507b4e)
+* Merge branch 'EP-000/fix_multiple_onu_return_in_save_onu_method' into 'stg' (4507b4e)
 * Merge branch 'stg' into 'master' (eb71cce)
-* Merge branch 'EP-000/create\_user\_for\_external\_api\_requests' into 'stg' (e579b46)
+* Merge branch 'EP-000/create_user_for_external_api_requests' into 'stg' (e579b46)
 * remove old method (7c097cb)
 * get first match onu when filter without id (6a973b3)
 * add api request type and address to serializer (0d85dbc)
@@ -159,8 +125,8 @@
 * set author null (bab0927)
 * create user for external api requests if auth is stateless (dab3083)
 * Merge branch 'stg' into 'master' (f9851ac)
-* Merge branch 'EP-000/onu\_config\_type\_has\_templates\_count\_without\_custom\_presets' into 'stg' (2a3582e)
-* Merge branch 'EP-000/increase\_time\_for\_onu\_periodic\_time\_and\_fix\_task\_status' into 'stg' (2cabeca)
+* Merge branch 'EP-000/onu_config_type_has_templates_count_without_custom_presets' into 'stg' (2a3582e)
+* Merge branch 'EP-000/increase_time_for_onu_periodic_time_and_fix_task_status' into 'stg' (2cabeca)
 * shift crontab (40d5dbb)
 * shift crontab (cb214f4)
 * set default values to progress counter if key not exists (d8382bd)
@@ -168,59 +134,55 @@
 * fix onu task status receiving (5687238)
 * change interval for periodic tasks (6e48c59)
 * Merge branch 'stg' into 'master' (346d7f5)
-* Merge branch 'EP-000/fix\_migration\_onu\_args' into 'stg' (f00d486)
+* Merge branch 'EP-000/fix_migration_onu_args' into 'stg' (f00d486)
 * fix onu port migration (150f665)
-
-***
-
+---
 ## v2.3.1 - 2023-06-13
-
 #### Changes:
-
 * Merge branch 'stg' into 'master' (15ea910)
-* Merge branch 'EP-000/fix\_mac\_assigment\_in\_userside\_integration' into 'stg' (60f170b)
+* Merge branch 'EP-000/fix_mac_assigment_in_userside_integration' into 'stg' (60f170b)
 * fix mac assigment in userside integration (537c7be)
-* Merge branch 'EP-000/more\_descriptive\_title\_for\_patch\_log\_entry' into 'stg' (0989103)
+* Merge branch 'EP-000/more_descriptive_title_for_patch_log_entry' into 'stg' (0989103)
 * update description (ce9aa08)
 * added changed data to the title of log entry (3294376)
-* Merge branch 'EP-000/fix\_get\_onu\_mac\_from\_user\_info' into 'stg' (fd5c754)
+* Merge branch 'EP-000/fix_get_onu_mac_from_user_info' into 'stg' (fd5c754)
 * use suppress context manager (dca7401)
 * fix get onu mac or serial from userside user info (3d28ec1)
-* Merge branch 'EP-000/add\_ordering\_by\_title\_to\_account\_logs' into 'stg' (fe215d4)
+* Merge branch 'EP-000/add_ordering_by_title_to_account_logs' into 'stg' (fe215d4)
 * added ordering by title (6e7175e)
-* Merge branch 'EP-000/add\_page\_size\_to\_map\_building' into 'stg' (a99ee45)
+* Merge branch 'EP-000/add_page_size_to_map_building' into 'stg' (a99ee45)
 * replaced paginator with increased page size (48547d8)
-* Merge branch 'EP-1025/validate\_onu\_instances\_with\_serializer' into 'stg' (fca4f54)
-* Merge branch 'EP-000/fix\_setting\_userside\_fields' into 'stg' (badf76d)
-* Merge branch 'EP-000/fix\_kwargs\_assigment\_in\_api\_logging' into 'stg' (37f1f5a)
+* Merge branch 'EP-1025/validate_onu_instances_with_serializer' into 'stg' (fca4f54)
+* Merge branch 'EP-000/fix_setting_userside_fields' into 'stg' (badf76d)
+* Merge branch 'EP-000/fix_kwargs_assigment_in_api_logging' into 'stg' (37f1f5a)
 * validate onu instances with serializer (b66d621)
 * fix settings for userside integration (3933b50)
 * create signal kwargs on class initialization (a524912)
-* Merge branch 'EP-000/fix\_client\_group\_assigment' into 'stg' (cf4aa13)
+* Merge branch 'EP-000/fix_client_group_assigment' into 'stg' (cf4aa13)
 * fix retrieving crontab for tasks (aa4d4ea)
 * fix retrieving crontab for tasks (b1da729)
 * add client to admin site (5dd062b)
 * fix group creation when not exists (a221259)
-* Merge branch 'EP-000/remove\_not\_exists\_task' into 'stg' (eeded54)
-* Merge branch 'EP-000/fix\_loging\_failed\_requests' into 'stg' (ab704e8)
-* Merge branch 'EP-000/fix\_userside\_request\_serivce' into 'stg' (1e7c96b)
+* Merge branch 'EP-000/remove_not_exists_task' into 'stg' (eeded54)
+* Merge branch 'EP-000/fix_loging_failed_requests' into 'stg' (ab704e8)
+* Merge branch 'EP-000/fix_userside_request_serivce' into 'stg' (1e7c96b)
 * remove not exists task (cf7c15e)
 * fix log error on failed request (c9be74e)
 * fix request args (ad5d1f2)
-* Merge branch 'EP-1076/filtering\_and\_ordering\_building\_list' into 'stg' (09d27de)
+* Merge branch 'EP-1076/filtering_and_ordering_building_list' into 'stg' (09d27de)
 * remove redundant serializer (c16c12b)
 * created filters and split serializers (69f0331)
-* Merge branch 'EP-000/add\_pagination\_to\_building\_map' into 'stg' (7a8edf0)
+* Merge branch 'EP-000/add_pagination_to_building_map' into 'stg' (7a8edf0)
 * add pagination to building map (214444a)
-* Merge branch 'EP-000/return\_all\_buildings\_on\_map' into 'stg' (262ae72)
+* Merge branch 'EP-000/return_all_buildings_on_map' into 'stg' (262ae72)
 * Resolve EP-000 "/return all buildings on map" (70909ef)
-* Merge branch 'EP-000/include\_onu\_magic\_and\_olt\_type\_in\_onu\_response' into 'stg' (ddb617d)
+* Merge branch 'EP-000/include_onu_magic_and_olt_type_in_onu_response' into 'stg' (ddb617d)
 * add onu magic and olt type in external onu response (eda168d)
-* Merge branch 'EP-000/send\_domain\_name\_on\_sync\_license\_request' into 'stg' (6d0dd0c)
+* Merge branch 'EP-000/send_domain_name_on_sync_license_request' into 'stg' (6d0dd0c)
 * send domain name in header on check license requests (d67d098)
-* Merge branch 'EP-000/add\_onu\_list\_to\_building' into 'stg' (3755d5d)
+* Merge branch 'EP-000/add_onu_list_to_building' into 'stg' (3755d5d)
 * Resolve EP-000 "/add onu list to building" (90f63d2)
-* Merge branch 'EP-1057/userside\_integration\_settings' into 'stg' (559cb1b)
+* Merge branch 'EP-1057/userside_integration_settings' into 'stg' (559cb1b)
 * Resolve EP-1057 "/userside integration settings" (a8250c8)
 * Merge branch 'stg' into 'master' (34f12f7)
 * Fix filtering in map building (7751d9e)
@@ -230,34 +192,30 @@
 * Add celery integration to sentry sdk (a9cf1e3)
 * Change crontab of userside sync (507c2a2)
 * Merge branch 'stg' into 'master' (b39dbdd)
-* Merge branch 'EP-1059/add\_permission\_to\_config\_endpoint' into 'stg' (61c7c12)
+* Merge branch 'EP-1059/add_permission_to_config_endpoint' into 'stg' (61c7c12)
 * Resolve EP-1059 "/add permission to config endpoint" (03db858)
-* Merge branch 'EP-000/fix\_get\_qinq\_ports' into 'stg' (b79c9c0)
+* Merge branch 'EP-000/fix_get_qinq_ports' into 'stg' (b79c9c0)
 * fix retrieving qinq port (97ac61d)
-* Merge branch 'EP-1048/save\_search\_filters' into 'stg' (d21f575)
+* Merge branch 'EP-1048/save_search_filters' into 'stg' (d21f575)
 * Save and manage filters the user uses to filter some data in different modules. (47a6c5d)
-* Change format of geopoint in map\_building (2077d63)
-* Merge branch 'EP-1025/transfer\_onu\_location\_and\_notice\_after\_dublicate\_deletion' into 'stg' (ba793ce)
+* Change format of geopoint in map_building (2077d63)
+* Merge branch 'EP-1025/transfer_onu_location_and_notice_after_dublicate_deletion' into 'stg' (ba793ce)
 * Resolve EP-1025 "/transfer onu location and notice after dublicate deletion" (6df012e)
 * Fix switch urls (46d71ca)
-* Merge branch 'EP-759/switch\_topology' into 'stg' (9e83aa4)
+* Merge branch 'EP-759/switch_topology' into 'stg' (9e83aa4)
 * Add switch topology graph (9d9fc15)
-* Merge branch 'EP-000/cherry\_pick\_card\_type\_to\_external\_onu\_api' into 'master' (726de9d)
+* Merge branch 'EP-000/cherry_pick_card_type_to_external_onu_api' into 'master' (726de9d)
 * added connection type to external onu api response (c108634)
-* Merge branch 'EP-000/add\_card\_type\_to\_external\_onu\_api' into 'stg' (ea94f0d)
+* Merge branch 'EP-000/add_card_type_to_external_onu_api' into 'stg' (ea94f0d)
 * added connection type to external onu api response (73c1a6a)
 * Add type of userside synchronization (a642b6d)
-* Merge branch 'EP-1015/change\_invalid\_login\_description\_message' into 'stg' (ba5ce34)
-* Merge branch 'EP-1014/logout\_user\_after\_deactivating' into 'stg' (8247c19)
+* Merge branch 'EP-1015/change_invalid_login_description_message' into 'stg' (ba5ce34)
+* Merge branch 'EP-1014/logout_user_after_deactivating' into 'stg' (8247c19)
 * change invalid login description message (3747b18)
 * logout user after deactivating (4eca60d)
-
-***
-
+---
 ## v2.3.0 - 2023-05-18
-
 #### Changes:
-
 * Merge branch 'stg' into 'master' (e11a482)
 * Rename some settings (68bbc2e)
 * Merge branch 'master' into stg (dd0d43a)
@@ -270,127 +228,106 @@
 * Add integration for userside, now you can import geolocation onu (a4e6f7e)
 * Update disprofile module (b882b4b)
 * Add near onu geolocation (920ac3c)
-* Merge branch 'EP-000/fix\_searching\_soft\_deleted\_onus' into 'stg' (f2cfbd4)
+* Merge branch 'EP-000/fix_searching_soft_deleted_onus' into 'stg' (f2cfbd4)
 * Fix registering onu on deleted onu. (d0642c3)
-* Merge branch 'EP-000/init\_olt\_cache\_task' into 'stg' (f30824c)
+* Merge branch 'EP-000/init_olt_cache_task' into 'stg' (f30824c)
 * Add detail task information about initialise OLT. (34f1690)
-* Merge branch 'EP-000/fix\_creating\_onu\_config\_type\_on\_huawei\_ilt' into 'stg' (8b1427f)
+* Merge branch 'EP-000/fix_creating_onu_config_type_on_huawei_ilt' into 'stg' (8b1427f)
 * Fix onu config type creating on Huawei olt. (607e04d)
-* Merge branch 'EP-000/fix\_clear\_deleting\_old\_report\_files' into 'stg' (44bd020)
+* Merge branch 'EP-000/fix_clear_deleting_old_report_files' into 'stg' (44bd020)
 * Remove damaged reports after unsuccessful file downloading. (085058a)
-* Merge branch 'EP-000/fix\_updating\_task\_status\_on\_long\_tasks' into 'stg' (64d58ab)
+* Merge branch 'EP-000/fix_updating_task_status_on_long_tasks' into 'stg' (64d58ab)
 * Fix onu task status changes. (b5c685d)
-* Merge branch 'EP-000/handle\_snmp\_error\_on\_onu\_reboot' into 'stg' (3fe5f32)
+* Merge branch 'EP-000/handle_snmp_error_on_onu_reboot' into 'stg' (3fe5f32)
 * Return descriptive message when try to reboot onu and get the connection error. (78c153b)
 * Add release to sentry tracking (250da80)
 * Fix clients mac on huawei (9c851d5)
 * Add find by hexed serial number onu (25aa30b)
-* Merge branch 'EP-000/cherry\_pick\_fix\_onu\_tasks' into 'master' (505e319)
+* Merge branch 'EP-000/cherry_pick_fix_onu_tasks' into 'master' (505e319)
 * Fix onu update tasks (e6f7c46)
 * Skipped slots without qinq (bb6b87d)
-* Merge branch 'EP-000/connect\_status\_information\_with\_update\_onu\_tasks' into 'stg' (d29df40)
+* Merge branch 'EP-000/connect_status_information_with_update_onu_tasks' into 'stg' (d29df40)
 * Fix onu update tasks (d787667)
-* Merge branch 'EP-000/fix\_update\_vlans\_task' into 'stg' (5b5a49f)
+* Merge branch 'EP-000/fix_update_vlans_task' into 'stg' (5b5a49f)
 * Fix update onu ethernet vlans tasks. (c85d573)
-* Merge branch 'EP-954/format\_response\_from\_custom\_actions' into 'stg' (c2d74ae)
+* Merge branch 'EP-954/format_response_from_custom_actions' into 'stg' (c2d74ae)
 * Formatted custom action result response. (11990b6)
-* Merge branch 'EP-822/additional\_ordering\_for\_some\_tables' into 'stg' (8c7316c)
+* Merge branch 'EP-822/additional_ordering_for_some_tables' into 'stg' (8c7316c)
 * Added ordering to for onu port migration and file report tables. (2a19963)
-* Merge branch 'EP-948/remove\_reports\_with\_non\_exisiting\_files' into 'stg' (299142e)
+* Merge branch 'EP-948/remove_reports_with_non_exisiting_files' into 'stg' (299142e)
 * Clear not existing files and delete them from the filesystem. (f7f0e37)
-* Merge branch 'EP-000/show\_onu\_as\_base\_object\_in\_applied\_presets' into 'stg' (763515d)
+* Merge branch 'EP-000/show_onu_as_base_object_in_applied_presets' into 'stg' (763515d)
 * Improved onu filtering in logs. (2420155)
-* Merge branch 'EP-988/onu\_soft\_deletion' into 'stg' (f5afd7e)
+* Merge branch 'EP-988/onu_soft_deletion' into 'stg' (f5afd7e)
 * Log can handle the entire onu history. After onu deletion, it does not remove from db. (85dcc5a)
 * Add version checker for huawei (56a90d0)
 * Change commands for show config in huawei (a3d353a)
 * Fix reboot on huawei (4a368e4)
 * Fix full update onu on huawei (cab7422)
-* Merge branch 'EP-980/add\_huawei\_support' into 'stg' (942ab9a)
+* Merge branch 'EP-980/add_huawei_support' into 'stg' (942ab9a)
 * Add support of Huawei MA5608T. (9540005)
-* Merge branch 'EP-964/client\_can\_set\_google\_keys\_for\_oauth2' into 'stg' (64a0208)
+* Merge branch 'EP-964/client_can_set_google_keys_for_oauth2' into 'stg' (64a0208)
 * make google keys not required (022017f)
-* Merge branch 'EP-000/change\_endpoint\_for\_release\_check' into 'stg' (f7e0b51)
+* Merge branch 'EP-000/change_endpoint_for_release_check' into 'stg' (f7e0b51)
 * It was improved receiving latest release information. Now get the version that matches client requirements. (267121d)
-* Merge branch 'EP-959/show\_is\_user\_member\_of\_admin\_group' into 'stg' (34c008e)
+* Merge branch 'EP-959/show_is_user_member_of_admin_group' into 'stg' (34c008e)
 * Show notification for admin users if a new version of EeasyPON was released. (a1e4374)
-
-***
-
+---
 ## v2.2.2 - 2023-05-01
-
 #### Changes:
-
 * Merge branch 'stg' into 'master' (c869301)
 * Stg (5070bd3)
-* Merge branch 'EP-000/add\_action\_permissions' into 'master' (acdb91f)
+* Merge branch 'EP-000/add_action_permissions' into 'master' (acdb91f)
 * Created permission for custom onu action. (4a8fded)
-
-***
-
+---
 ## v2.2.1 - 2023-04-27
-
 #### Changes:
-
 * Merge branch 'stg' into 'master' (ed310bd)
 * Fix update onu on ZTE GPON (0b33d05)
-
-***
-
+---
 ## v2.2.0 - 2023-04-27
-
 #### Changes:
-
 * Release v2.1.1 (982ac49)
 * Update .gitlab-ci.yml file (a2e4a18)
 * Merge branch 'stg' into 'master' (c32a656)
 * Fix problem with compiled version (cb893d1)
-
-***
-
+---
 ## v2.1.1 - 2023-04-27
-
 #### Changes:
-
 * Update .gitlab-ci.yml file (a2e4a18)
 * Merge branch 'stg' into 'master' (c32a656)
 * Fix problem with compiled version (cb893d1)
-
-***
-
+---
 ## v2.1.0 - 2023-04-27
-
 #### Changes:
-
 * Merge branch 'stg' into 'master' (07e33df)
-* Merge branch 'EP-000/fix\_template\_variable\_migration' into 'stg' (99f52d2)
+* Merge branch 'EP-000/fix_template_variable_migration' into 'stg' (99f52d2)
 * Fix install issue with DB migration. (03db83c)
 * Fix problem with infinity get all onu on some ZTE (6c6e247)
 * Fix problem on c320 with "No such instance" on get onu status (60459eb)
-* Merge branch 'EP-000/find\_olt\_timezone\_based\_on\_retrieved\_time' into 'stg' (58752c1)
+* Merge branch 'EP-000/find_olt_timezone_based_on_retrieved_time' into 'stg' (58752c1)
 * Changed method for retrieving olt timezone to improve time calculation. (576fef3)
-* Merge branch 'EP-946/fix\_editing\_periodic\_tasks' into 'stg' (7989163)
+* Merge branch 'EP-946/fix_editing_periodic_tasks' into 'stg' (7989163)
 * Fixed error when trying to update periodic tasks. (5b5866e)
-* Merge branch 'EP-000/fix\_shelf\_retrieving\_on\_c220\_olts' into 'stg' (4b2b435)
+* Merge branch 'EP-000/fix_shelf_retrieving_on_c220_olts' into 'stg' (4b2b435)
 * Fixed error on retrieving shel information on ZTE C220 olts. (fc40d8a)
-* Merge branch 'EP-000/set\_name\_for\_deleted\_onu\_on\_onu\_configruation\_log\_entry' into 'stg' (64b7037)
+* Merge branch 'EP-000/set_name_for_deleted_onu_on_onu_configruation_log_entry' into 'stg' (64b7037)
 * Increased description information about config onu log entry. (62134b9)
 * Fix migrate onu on another port (19bbfe2)
 * Disable prefetch related in olt viewset (b243cad)
-* Merge branch 'EP-000/additional\_fields\_to\_log\_list' into 'stg' (4a178ee)
+* Merge branch 'EP-000/additional_fields_to_log_list' into 'stg' (4a178ee)
 * Show additional info about the object in the main user log table. (9091164)
-* Merge branch 'EP-000/remove\_view\_switch\_logentry' into 'stg' (eb78d4d)
+* Merge branch 'EP-000/remove_view_switch_logentry' into 'stg' (eb78d4d)
 * Remove logging every view action on the switch and switch port. (7bb4929)
-* Merge branch 'EP-000/onu\_port\_number\_macros' into 'stg' (c987b52)
+* Merge branch 'EP-000/onu_port_number_macros' into 'stg' (c987b52)
 * New macros for retrieving onu port number (8bad61b)
-* Merge branch 'EP-926/change\_description\_for\_xlsx\_export\_when\_filters\_are\_not\_set' into 'stg' (61e098a)
+* Merge branch 'EP-926/change_description_for_xlsx_export_when_filters_are_not_set' into 'stg' (61e098a)
 * A more informative description of the Excel exported file. (f348f53)
-* Merge branch 'EP-922/total\_onus\_counter' into 'stg' (83cb743)
-* Added to background task that scans all "onus" on the olt more detailed information about each record.\
-  Implemented a counter to keep track of the total number of ONUs found when scanning them on OLT. (3792717)
-* Merge branch 'EP-000/update\_install\_instruction' into 'stg' (ba99a28)
+* Merge branch 'EP-922/total_onus_counter' into 'stg' (83cb743)
+* Added to background task that scans all "onus" on the olt more detailed information about each record.<br> Implemented a counter to keep track of the total number of ONUs found when scanning them on OLT. (3792717)
+* Merge branch 'EP-000/update_install_instruction' into 'stg' (ba99a28)
 * Updated install instructions (25e7fda)
-* Merge branch 'EP-000/get\_google\_client\_id\_endpoint' into 'stg' (497691b)
+* Merge branch 'EP-000/get_google_client_id_endpoint' into 'stg' (497691b)
 * Retrieve Google client id for oauth2 authentication. (79ebeb7)
 * Add redis to ci/cd (dffe609)
 * Add redis to ci/cd (103f6e5)
@@ -406,79 +343,67 @@
 * Done with export documentation to gitbook (9ba1d43)
 * Done with export documentation to gitbook (830ffcd)
 * Add override xclsx name for olt classes (3317a2c)
-* Merge branch 'EP-000/change\_location\_map\_route' into 'stg' (d8f6790)
+* Merge branch 'EP-000/change_location_map_route' into 'stg' (d8f6790)
 * Changed location map route. (e8e78cb)
-* Merge branch 'EP-000/fix\_onu\_location\_retrieving' into 'stg' (26b2b41)
+* Merge branch 'EP-000/fix_onu_location_retrieving' into 'stg' (26b2b41)
 * Fixed onu location retrieving (63cef46)
 * Add cache-control to allow headers (db2c1ed)
 * Test clear cache endpoint (1dfa70d)
-* Merge branch 'EP-000/hide\_internal\_periodic\_tasks' into 'stg' (89551c0)
+* Merge branch 'EP-000/hide_internal_periodic_tasks' into 'stg' (89551c0)
 * Removed the internal periodic tasks from the request result, so now users will only see the main tasks associated with them. (8dedbd9)
-* Merge branch 'EP-819/save\_front\_filters' into 'stg' (46a718b)
+* Merge branch 'EP-819/save_front_filters' into 'stg' (46a718b)
 * Added ability for users to save and retrieve filter parameters. (be73aef)
-* Merge branch 'EP-820/create\_install\_md\_file' into 'stg' (4149dbc)
+* Merge branch 'EP-820/create_install_md_file' into 'stg' (4149dbc)
 * Added installation instructions for EasyPON. (496bf5e)
-* Merge branch 'EP-888/add\_new\_fields\_to\_onu\_logs' into 'stg' (d026ff1)
+* Merge branch 'EP-888/add_new_fields_to_onu_logs' into 'stg' (d026ff1)
 * Improve ONU logging to include information on retrieval and applying configuration results: success and failure. (bcefcc4)
-* Merge branch 'EP-899/merge\_migrations' into 'stg' (da92e29)
+* Merge branch 'EP-899/merge_migrations' into 'stg' (da92e29)
 * Resolve EP-899 "/merge migrations" (7142e3b)
-* Merge branch 'EP-899/add\_permission\_for\_onu\_duplicates' into 'stg' (c791550)
+* Merge branch 'EP-899/add_permission_for_onu_duplicates' into 'stg' (c791550)
 * Implement access control for dedicated source with new 'Can view onu duplicates' permission (f5ae1d0)
 * add celery-expoter binary adn systemd service (49e2c1a)
-* Merge branch 'EP-895/get\_olt\_name\_on\_the\_olt\_creation' into 'stg' (decdba2)
+* Merge branch 'EP-895/get_olt_name_on_the_olt_creation' into 'stg' (decdba2)
 * Simplify the OLT registration process with the minimal required info: IP, login, pass, and olt type (30c8973)
-* Merge branch 'EP-907/add\_offline\_time\_to\_duplicates\_onus\_on\_detail\_onu\_edpoint' into 'stg' (691dbbd)
+* Merge branch 'EP-907/add_offline_time_to_duplicates_onus_on_detail_onu_edpoint' into 'stg' (691dbbd)
 * Resolve EP-907 "/add offline time to duplicates onus on detail onu edpoint" (eb4648b)
-* Merge branch 'EP-907/add\_field\_with\_onu\_duplicates\_to\_detail\_onu' into 'stg' (04d8758)
+* Merge branch 'EP-907/add_field_with_onu_duplicates_to_detail_onu' into 'stg' (04d8758)
 * Implemented new feature for detail page that allows users to view a list of duplicated ONUs, if they exist. (6f27c17)
-* Merge branch 'EP-903/remove\_ru\_description' into 'stg' (9df91a6)
+* Merge branch 'EP-903/remove_ru_description' into 'stg' (9df91a6)
 * Streamlined project language support by keeping only English descriptions. (e81eaa2)
-* Merge branch 'EP-822/add\_ordering\_for\_all\_tables' into 'stg' (8da11e8)
+* Merge branch 'EP-822/add_ordering_for_all_tables' into 'stg' (8da11e8)
 * Implemented new feature: Ordering filter now available for all tables. (e665ddd)
-* Merge branch 'EP-884/remove\_olt\_name\_from\_onu\_firmware\_variety\_list' into 'stg' (59771d2)
+* Merge branch 'EP-884/remove_olt_name_from_onu_firmware_variety_list' into 'stg' (59771d2)
 * In the onu firmware variety list, all rows are not grouped by olt. (6319bbb)
-* Merge branch 'EP-847/change\_start\_time\_for\_tasks' into 'stg' (a6b4e2d)
+* Merge branch 'EP-847/change_start_time_for_tasks' into 'stg' (a6b4e2d)
 * Resolve EP-847 "/change start time for tasks" (4ca46db)
-* Merge branch 'EP-872/translate\_permissions' into 'stg' (410955c)
+* Merge branch 'EP-872/translate_permissions' into 'stg' (410955c)
 * edit all permissions name (250d4db)
-* Merge branch 'EP-847/rework\_olt\_periodic\_tasks' into 'stg' (cf8e0f3)
-
-***
-
+* Merge branch 'EP-847/rework_olt_periodic_tasks' into 'stg' (cf8e0f3)
+---
 ## v2.0.3 - 2023-04-03
 
-***
-
+---
 ## v2.0.2 - 2023-03-29
-
 #### Changes:
-
 * Merge branch 'stg' (cc9940f)
 * Update release-it package (da53d73)
 * Merge remote-tracking branch 'origin/master' (af56bc3)
 * Add artifacts (7b8e461)
-
-***
-
+---
 ## v2.0.1 - 2023-03-29
-
 #### Changes:
-
 * Merge branch 'stg' (8466619)
 * Done with cicd (e6735b6)
 * Merge branch 'stg' into 'master' (7bcda83)
 * Merge remote-tracking branch 'origin/stg' into stg (0a9a612)
 * Fix module (764a6ea)
-* Merge branch 'EP-000/release\_changelog\_and\_decompess\_response\_data' into 'stg' (ea4a79d)
+* Merge branch 'EP-000/release_changelog_and_decompess_response_data' into 'stg' (ea4a79d)
 * remove compressed data (f41cb55)
 * fix outdated checking (750abc7)
 * add latest ep release endpoint (f3eab1f)
 * decompress data in license check request (5af9d9b)
-
-***
-
+---
 ## v2.0.0 - 2023-03-29
 
-***
-
+---
 ## v1.0.0 - 2023-03-28
