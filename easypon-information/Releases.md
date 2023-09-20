@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.3.12 - 2023-09-20
+
+---
 ## v2.3.11 - 2023-08-31
 #### Changes:
 * Reduce task chunk amount for OLT ZTE c220
