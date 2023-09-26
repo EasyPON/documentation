@@ -1,12 +1,23 @@
-# 1⃣ How to install EasyPON
+---
+description: >-
+  There are a few ways to install EasyPON distribution. You can use the bash
+  script for the automatic installation of EasyPON and all required OS
+  dependencies or you can get acquainted with the demo.
+---
+
+# How to install EasyPON
 
 ## OS requirements
 
-OS: Debian 11
+**OS:** Debian 11
 
-RAM: 4GB
+[**Platform**](#user-content-fn-1)[^1]**:** Tested on [amd64](https://wiki.debian.org/DebianAMD64).&#x20;
 
-Storage: 30GB
+**RAM:** 4GB
+
+**Storage:** 30GB
+
+## Installation
 
 {% content-ref url="how-to-install-easypon/guide-for-debian-11.md" %}
 [guide-for-debian-11.md](how-to-install-easypon/guide-for-debian-11.md)
@@ -18,13 +29,15 @@ Storage: 30GB
 
 ## Demo
 
-To see what EasyPON is capable of, simply visit our demo page and give it a try on the web:
+To see what EasyPON is capable of, simply visit our demo and give it a try on the web:
 
 [https://demo.easypon.in/login](https://demo.easypon.in/login)
 
-Login: demo \
-Password: epdemo12
+**Login:** demo \
+**Password:** epdemo12
 
 ### Updating EasyPON
 
 [Debian 11 update](how-to-install-easypon/guide-for-debian-11.md#updating-easypon-debian) guide
+
+[^1]: It is possible to use other available Debian platforms with a workaround.
