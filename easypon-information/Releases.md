@@ -7,6 +7,7 @@
 ## v2.3.13 - 2023-09-22
 #### Changes:
 * Added some endpoints for the public API: onu types, olt types, custom action
+* Remove external modules from the requirements (998e6ba2)
 ---
 ## v2.3.12 - 2023-09-20
 
