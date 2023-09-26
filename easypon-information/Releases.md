@@ -1,7 +1,8 @@
 # Changelog
 
 ## v2.3.14 - 2023-09-22
-
+#### Changes:
+* Fixed installation
 ---
 ## v2.3.13 - 2023-09-22
 
