@@ -3,6 +3,7 @@
 ## v2.3.14 - 2023-09-22
 #### Changes:
 * Merge branch 'stg' into 'master' (9ac45ea2)
+* Merge branch 'EP-000/fix-compiling-migrations' into 'stg' (5ab42861)
 ---
 ## v2.3.13 - 2023-09-22
 
