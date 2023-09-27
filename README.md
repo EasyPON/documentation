@@ -29,15 +29,15 @@ description: >-
 
 ## Demo
 
-To see what EasyPON is capable of, simply visit our demo and give it a try on the web:
+To see what EasyPON is capable of, simply visit our demo and give it a try on the web at [https://demo.easypon.in](https://demo.easypon.in/login).
 
-[https://demo.easypon.in/login](https://demo.easypon.in/login)
+#### Credentials:
 
 **Login:** demo \
 **Password:** epdemo12
 
 ### Updating EasyPON
 
-[Debian 11 update](how-to-install-easypon/guide-for-debian-11.md#updating-easypon-debian) guide
+[Debian 11 update](how-to-install-easypon/guide-for-debian-11.md#updating-easypon-debian) guide.
 
 [^1]: It is possible to use other available Debian platforms with a workaround.

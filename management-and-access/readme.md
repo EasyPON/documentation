@@ -1,26 +1,34 @@
-# Account
+---
+description: >-
+  The Profile page displays information about the user's account and the history
+  of his operation sessions in the EasyPON system.
+---
 
-The Account page displays information about the user's account and the history of his work sessions in the EasyPON system.
+# User Profile
+
+There are three cards available: User info, Licence, and Sessions.
 
 ![Profile page](../.gitbook/assets/Account.png)
 
-The Logout button allows you to end the session and exit the EasyPON system. After the session ends, the user will be redirected to the login page
-
 ## Info
 
-The Info card displays information on the user's account name - username and the user's email address - email. You can also change your password here.
+The Info card displays information on the user's name and surname, account name - Username, and the user's email address - Email. You can also change your password here.
 
-## Licence
+It is also possible to change the user password.
 
-Check here your subscription plan and payment amount
+## License
+
+Check your subscription plan and payment amount. On the License card you can check your company name from the EasyPON personal cabinet, the next payment checkout date for the active Easypon tariff, the current tariff name, and the status of the EasyPON license.
 
 ## Sessions
 
-The list with the session history in the Sessions section is displayed in tabular form with fields:
+The list with the session history in the Sessions card is displayed in tabular form with fields:
 
 * Date created - session creation date and time
 * Last activity - date and time of the user's last activity
 * Expiry - the expiration date of the session in the system
 * IP address - IP address of the user
-* Current session – session status. Possible values are Yes and No
-* Delete – delete session button. When deleting a session with the value Yes in the current session, the current user session will be deleted.
+* Current session – session status. Yes for the current session which can not be deleted and No for past sessions preserved for history.
+* Delete – remove the user session button.
+
+The Logout button allows you to close the session and exit the EasyPON system. After the session ends, the user will be redirected to the login page.
