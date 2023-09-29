@@ -1,7 +1,7 @@
 ---
 description: >-
-  It is possible to use GPON OLT 4/8/16 port and EPON OLT 4/8/16 ports versions
-  of the following vendors and models
+  It is possible to use GPON OLTs 4/8/16 port and EPON OLTs 4/8/16 ports
+  versions of the following vendors and models:
 ---
 
 # Supported hardware

@@ -1,42 +1,46 @@
+---
+description: Monitor and manage OLT
+---
+
 # Actions on the OLT
 
 ## Add OLT
 
 The Add OLT button opens the form for creating a new OLT Create OLT. On this page, it is possible to add a new OLT to the system and check the connection with the OLT before adding it using the Test Connection button.
 
-![Add OLT form](../.gitbook/assets/WBMIZOzWHg\_wssMRRFsyy\_image.png)
+![Add OLT form](<../.gitbook/assets/Screenshot 2023-09-28 at 23.30.37.png>)
 
 <details>
 
 <summary>The Add OLT form consists of the following fields:</summary>
 
-OLT Name - OLT title to identify it in the EasyPON system
+**OLT Name** - OLT title to identify it in the EasyPON system
 
-Type OLT - the type of current OLT
+**Type OLT** - the type of current OLT
 
-IP address - IP address of the OLT
+**IP address** - IP address of the OLT
 
-Shel - shelf number on the OLT
+**Shel** - shelf number on the OLT
 
-SNMP read community - SNMP sequence for reading OLT statistics
+**SNMP read community** - SNMP sequence for reading OLT statistics
 
-SNMP write community - SNMP sequence for recording OLT statistics data
+**SNMP write community** - SNMP sequence for recording OLT statistics data
 
-SNMP port
+**SNMP port**
 
-Telnet login
+**Telnet login**
 
-Telnet password&#x20;
+**Telnet password**&#x20;
 
-Telnet port
+**Telnet port**
 
-Autosave (On або Off)
+**Autosave** (On or Off)
 
 </details>
 
 ## Edit OLT
 
-OLT information can be edited by pressing the Edit button in the Quick Actions Bar section on the OLT page. To edit the OLT you need to modify data fields and then Save the form.
+OLT data can be edited by pressing the Edit button in the Quick Actions Bar section on the OLT page. To edit the OLT you need to modify data fields and then Save the form.
 
 ## Test connection
 

@@ -22,6 +22,20 @@ You can view these Docs, by pressing Show Downloads to locate filtered user repo
 
 it is also possible to add a new user from the All Users section by pressing the "+Add user" button.
 
+### Filter User
+
+You can filter users by the following parameters:
+
+* Username
+* Name
+* Email​
+* Joined before​
+* Joined after
+* Last login before
+* Last login after​
+
+You can also use the Add saved search record and always have fast access for applying frequent search templates. You can always delete saved searches to clear the applied filter with the corresponding options.
+
 ## User creation
 
 The "Create user" form presents fields for completion. In order for the user to have access to system operations, you can assign them group permissions by selecting the group or customize their individual permissions.
@@ -50,3 +64,5 @@ User access permissions are displayed in the User Permission and Group permissio
 The edit form allows you to change details of the user, such as their password and permissions, categorized by either group or personal preferences.
 
 You can assign a group to a user and provide them with special permissions by granting access in the "special permissions" sector. These permissions will take precedence over the permissions assigned to their group, but assigned already group permissions will not be excluded.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-09-28 at 21.10.22.png" alt=""><figcaption><p>Edit user form</p></figcaption></figure>
