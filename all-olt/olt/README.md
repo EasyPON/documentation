@@ -37,7 +37,7 @@ The following main information about OLT is available:
 
 **Delete OLT** - delete the OLT from the EasyPON system. OLT can be deleted by pressing the Delete button in the Quick Actions Bar section on the OLT page. To delete the OLT from the EasyPON system user confirmation is required.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-28 at 22.10.27.png" alt=""><figcaption><p>OLT page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-10-02 at 18.24.26.png" alt=""><figcaption><p>OLT page</p></figcaption></figure>
 
 ## Slots & Ports
 

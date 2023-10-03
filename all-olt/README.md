@@ -39,7 +39,7 @@ You can also use the Add saved search record and always have fast access for app
 
 You can access basic information about the OLTs in the general sector. To explore further about any of them, you can navigate to the [OLT detailed info](./#olt-detailed-information) page by clicking on the arrow in the "View" column.
 
-![All OLT page](<../.gitbook/assets/Screenshot 2023-09-28 at 23.20.59.png>)
+![All OLT page](<../.gitbook/assets/Screenshot 2023-10-02 at 18.23.35.png>)
 
 ## OLT detailed information
 

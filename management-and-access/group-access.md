@@ -26,7 +26,7 @@ To add a group press the "+ Add group button", by specifying the name in the Nam
 
 If you need to set full access to the section, you need to activate the Full Access switch. If the permissions are limited, then the group will have Partial Access and the necessary accesses must be set separately.
 
-![Add group page](<../.gitbook/assets/Screenshot 2023-09-26 at 22.37.27.png>)
+![Add group page](<../.gitbook/assets/Screenshot 2023-10-02 at 18.22.27.png>)
 
 Permission groups can be assigned while creating or editing users on the user account creation or editing form.
 

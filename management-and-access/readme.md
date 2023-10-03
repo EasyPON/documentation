@@ -8,7 +8,7 @@ description: >-
 
 There are three cards available: User info, Licence, and Sessions.
 
-![Profile page](../.gitbook/assets/Account.png)
+![Profile page](<../.gitbook/assets/Screenshot 2023-10-02 at 18.18.58.png>)
 
 ## Info
 

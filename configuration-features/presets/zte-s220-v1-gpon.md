@@ -4,7 +4,7 @@ description: Preset for ONU you want to register on this OLT
 
 # ZTE с220 v1 GPON
 
-```
+```sh
 // ZTE с220 v1 GPON Preset
 interface  {{onu.port_interface}} 
 onu {{onu_number}} type {{onu_type.value}} mac {{onu.mac_address | split:"."}} ip-cfg static

@@ -129,11 +129,11 @@ Displaying ONU statistical data in sections:
 
 <figure><img src="../.gitbook/assets/o3.png" alt=""><figcaption></figcaption></figure>
 
-Also there are 3 buttons to interact with ONU:
+Also, there are 3 buttons to interact with ONU:
 
 * **Reboot** - reboot selected ONU
 * **Synchronize** - after successful synchronization, all ONU data should be up to date
-* **Delete** - delete the ONU from system
+* **Delete** - delete the ONU from the system
 
 ## ONU Ports
 
@@ -146,13 +146,13 @@ ONU display with available ports and their status. The connected port type and i
 
 ## ONU location
 
-Shows ONU location on the map. If we move the mouse cursor over the label of ONU displays additional information, such as: ONU's amount, address, status and commentary.&#x20;
+Shows ONU's location on the map. If we move the mouse cursor over the label of ONU displays additional information, such as ONU's amount, address, status, and commentary.&#x20;
 
 <figure><img src="../.gitbook/assets/o5 (1).png" alt=""><figcaption></figcaption></figure>
 
-Also If the map extended there are 2 buttons:&#x20;
+Also If the map is extended there are 2 buttons:&#x20;
 
-* **Create building** - creating new ONU location&#x20;
+* **Create building** - creating a new ONU location. You can view specific building information at [Building workspace](../building-workspace/).
 *   **Edit location** - edit an existing ONU  location
 
 
@@ -167,7 +167,9 @@ Also If the map extended there are 2 buttons:&#x20;
 
 </div>
 
-##
+{% hint style="info" %}
+Notice, that even if ONU was deleted it keeps its location information after re-registration.
+{% endhint %}
 
 ## Ethernet Ports
 
