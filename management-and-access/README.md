@@ -1,5 +1,7 @@
 ---
-description: Easily manage, access EasyPON users and assign their permissions.
+description: >-
+  Easily manage, access EasyPON users and assign their permissions. Setup
+  EasyPON settings and integrations.
 ---
 
 # Access & Management
@@ -24,5 +26,7 @@ Periodic task configuration allows you to manage requests for information from y
 
 Group permissions are made for you to easily give access to a special part of the system to a group of people. You can configure any step from here and be sure that your employees have all the required information for work.
 
+## Integration
 
+The [Integration](integration.md) section of the EasyPON web application empowers users to seamlessly connect various external components to enhance their experience with EasyPON. Integrate Google services, UserSide integration, and create public API keys for interfacing with external EasyPON API.
 

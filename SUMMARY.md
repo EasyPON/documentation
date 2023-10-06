@@ -9,6 +9,7 @@
   * [Permissions](management-and-access/group-access.md)
   * [Users](management-and-access/users.md)
   * [Periodic Tasks](access-and-management/periodic-tasks.md)
+  * [Integration](management-and-access/integration.md)
 * [OLT workspace](all-olt/README.md)
   * [Actions on the OLT](all-olt/add-olt.md)
   * [OLT detailed information](all-olt/olt/README.md)

@@ -10,6 +10,7 @@ You need to have Docker Engine and Docker Compose on your machine. You can eithe
 
 * Install [Docker Engine](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/) as standalone binaries or
 * Install [Docker Desktop](https://docs.docker.com/desktop/) which includes both Docker Engine and Docker Compose
+* Installation instructions specific for [Docker Engine](https://docs.docker.com/engine/install/debian/) on Debian
 
 You don't need to install Python or Redis, as both are provided by Docker images.
 
