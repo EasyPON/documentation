@@ -10,7 +10,8 @@
 * Removed external modules from the requirements (998e6ba2)
 ---
 ## v2.3.12 - 2023-09-20
-
+#### Changes:
+* Fixed ONU filtering by mac and ordering by another field at the same time. (f3daeaa7)
 ---
 ## v2.3.11 - 2023-08-31
 #### Changes:
