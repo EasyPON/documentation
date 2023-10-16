@@ -11,6 +11,7 @@
 ---
 ## v2.3.12 - 2023-09-20
 #### Changes:
+* Implemented secure auth module for the user profiles
 * Fixed ONU filtering by mac and ordering by another field at the same time. (f3daeaa7)
 * Fixes for system stability response
 ---
