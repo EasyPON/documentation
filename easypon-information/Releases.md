@@ -12,6 +12,7 @@
 ## v2.3.12 - 2023-09-20
 #### Changes:
 * Fixed ONU filtering by mac and ordering by another field at the same time. (f3daeaa7)
+* Fixes for system stability response
 ---
 ## v2.3.11 - 2023-08-31
 #### Changes:
