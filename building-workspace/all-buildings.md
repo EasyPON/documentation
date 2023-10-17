@@ -67,4 +67,4 @@ There are a few fields available in the Building list table:
 * ONU amount - the amount of the connected ONU in the building
 * Entrances count - count of building entrances
 * Floors count - count of the building floors
-* View - the button to view full information about the building and the full list of oNU assigned to it
+* View - the button to view full information about the building and the full list of oNU assigned to it.

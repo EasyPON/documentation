@@ -29,4 +29,25 @@ The Migrations button can be also accessed from the [OLT workspace](all-olt/) qu
 
 The main information about this action is located on the migration page, while its history is only available after completion. You can always back to the Migrations page when required.
 
-![Planned migration](<.gitbook/assets/Screenshot 2023-09-28 at 23.41.07.png>)
+You can view migration details on the **Main info**: These are:
+
+* Port - OLT port
+* Date created - timestamp when migration was created
+* User - the name of the user who started the migration process
+* Status - status of the migration
+
+On the **History** panel, you can view&#x20;
+
+* № - number in the ONU
+* Port - ONU port
+* ONU - ONU name
+* MAC/SN - MAC address or serial number of the ONU
+* Status - ONU status
+* Date created - the timestamp the ONU was created
+* Show configs - view ONU configuration in the terminal.
+
+By clicking **Finish migration** you can **Finish** the migration process or **Cancel** it.
+
+<figure><img src=".gitbook/assets/Screenshot 2023-10-06 at 10.05.27.png" alt=""><figcaption><p>Specific Migration page</p></figcaption></figure>
+
+![Viewing ONU configuration](<.gitbook/assets/Screenshot 2023-10-06 at 10.06.17.png>)

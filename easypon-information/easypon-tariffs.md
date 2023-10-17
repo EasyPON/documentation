@@ -1,6 +1,10 @@
-# EasyPON pricing
+---
+description: >-
+  A wide and flexible range of tariff plans is available for EasyPON system
+  customers
+---
 
-A wide and flexible range of tariff plans is available for EasyPON system customers:
+# EasyPON pricing
 
 * **Free** (Up to 50 ONU available, Cost per ONU: 0$, Cost per month: 0$)
 * **Starter** Up to 150 available, Cost per ONU: 0.15$, Cost per month: 22.50$)

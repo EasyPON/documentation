@@ -8,8 +8,12 @@ description: >-
   system.
 ---
 
-# Double ONU
+# Duplicated ONU
 
-This will help you manage the removal of unnecessary equipment from the OLT that requests information about the ONU and rid your system of storing this data.
+This section will help you manage the removal of unnecessary equipment from the OLT that requests information about the ONU and rid your system of storing this data.
 
-![Double ONU page](../.gitbook/assets/zdDlhB3S2yTs5YxUt5vDQ\_image.png)
+![Double ONU page](<../.gitbook/assets/Screenshot 2023-10-09 at 00.44.03.png>)
+
+On the Quick Actions Bar, you can download generated reports by "Export to XLSX" for generation reports by pressing the Show Downloads button, and return back to the[ All ONU ](all-onu.md)section. Also, it is possible to view this documentation section by pressing the Docs button.
+
+Om Duplicates ONU table you can view duplicated ONU information, synchronize ONU information, Deelte, or view the specific ONU page.

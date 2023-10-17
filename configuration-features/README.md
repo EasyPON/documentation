@@ -1,12 +1,16 @@
 ---
-description: All you should know about configuration in EasyPON
+description: All you should know about ONU configuration and applying commands in EasyPON
 ---
 
-# 4⃣ Configuration features
+# Configuration features
 
-## Preset configuration list
+## Presets for ONU
 
-The first main feature to start with is the [**Preset list**](presets.md). This is a workspace that will help you add a list of saved configurations, allowing you to run it on a new unregistered ONU or change the configuration of an existing terminal to work the way you want. Normally, these settings are done through the terminal manually for each item, but in our system it can be done simply from the web in a seconds.
+The first main feature to start after adding OLT is the [Presets for ONU](presets.md). This workspace will help you add a list of saved ONU configurations (Presets), allowing you to apply them on unregistered ONUs or change the configuration of an existing ONU on the specific ONU page to work the way you want. Usually, these settings are done through the terminal manually for each ONU, but in the EasyPON web application, it can be done simply with UI right from the web in seconds.
 
-## Custom Action
+## Actions for ONU
+
+In the EasyPON web application, an [Action](./#actions-for-onu)[ for ONU](./#actions-for-onu) (Optical Network Unit) could be a specific operation or function that you want to perform on an ONU device in your daily ISP tasks and operations. This could include tasks like provisioning, configuring, or troubleshooting the ONU. Actions can be applied from a specific ONU page.
+
+
 

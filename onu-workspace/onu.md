@@ -3,11 +3,10 @@ title: ONU
 slug: DbMW-onu
 createdAt: Fri Nov 04 2022 15:46:40 GMT+0000 (Coordinated Universal Time)
 updatedAt: Tue Mar 07 2023 23:08:17 GMT+0000 (Coordinated Universal Time)
+description: The ONU page displays data on the selected ONU and consists of several blocks.
 ---
 
 # ONU detailed info
-
-The ONU page displays data on the selected ONU and consists of several sections:
 
 [Quick actions panel](onu.md#quick-actions-panel) - quick commands are available on the quick actions panel that can be executed on the page or from the ONU\
 [Information](onu.md#information) - general information about ONU\

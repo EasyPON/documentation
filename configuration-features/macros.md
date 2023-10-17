@@ -10,29 +10,29 @@ description: >-
 
 # Macros
 
-While creating or editing Preset, it is possible to click on a macros field with the left mouse button to add it to the Code field while editing preset in the Preset form.
+While creating or editing Preset or Action, it is possible to click on a macros field with the left mouse button to add it to the Code field while editing Preset in the Preset or Action form.
 
-Here is a [Description of Macros](macros.md#macros-description) along with examples to help you understand how it works.
+Below is a [Macros variables description](macros.md#macros-variables-description) along with examples to help you understand how it works.
 
-![Macros list](../.gitbook/assets/hlF6DGDCJgwJSWglb7QNG\_image.png)
+![Macros list](<../.gitbook/assets/Screenshot 2023-10-08 at 23.11.27.png>)
 
 <details>
 
 <summary>What do each macros represent?</summary>
 
-* onu.serial\_number - serial number of the ONU
-* onu.port\_interface - ONU port interface
-* onu.qinq\_free\_vlan - free qinq vlan ONU port
-* onu.onu\_interface - ONU interface
-* onu\_number - ONU number
-* onu.name - ONU name
-* onu\_type.value - ONU type value
-* onu.mac\_address - ONU mac address
-* onu.mac\_address | split "." - mac address of the current ONU, separated by the dot character
-* onu.mac\_address | split "-" - mac address of the current ONU, separated by the dash character
-* input\_params.field\_name - field name input\_params
+* `onu.serial_number` - serial number of the ONU
+* `onu.port_interface` - ONU port interface
+* `onu.qinq_free_vlan` - free qinq vlan ONU port
+* `onu.onu_interface` - ONU interface
+* `onu_number` - ONU number
+* `onu.name` - ONU name
+* `onu_type.value` - ONU type value
+* `onu.mac_address` - ONU Mac address
+* `onu.mac_address | split "."` - mac address of the current ONU, separated by the dot character
+* `onu.mac_address | split "-"` - mac address of the current ONU, separated by the dash character
+* `input_params.field_name` - field name input\_params
 
-You can view examples of their samples [here](https://app.gitbook.com/o/FLfeqEYvh9QVB713VXQE/s/MviMfLPCHms6Yo2oirJF/\~/changes/5/macros/macros-descriptions).
+You can view examples of their samples in the [Macros variables description](macros.md#macros-variables-description).
 
 </details>
 
@@ -42,15 +42,17 @@ Clicking on the view icon opposite a specific Macros opens a modal window with M
 
 * Name - Macros title
 * Example - an example value
-* Description en - description of Macros in English
+* Description - Description of Macros.
 
-From this modal window, it is also possible to **edit Macros** by pressing edit or close it by pressing the Close button. After editing, you can save changes by using the Save button or cancel the action by using the Cancel button.
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-08 at 23.11.20.png" alt=""><figcaption><p>Specific macros view</p></figcaption></figure>
 
-## Macros description
+You can **Close** the Macros view modal window after review.
+
+## Macros variables description
 
 #### onu.serial\_number
 
-The macros substitutes the ONU serial number. Example:
+The macros substitute the ONU serial number. Example:
 
 ```clike
 ZTEGC1282BD3
@@ -118,7 +120,7 @@ ZTE-F660-WIFI
 
 #### onu.mac\_address
 
-Substitutes the mac address of the ONU. Example:
+Substitutes the Mac address of the ONU. Example:
 
 ```kotlin
 00005e0053af
@@ -138,4 +140,4 @@ Request the user to input a value that will be inserted into the ONU configurati
 property description {{input_params.name}}
 ```
 
-During registration, the user will be requested for the name, which will be placed while applying the onu.name configuration.
+During registration, the user will be requested for the name, which will be placed while applying the `onu.name` configuration.
