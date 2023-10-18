@@ -20,11 +20,11 @@ bash <(curl -k https://cabinet.easypon.in/install_ep.sh) install
 
 The installation process will prompt you for various configuration options, such as your domain name and credentials for the EasyPon cabinet account. The app will be installed in `/usr/apps/easypon.`
 
-### Accessing EasyPON
+## Accessing EasyPON
 
-To access EasyPon, open your browser and navigate to your domain name or IP address of your server. You will be prompted to log in with your credentials, which you received in the terminal during installation, or which can be found in `/root/.tmp_ep_users`.
+To access EasyPon, open your browser and navigate to your server's domain name or IP address. You will be prompted to log in with your credentials, which you received in the terminal during installation, or which can be found in `/root/.tmp_ep_users`.
 
-## Updating EasyPon <a href="#updating-easypon-debian" id="updating-easypon-debian"></a>
+## Updating EasyPON <a href="#updating-easypon-debian" id="updating-easypon-debian"></a>
 
 To update EasyPON to the latest version, run the following command from a terminal:
 

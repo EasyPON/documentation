@@ -40,4 +40,6 @@ To see what EasyPON is capable of, simply visit our demo and give it a try on th
 
 [Debian 11 update](how-to-install-easypon/guide-for-debian-11.md#updating-easypon-debian) guide.
 
+[Docker compose](how-to-install-easypon/docker-compose-installation-guide.md) upgrade instructions.
+
 [^1]: It is possible to use other available Debian platforms with a workaround.

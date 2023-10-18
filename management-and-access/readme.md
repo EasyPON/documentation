@@ -6,7 +6,7 @@ description: >-
 
 # User Profile
 
-There are three cards available: User info, Licence, and Sessions.
+There are three cards available: User info, License, and Sessions.
 
 ![Profile page](<../.gitbook/assets/Screenshot 2023-10-02 at 18.18.58.png>)
 

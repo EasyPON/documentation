@@ -1,10 +1,33 @@
 ---
 description: >-
-  This guide will walk you through process of creating an EasyPON web
+  This guide will walk you through the process of creating an EasyPON web
   application docker image.
 ---
 
 # 🐳 Docker compose installation guide
+
+## Automatic Docker compose installation
+
+You can **install** EasyPON with Docker Compose just by executing the bash script with the `docker-install` parameter in Terminal.
+
+```bash
+apt update && apt install curl -y
+bash <(curl https://cabinet.easypon.in/install_ep.sh) docker-install
+```
+
+To **upgrade** EasyPON build you can run
+
+<pre class="language-bash"><code class="lang-bash"><strong>bash &#x3C;(curl https://cabinet.easypon.in/install_ep.sh) docker-upgrade
+</strong></code></pre>
+
+To **repair** the EasyPON build run
+
+<pre class="language-bash"><code class="lang-bash"><strong>bash &#x3C;(curl https://cabinet.easypon.in/install_ep.sh) docker-repair
+</strong></code></pre>
+
+## Manual Docker compose installation
+
+If you need to execute a manual Docker compose installation process you can follow the instructions.
 
 You need to have Docker Engine and Docker Compose on your machine. You can either:
 
@@ -12,7 +35,7 @@ You need to have Docker Engine and Docker Compose on your machine. You can eithe
 * Install [Docker Desktop](https://docs.docker.com/desktop/) which includes both Docker Engine and Docker Compose
 * Installation instructions specific for [Docker Engine](https://docs.docker.com/engine/install/debian/) on Debian
 
-You don't need to install Python or Redis, as both are provided by Docker images.
+You don't need to install Python or Redis, as Docker images provide both.
 
 1. Download the archive from your [EasyPON personal cabinet account](https://cabinet.easypon.in/) license, unpack the archive, and go to the unpacked directory by using the commands.
 
@@ -52,6 +75,6 @@ docker compose up -d
 docker compose exec -ti backend_main bash compose/backend-entry-point.sh create_user
 ```
 
-### Accessing EasyPon
+## Accessing EasyPON
 
-To access EasyPon, open your browser and navigate to your domain name or IP address of your server. You will be prompted to log in with your credentials, which you received in the terminal during installation, or which can be found in `/root/.tmp_ep_users`.
+To access EasyPon, open your browser and navigate to your server's domain name or IP address. You will be prompted to log in with your credentials, which you received in the terminal during installation, or which can be found in `/root/.tmp_ep_users`.

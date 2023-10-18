@@ -1,5 +1,5 @@
 ---
-description: All you should know about user management
+description: All you should know about user management in EasyPON
 ---
 
 # Users
