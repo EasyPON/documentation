@@ -19,12 +19,12 @@ description: >-
 
 ## Installation
 
-{% content-ref url="how-to-install-easypon/guide-for-debian-11.md" %}
-[guide-for-debian-11.md](how-to-install-easypon/guide-for-debian-11.md)
+{% content-ref url="readme/guide-for-debian-11/" %}
+[guide-for-debian-11](readme/guide-for-debian-11/)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-install-easypon/docker-compose-installation-guide.md" %}
-[docker-compose-installation-guide.md](how-to-install-easypon/docker-compose-installation-guide.md)
+{% content-ref url="readme/docker-compose-installation-guide/" %}
+[docker-compose-installation-guide](readme/docker-compose-installation-guide/)
 {% endcontent-ref %}
 
 ## Demo
@@ -38,8 +38,8 @@ To see what EasyPON is capable of, simply visit our demo and give it a try on th
 
 ### Updating EasyPON
 
-[Debian 11 update](how-to-install-easypon/guide-for-debian-11.md#updating-easypon-debian) guide.
+[Debian 11 update](readme/guide-for-debian-11/#updating-easypon-debian) guide.
 
-[Docker compose](how-to-install-easypon/docker-compose-installation-guide.md) upgrade instructions.
+[Docker compose](readme/docker-compose-installation-guide/) upgrade instructions.
 
 [^1]: It is possible to use other available Debian platforms with a workaround.
