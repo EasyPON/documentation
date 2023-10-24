@@ -1,11 +1,7 @@
 # Changelog
 
-## v2.3.15-ReleaseCandidate.0 - 2023-10-23
-
----
 ## v2.3.14 - 2023-09-22
-#### Changes:
-* Fixed installation
+
 ---
 ## v2.3.13 - 2023-09-22
 #### Changes:
