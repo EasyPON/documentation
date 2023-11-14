@@ -13,7 +13,7 @@
 * Increased speed of get ONU on the specified card or port for the Huawei OLTs.
 * Fixed displaying new installed version after upgrading EasyPON.
 * Fixed port oper and admin status for BDCOM OLTs. Added Loss and PowerOFF statuses for ONU on this vendor.
-* Added functionality for enable/disable public API
+* Added functional of enable/disable public API
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
 * Added switch info for public API
 ---
