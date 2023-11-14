@@ -4,6 +4,7 @@
 #### Changes:
 * Increased productivity of ONU registration on  OLT ZTE C220
 * Added the error messages on impossible license syncronization with the EasyPON server
+* Fixed ONU deletion on the BDCOM 3310 OLTs
 * added functionality for enable/disable public API (03d90bca)
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
 * Added switch info for public API
