@@ -11,6 +11,7 @@
 * Added feature of search ONU by its location.
 * Implemented a new method for the ONU deletion on Huawei OLTs. Reduced total process execution time by a factor of 10.
 * Increased speed of get ONU on the specified card or port for the Huawei OLTs.
+* Fixed displaying new installed version after upgrading EasyPON.
 * added functionality for enable/disable public API (03d90bca)
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
 * Added switch info for public API
