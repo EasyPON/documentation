@@ -3,6 +3,7 @@
 ## v2.3.15 - 2023-11-13
 #### Changes:
 * Increased productivity of ONU registration on  OLT ZTE C220
+* Added the error messages on impossible license syncronization with the EasyPON server
 * added functionality for enable/disable public API (03d90bca)
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
 * Added switch info for public API
