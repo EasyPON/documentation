@@ -8,6 +8,7 @@
 * Log entry improvements.
 * Improved establishing SSH connection with OLT
 * Added button to syncronize license status with the server
+* Added feature of search ONU by its location.
 * added functionality for enable/disable public API (03d90bca)
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
 * Added switch info for public API
