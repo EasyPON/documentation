@@ -18,6 +18,7 @@
 * Added filters for the ONU firmware variety table
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
 * Added switch info for public API
+* Updated public API: added config type to the ONU detail response and created new endpoint for detail config type response in the directory.
 ---
 ## v2.3.14 - 2023-09-22
 #### Changes:
