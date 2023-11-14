@@ -7,6 +7,7 @@
 * Fixed ONU deletion on the BDCOM 3310 OLTs
 * Log entry improvements.
 * Improved establishing SSH connection with OLT
+* Added button to syncronize license status with the server
 * added functionality for enable/disable public API (03d90bca)
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
 * Added switch info for public API
