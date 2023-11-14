@@ -9,6 +9,7 @@
 * Improved establishing SSH connection with OLT
 * Added button to syncronize license status with the server
 * Added feature of search ONU by its location.
+* Implemented a new method for the ONU deletion on Huawei OLTs. Reduced total process execution time by a factor of 10.
 * added functionality for enable/disable public API (03d90bca)
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
 * Added switch info for public API
