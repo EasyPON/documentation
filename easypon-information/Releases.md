@@ -4,6 +4,7 @@
 #### Changes:
 * added functionality for enable/disable public API (03d90bca)
 * Redesigned OLT reply in the log, formatted as the terminal output. (2bec47c4)
+* Added switch info for public API
 ---
 ## v2.3.14 - 2023-09-22
 #### Changes:
