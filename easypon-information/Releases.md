@@ -9,6 +9,7 @@
 * Improved establishing SSH connection with OLT
 * Added button to syncronize license status with the server
 * Added feature of search ONU by its location.
+* Handle error from invalid response during updating OLTs tx value. (36bb7ddb)
 * Implemented a new method for the ONU deletion on Huawei OLTs. Reduced total process execution time by a factor of 10.
 * Increased speed of get ONU on the specified card or port for the Huawei OLTs.
 * Fixed displaying new installed version after upgrading EasyPON.
