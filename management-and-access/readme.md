@@ -8,17 +8,17 @@ description: >-
 
 There are three cards available: User info, License, and Sessions.
 
-![Profile page](<../.gitbook/assets/Screenshot 2023-10-02 at 18.18.58.png>)
+![User profile section page](<../.gitbook/assets/Screenshot 2023-11-22 at 22.00.57.png>)
 
-## Info
+## User info
 
-The Info card displays information on the user's name and surname, account name - Username, and the user's email address - Email. You can also change your password here.
-
-It is also possible to change the user password.
+The User info card displays information on the user's name and surname, account name - Username, and the user's email address - Email. You can also change your password here and the EasyPON system language.
 
 ## License
 
 Check your subscription plan and payment amount. On the License card you can check your company name from the EasyPON personal cabinet, the next payment checkout date for the active Easypon tariff, the current tariff name, and the status of the EasyPON license.
+
+You can also synchronize the license status by pressing the "Sync license status" button.
 
 ## Sessions
 
@@ -31,4 +31,4 @@ The list with the session history in the Sessions card is displayed in tabular f
 * Current session – session status. Yes for the current session which can not be deleted and No for past sessions preserved for history.
 * Delete – remove the user session button.
 
-The Logout button allows you to close the session and exit the EasyPON system. After the session ends, the user will be redirected to the login page.
+The Logout button lets you close the session and exit the EasyPON system. After the session ends, the user will be redirected to the login page.

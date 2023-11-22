@@ -29,7 +29,7 @@
     * [ZTE с320/300 v1 GPON](configuration-features/presets/zte-s320-300-v1-gpon.md)
     * [ZTE с320/300 v2 GPON](configuration-features/presets/zte-s320-300-v2-gpon.md)
   * [Actions for ONU](configuration-features/custom-action.md)
-  * [Macros](configuration-features/macros.md)
+  * [Macros list](configuration-features/macros.md)
 * [ONU workspace](onu-workspace/README.md)
   * [ONU registration](onu-workspace/onu-registration.md)
   * [ONU search](onu-workspace/onu-search.md)

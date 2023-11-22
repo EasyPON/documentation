@@ -24,6 +24,8 @@ The following main information about OLT is available:
 
 **Edit** - [OLT editing](../add-olt.md#edit-olt)
 
+**Periodic tasks** - view [periodic tasks](../../access-and-management/periodic-tasks.md) for the OLT.
+
 **Event logs -** OLT event logs are records of activities and incidents that occur on an Optical Line Terminal (OLT) within a Passive Optical Network (PON) or similar network infrastructure. These logs are essential for network administrators and technicians to monitor, troubleshoot, and maintain the OLT and the PON network effectively. All events are logged with time stamps and information about the author of the event. Here are some common types of events that may be logged on an OLT:
 
 * **Check connection** - when checking the connection with OLT
@@ -37,7 +39,7 @@ The following main information about OLT is available:
 
 **Delete OLT** - delete the OLT from the EasyPON system. OLT can be deleted by pressing the Delete button in the Quick Actions Bar section on the OLT page. To delete the OLT from the EasyPON system user confirmation is required.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-10-02 at 18.24.26.png" alt=""><figcaption><p>OLT page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 22.16.33.png" alt=""><figcaption><p>OLT page</p></figcaption></figure>
 
 ## Slots & Ports
 

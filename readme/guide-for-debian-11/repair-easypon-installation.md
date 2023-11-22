@@ -10,4 +10,4 @@ description: >-
 bash <(curl -k https://cabinet.easypon.in/install_ep.sh) repair
 ```
 
-Before repairing, you will be asked for your EasyPON user cabinet credentials. All your data will be kept after the repair process. It can be the rollback to the previous stable version of EasyPON.
+Before repairing, you will be asked for your EasyPON user cabinet credentials. All your data will be kept in backup after the repair process. It can be the rollback to the previous stable version of EasyPON.

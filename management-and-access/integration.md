@@ -90,6 +90,8 @@ Public API keys are essential for secure communication between your application 
 
 For detailed information on utilizing the EasyPON API, please refer to the External EasyPON API Documentation by following the **API documentation** link.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-04 at 12.31.07.png" alt=""><figcaption><p>API keys panel</p></figcaption></figure>
+Eternal API endpoints and documentation are only available if activated in the EasyPON system.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-22 at 22.37.56.png" alt=""><figcaption><p>API keys panel</p></figcaption></figure>
 
 This guide provides comprehensive instructions for integrating Google services, UserSide integration, and creating public API keys in the EasyPON web application. For further assistance or inquiries, please refer to the EasyPON support resources.

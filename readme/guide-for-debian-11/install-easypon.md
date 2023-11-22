@@ -14,7 +14,7 @@ bash <(curl -k https://cabinet.easypon.in/install_ep.sh) install
 The installation process will prompt you for various configuration options, such as your domain name and credentials for the EasyPon cabinet account. Also, it is required to choose the EasyPON license which will be installed. Once installed it can not be reinstalled again.
 
 {% hint style="info" %}
-Please contact technical support if you want to reset your EasyPON license for new installation.
+Please contact technical support if you want to reset your EasyPON license for a new installation.
 {% endhint %}
 
 The EasyPON app will be installed in `/usr/apps/easypon` and `superuser` will be created for your convenience for accessing EasyPON.&#x20;
