@@ -45,7 +45,6 @@
 * [Switch](switch.md)
 * [Reports](Reports.md)
 * [📔 EasyPON Information](easypon-information/README.md)
-  * [EasyPON pricing](easypon-information/easypon-tariffs.md)
   * [Supported hardware](easypon-information/supported-olts.md)
   * [Card functions](easypon-information/card\_functions.md)
   * [OLT functions](easypon-information/olt\_functions.md)
