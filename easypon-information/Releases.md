@@ -8,6 +8,7 @@
 * Added support for the OLTs: BDCOM P3600-16E, BDCOM GP3600-16B, GP3608B
 * Added support for the new OLT: BDCOM GP3600-08B. (fbb0933b)
 * Optimized time for display of detailed info about OLT on the OLT page
+* Cleared ONU ethernet ports and client macs when ONU was deleted.
 ---
 ## v2.3.15 - 2023-11-13
 #### Changes:
