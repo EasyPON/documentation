@@ -11,6 +11,7 @@
 * Cleared ONU ethernet ports and client macs when ONU was deleted.
 * Added user avatars to event log detailed page
 * Added the new 404 page look
+* Created redirection from detailed OLT page to periodic tasks table for this OLT
 ---
 ## v2.3.15 - 2023-11-13
 #### Changes:
