@@ -10,6 +10,7 @@
 * Optimized time for display of detailed info about OLT on the OLT page
 * Cleared ONU ethernet ports and client macs when ONU was deleted.
 * Added user avatars to event log detailed page
+* Added the new 404 page look
 ---
 ## v2.3.15 - 2023-11-13
 #### Changes:
