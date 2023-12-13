@@ -12,6 +12,7 @@
 * Added user avatars to event log detailed page
 * Added the new 404 page look
 * Created redirection from detailed OLT page to periodic tasks table for this OLT
+* Blog to the Website! We started our blog and very exited about it!
 ---
 ## v2.3.15 - 2023-11-13
 #### Changes:
