@@ -3,6 +3,7 @@
 ## v2.3.16 - 2023-12-12
 #### Changes:
 * Added support for the new OLT: BDCOM GP3600-08B. (fbb0933b)
+* Optimized time for display of detailed info about OLT on the OLT page
 ---
 ## v2.3.15 - 2023-11-13
 #### Changes:
