@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.3.16 - 2023-12-12
+
+---
 ## v2.3.15 - 2023-11-13
 #### Changes:
 * Increased productivity of ONU registration on  OLT ZTE C220
