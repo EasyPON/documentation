@@ -5,6 +5,7 @@
 * Fixed error during switch initialisation
 * Allowed changing username and email from the user profile page
 * Added users avatars in general list of users and to the profile
+* Added support for the OLTs: BDCOM P3600-16E, BDCOM GP3600-16B, GP3608B
 * Added support for the new OLT: BDCOM GP3600-08B. (fbb0933b)
 * Optimized time for display of detailed info about OLT on the OLT page
 ---
