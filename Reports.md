@@ -7,7 +7,7 @@ updatedAt: Fri Mar 17 2023 20:45:03 GMT+0000 (Coordinated Universal Time)
 
 # Reports
 
-The report section within EasyPON has been designed to allow you to download data in XSLX format for your personal use. You have the flexibility to download any information from the table, regardless of whether it has been filtered or not. Generating a comprehensive report based on your selection may require some time for the system to process. However, you will receive a notification once the report is ready, and the action button will become active, enabling you to proceed with the download.
+The report section within EasyPON has been designed to allow you to download generated reports with data in XSLX format for your personal use. You have the flexibility to download any information from the table, regardless of whether it has been filtered or not. Generating a comprehensive report based on your selection may require some time for the system to process. However, you will receive a notification once the report is ready, and the action button will become active, enabling you to proceed with the download.
 
 ## ONU list section case
 
