@@ -212,7 +212,7 @@ Press the indicator in the legend to isolate its view on the graph or press back
 
 ## Graph attenuations
 
-The graph represents the readings of the attenuation signals on OLT and ONU. It is possible to view data statistics for the last 24 hours, yesterday, 7, 30, and 90 days ago.
+The graph represents the readings of the attenuation signals on OLT and ONU. Viewing data statistics for the last 24 hours, yesterday, 7, 30, and 90 days.
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
