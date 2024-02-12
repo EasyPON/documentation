@@ -1,7 +1,7 @@
 ---
 description: >-
-  This guide will walk you through process of installation EasyPON web
-  application in your system.
+  This guide will provide step-by-step instructions for installing the EasyPON
+  web application on your system.
 ---
 
 # 🍥 Guide for Debian 11

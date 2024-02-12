@@ -8,17 +8,17 @@ description: >-
 
 There are three cards available: User info, License, and Sessions.
 
-![User profile section page](<../.gitbook/assets/Screenshot 2023-11-22 at 22.00.57.png>)
+![User profile section page](<../.gitbook/assets/Screenshot 2024-02-06 at 17.00.48.png>)
 
 ## User info
 
-The User info card displays information on the user's name and surname, account name - Username, and the user's email address - Email. You can also change your password here and the EasyPON system language.
+The User info card displays information on the user's name and surname, account name - Username, and the user's email address - Email. You can also change your user's personal information, password, and EasyPON system language here.
 
 ## License
 
 Check your subscription plan and payment amount. On the License card you can check your company name from the EasyPON personal cabinet, the next payment checkout date for the active Easypon tariff, the current tariff name, and the status of the EasyPON license.
 
-You can also synchronize the license status by pressing the "Sync license status" button.
+You can also synchronize the current license status by pressing the "Sync license status" button.
 
 ## Sessions
 

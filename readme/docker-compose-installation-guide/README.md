@@ -1,7 +1,7 @@
 ---
 description: >-
-  This guide will walk you through the process of creating an EasyPON web
-  application Docker compose build.
+  This guide will provide step-by-step instructions the process of creating an
+  EasyPON web application Docker compose build.
 ---
 
 # 🐳 Docker compose installation guide

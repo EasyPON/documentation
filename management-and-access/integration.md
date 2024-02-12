@@ -90,7 +90,7 @@ Public API keys are essential for secure communication between your application 
 
 For detailed information on utilizing the EasyPON API, please refer to the External EasyPON API Documentation by following the **API documentation** link.
 
-Eternal API endpoints and documentation are only available if activated in the EasyPON system.
+External API endpoints and documentation are only available if activated in the EasyPON system.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-11-22 at 22.37.56.png" alt=""><figcaption><p>API keys panel</p></figcaption></figure>
 

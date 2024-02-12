@@ -72,16 +72,26 @@ Click Save to save periodic task parameter changes.
 
 The are several tasks available in the EasyPON system for maintaining and automating everyday routines from synchronizing data to performing backups of valuable system data.
 
-### OLT related tasks
+### General system tasks
 
-* Find unregistered ONU - a periodic task for monitoring and updating the list of unregistered ONU
-* Update OLT card, ports info - updates OLT and ports data
-* Check OLT is alive - updates OLT online status
-* Save OLT config - saves OLT configuration data for every night
-* Update measurement Onu - updates registered ONU measurements
-* Full sync data of all ONU - updates ONU data
-* Update client Mac address and ethernet porn info on onus
+* Userside synchronization user groups
+* Block inactive users
+* Cleanup old report files
+* Cleanup old view account logs
+* Userside synchronization clients
+* Userside synchronization tariffs
+
+### OLT and ONU related tasks
+
+* Update onu client macs - update client Mac address.
+* Update onu ethernet ports - update client Mac ethernet port info on ONUs.
+* Sync full info all onus - updates ONU data
+* Save olt config - saves OLT configuration data for every night
+* Update onu measurement - updates registered ONU measurements
+* Check olt is alive - updates OLT online status
+* Get unregistered onus on olt - a periodic task for monitoring and updating the list of unregistered ONU
+* Update olt info - updates OLT and port data
 
 ### Switch related tasks
 
-* Update port info in the switch
+* Update port info in switch

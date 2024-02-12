@@ -5,7 +5,7 @@ description: >-
   ONU synchronization, and deleting OLT.
 ---
 
-# OLT detailed information
+# OLT information
 
 ## Main info&#x20;
 
@@ -14,9 +14,12 @@ The following main information about OLT is available:
 * Hostname&#x20;
 * Type - [OLT type](../../easypon-information/supported-olts.md)
 * Name SNMP
+* Online Status
+* Status
 * SNMP port
 * Telnet port
 * Port ssh
+* Software version
 
 ## Quick Actions Panel
 

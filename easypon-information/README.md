@@ -7,8 +7,7 @@ description: >-
 
 # 📔 EasyPON Information
 
-* EasyPON pricing
 * Supported hardware
 * ONU functions
 * OLT functions
-* Releases history
+* Releases History

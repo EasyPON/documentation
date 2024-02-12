@@ -8,13 +8,13 @@ description: >-
   substituting attributes in the Preset configuration.
 ---
 
-# Macros
+# Macros list
 
 While creating or editing Preset or Action, it is possible to click on a macros field with the left mouse button to add it to the Code field while editing Preset in the Preset or Action form.
 
-Below is a [Macros variables description](macros.md#macros-variables-description) along with examples to help you understand how it works.
+Below is a macro[ variables description](macros.md#macros-variables-description) along with examples to help you understand how it works.
 
-![Macros list](<../.gitbook/assets/Screenshot 2023-10-08 at 23.11.27.png>)
+![Macros list on the Action edit form](<../.gitbook/assets/Screenshot 2024-02-12 at 16.49.33.png>)
 
 <details>
 
@@ -44,7 +44,7 @@ Clicking on the view icon opposite a specific Macros opens a modal window with M
 * Example - an example value
 * Description - Description of Macros.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-08 at 23.11.20.png" alt=""><figcaption><p>Specific macros view</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-12 at 17.04.40.png" alt=""><figcaption><p>Specific macros view</p></figcaption></figure>
 
 You can **Close** the Macros view modal window after review.
 
