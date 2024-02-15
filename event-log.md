@@ -1,5 +1,5 @@
 ---
-description: Basic information about Event logs page
+description: Basic information about Event logs section
 ---
 
 # Event log

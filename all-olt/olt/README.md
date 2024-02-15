@@ -74,6 +74,8 @@ Ports are displayed in the summary table under the corresponding slot. Selecting
 
 </details>
 
+By clicking the **Registered ONU** field it is possible to view the full list of ONU filtered by OLT slot and port.
+
 ## Graph all ONU / Online ONU
 
 The graph displays the number of all ONUs on the OLT relative to the ONUs that had Online status on the OLT within a time scale. It is possible to view statistics for the last 24 hours, for yesterday, for 7, 30, and 90 days ago.

@@ -24,11 +24,11 @@ You can also synchronize the current license status by pressing the "Sync licens
 
 The list with the session history in the Sessions card is displayed in tabular form with fields:
 
-* Date created - session creation date and time
-* Last activity - date and time of the user's last activity
-* Expiry - the expiration date of the session in the system
-* IP address - IP address of the user
-* Current session – session status. Yes for the current session which can not be deleted and No for past sessions preserved for history.
-* Delete – remove the user session button.
+* **Date created** - session creation date and time
+* **Last activity** - date and time of the user's last activity
+* **Expiry** - the expiration date of the session in the system
+* **IP address** - IP address of the user
+* **Current session** – session status. Yes for the current session which can not be deleted and No for past sessions preserved for history.
+* **Delete** – remove the user session button.
 
 The Logout button lets you close the session and exit the EasyPON system. After the session ends, the user will be redirected to the login page.

@@ -8,7 +8,7 @@ description: View ONU firmware versions variety by OLT
 
 # ONU Filmware versions
 
-The ONU types list page displays the summary table of ONU firmware versions variety by OLT and the amount of such ONU to be found in the EasyPON system. You can locate this page from [the All ONU](https://app.gitbook.com/o/FLfeqEYvh9QVB713VXQE/s/MviMfLPCHms6Yo2oirJF/\~/changes/6/onu-main-page-about-all/all-onu) section.
+The ONU types list page displays the summary table of ONU firmware versions variety by OLT and the amount of such ONU to be found in the EasyPON system. You can locate this page from the [ All ONU](https://app.gitbook.com/o/FLfeqEYvh9QVB713VXQE/s/MviMfLPCHms6Yo2oirJF/\~/changes/6/onu-main-page-about-all/all-onu) section.
 
 ## Filter ONU type
 

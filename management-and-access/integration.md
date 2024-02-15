@@ -28,9 +28,9 @@ Please notice, Google Authentification Integration works only by HTTPS protocol.
 3. **Google Integration**: In the Integration section, select the **Turn on Google Authorization?** option.
 4.  **Authenticate Google Account**: You will be prompted to authenticate your Google account. Fill in the
 
-    * Client ID - your Google client ID
-    * API key - API key from Google corporate account
-    * Allowed corporate domains. You can add multiple allowed domains by clicking  **Add domain**
+    * **Client ID** - your Google client ID
+    * **API key** - API key from Google corporate account
+    * **Allowed corporate domains**. You can add multiple allowed domains by clicking  **Add domain**
 
     You can **Cancel** or **Save** changes.
 5. **Authorization**: Grant the necessary permissions to allow EasyPON to access your Google services.

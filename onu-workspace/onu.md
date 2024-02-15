@@ -39,7 +39,7 @@ description: The ONU page displays data on the selected ONU and consists of seve
 
 </details>
 
-![ONU page](../.gitbook/assets/eGU5GENHX30KaO9WlwDXj\_image.png)
+![ONU page](<../.gitbook/assets/Screenshot 2024-02-13 at 17.51.01.png>)
 
 ## Quick Actions Panel
 
@@ -47,92 +47,52 @@ description: The ONU page displays data on the selected ONU and consists of seve
 
 <summary>On the quick actions panel, quick commands are available that can be executed on the page or from the ONU:</summary>
 
-* **Back** - switch to the ONU list
-
-<!---->
-
-* **Show configs** - display in the ONU configuration console
-
-<!---->
-
-* **Change preset** - change the ONU configuration
-
-<!---->
-
-* **Custom Action** - change custom ONU configuration
-
-<!---->
-
-* **Event logs** - redirect us to [Event logs](https://ep.stg.disoft.dev/log?base\_content\_type=21\&base\_object\_id=5193\&itemTitle=1%2F2%2F1%3A1\&page=1) page
+* **Docs** - a hyperlink to the current ONU configuration page.&#x20;
+* **Back** - return to the [All ONU](all-onu.md) section.
+* **Sync** - synchronize and update the latest ONU information in the EasyPON.
+* **Configs** - display the current ONU config in the [ONU CLI](onu-command-line-interface.md).
+* **Preset** - change the ONU configuration with the saved [Preset](../configuration-features/presets.md).
+* **Action** - change custom ONU configuration by applying saved [Action](../configuration-features/custom-action.md).
+* **Logs** - redirect us to the [Event logs](https://ep.stg.disoft.dev/log?base\_content\_type=21\&base\_object\_id=5193\&itemTitle=1%2F2%2F1%3A1\&page=1) page.
+* **Reboot** - reboot ONU. It may be in offline or reboot status mode during the process.&#x20;
+* **Delete** - delete ONU from OLT in EasyPON. After deletion, it will be shown in the list of [unregistered ONUs](onu-registration.md#unregistered-onu) again.
 
 </details>
 
-<figure><img src="../.gitbook/assets/o1.png" alt=""><figcaption><p>Quick Actions Panel buttons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-13 at 11.18.45.png" alt=""><figcaption><p>Quick Actions Panel buttons</p></figcaption></figure>
 
 ## Information
 
 <details>
 
-<summary>General information about ONU:</summary>
+<summary>General information about ONU</summary>
 
-* **ONU name** - ONU name provided during registration
-
-<!---->
-
+* **Name** - ONU name provided during registration
 * **ID** - ONU identifier
-
-<!---->
-
 * **Firmware version** - firmware version
-
-<!---->
-
 * **MAC/SN** - mac address or serial number of the ONU
-
-<!---->
-
 * **OLT** - the name of the OLT on which ONU is registered
-
-<!---->
-
 * **Configured type** - ONU configuration type
-
-<!---->
-
 * **Real Type** - ONU type
-
-<!---->
-
 * **Date created** - ONU registration date
-
-<!---->
-
 * **Description** - a detailed description of the ONU
-
-<!---->
-
-* **Last synchronize client mac** - a table of client MAC addresses assigned to the ONU
+* **Address** - the address of the ONU location on the map.
 
 </details>
 
-<figure><img src="../.gitbook/assets/o2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-13 at 11.29.17.png" alt=""><figcaption></figcaption></figure>
 
 ## Stats
 
 Displaying ONU statistical data in sections:
 
-* **Status** - ONU status
-* **Uptime** - a time stamp that shows how many ONUs are online
-* **Date modified** - a time marker that shows how much time has passed since the last modification of the ONU
-* **Rx/Tx** indicators on OLT, ONU, and signal attenuation (Attenuation)
+* **Status** - ONU status.
+* **Uptime** - a time stamp that shows how many ONUs are online.
+* **Date modified** - a time marker that shows how much time has passed since the last modification of the ONU.
+* **Rx/Tx** indicators on OLT, ONU, and signal attenuation (Attenuation).
+* **Last synchronized client MAC and VLAN** - a table of client MAC addresses assigned to the ONU.
 
-<figure><img src="../.gitbook/assets/o3.png" alt=""><figcaption></figcaption></figure>
-
-Also, there are 3 buttons to interact with ONU:
-
-* **Reboot** - reboot selected ONU
-* **Synchronize** - after successful synchronization, all ONU data should be up to date
-* **Delete** - delete the ONU from the system
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-13 at 17.52.40.png" alt=""><figcaption><p>ONU Stats</p></figcaption></figure>
 
 ## ONU Ports
 
@@ -151,7 +111,7 @@ Shows ONU's location on the map. If we move the mouse cursor over the label of O
 
 Also If the map is extended there are 2 buttons:&#x20;
 
-* **Create building** - creating a new ONU location. You can view specific building information at [Building workspace](../building-workspace/).
+* **Create building** - creating a new ONU location. You can view specific building information at [Building Workspace](../building-workspace/).
 *   **Edit location** - edit an existing ONU  location
 
 
@@ -204,7 +164,7 @@ This section displays graphs with readings of the optical signal, collected by p
 
 ## Graph Tx/Rx
 
-The graph represents the readings of the optical Tx/Rx signal. It is possible to view data statistics for the last 24 hours, yesterday, 7, 30, and 90 days ago.
+The graph represents the readings of the optical Tx/Rx signal. It is possible to view data statistics for the last 24 hours, yesterday, 7, 30, and 90 days.
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 

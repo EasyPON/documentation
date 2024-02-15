@@ -8,23 +8,23 @@ description: Execute routine tasks automatically and periodically in EasyPON sys
 
 # Periodic Tasks
 
-List of periodic tasks created in the system in the form of a table with the followong fields:
+List of periodic tasks created in the system in the form of a table with the following fields:
 
-* Name - the title of the periodic task
-* OLT Name - the title of the OLT on which the task should be executed
-* Last run - last date and time the task was run
-* Activity – task activity status. It can be Yes or No.
-* View - a link to view detailed information about a specific task.
+* **Name** - the title of the periodic task.
+* **OLT Name** - the title of the OLT on which the task should be executed.
+* **Last run** - last date and time the task was run.
+* **Activity** – task activity status. It can be Yes or No.
+* **View** - a link to view detailed information about a specific task.
 
 ### Filter tasks
 
 You can filter tasks in the Tasks list table by multiple parameters for convenient and quick access to task management:
 
-* OLT name - search by OLT name string
-* Search - search periodic tasks by multiple parameters
-* Activity - activity of switch
-* Last run before - last switch run before date
-* Last run after - last switch run after date
+* **OLT name** - search by OLT name string.
+* **Search** - search periodic tasks by multiple parameters.
+* **Activity** - activity of switch.
+* **Last run before** - last switch run before the date.
+* **Last run after** - last switch run after the date.
 
 ![Tasks list](<../.gitbook/assets/Screenshot 2023-09-26 at 23.19.34.png>)
 
@@ -40,18 +40,18 @@ Clicking on the View button from the Tasks table displays detailed information a
 
 ### Quick Actions Bar
 
-* Back – return to the list of periodic tasks
-* Edit - editing task parameters.
-* Deactivate – task deactivation.
+* **Back** – return to the list of periodic tasks.
+* **Edit** - editing task parameters.
+* **Deactivate** – task deactivation.
 
 ### Periodic Task information card
 
-* Description - detailed description of the task
-* The month of the year - the number of the month of the year when the task should be performed
-* Day of month - the day of the month when the task is to be performed
-* Day of week - the day of the week when the task is to be performed
-* Hour - the hour when the task is to be performed
-* Minute - the minute the task is due
+* **Description** - detailed description of the task.
+* **The month of the year** - the number of the month of the year when the task should be performed.
+* **Day of month** - the day of the month when the task is to be performed.
+* **Day of week** - the day of the week when the task is to be performed.
+* **Hour** - the hour when the task is to be performed.
+* **Minute** - the minute the task is due.
 
 ## Periodic Task Editing
 
@@ -59,12 +59,12 @@ Clicking on the View button from the Tasks table displays detailed information a
 
 You can set the following values on the editing form by clicking Edit in the Actions Bar:
 
-* Description - detailed description of the task
-* The month of the year - the number of the month of the year when the task should be performed
-* Day of month - the day of the month when the task is to be performed
-* Day of week - the day of the week when the task is to be performed
-* Hour - the hour when the task is to be performed
-* Minute - the minute the task is due
+* **Description** - detailed description of the task.
+* **The month of the year** - the number of the month of the year when the task should be performed.
+* **Day of month** - the day of the month when the task is to be performed.
+* **Day of week** - the day of the week when the task is to be performed.
+* **Hour** - the hour when the task is to be performed.
+* **Minute** - the minute the task is due.
 
 Click Save to save periodic task parameter changes.
 
@@ -74,24 +74,24 @@ The are several tasks available in the EasyPON system for maintaining and automa
 
 ### General system tasks
 
-* Userside synchronization user groups
-* Block inactive users
-* Cleanup old report files
-* Cleanup old view account logs
-* Userside synchronization clients
-* Userside synchronization tariffs
+* **Userside synchronization user groups**
+* **Block inactive users**
+* **Cleanup old report files**
+* **Cleanup old view account logs**
+* **Userside synchronization clients**
+* **Userside synchronization tariffs**
 
-### OLT and ONU related tasks
+### OLT and ONU-related tasks
 
-* Update onu client macs - update client Mac address.
-* Update onu ethernet ports - update client Mac ethernet port info on ONUs.
-* Sync full info all onus - updates ONU data
-* Save olt config - saves OLT configuration data for every night
-* Update onu measurement - updates registered ONU measurements
-* Check olt is alive - updates OLT online status
-* Get unregistered onus on olt - a periodic task for monitoring and updating the list of unregistered ONU
-* Update olt info - updates OLT and port data
+* **Update onu client macs** - update client Mac address.
+* **Update onu ethernet ports** - update client Mac ethernet port info on ONUs.
+* **Sync full info all onus** - updates ONU data
+* **Save olt config** - saves OLT configuration data for every night
+* **Update onu measurement** - updates registered ONU measurements
+* **Check olt is alive** - updates OLT online status
+* **Get unregistered onus on olt** - a periodic task for monitoring and updating the list of unregistered ONU
+* **Update olt info** - updates OLT and port data
 
 ### Switch related tasks
 
-* Update port info in switch
+* **Update port info in switch**

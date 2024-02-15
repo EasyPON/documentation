@@ -3,14 +3,14 @@ title: Dashboard
 slug: Lcj0-dashboard
 createdAt: Fri Nov 04 2022 16:09:14 GMT+0000 (Coordinated Universal Time)
 updatedAt: Fri Mar 24 2023 16:14:33 GMT+0000 (Coordinated Universal Time)
-description: General EasyPon statistics
+description: General EasyPON up-to-date statistics
 ---
 
 # Dashboard
 
-### Main info
+## Main info
 
-Main ONU information
+Main ONU information:
 
 * All ONU units connected to EasyPON
 * The number of OLT units that are not currently connected and polling ONU units
@@ -19,36 +19,26 @@ Main ONU information
 
 <figure><img src=".gitbook/assets/Screenshot 2023-09-01 at 16.23.44.png" alt=""><figcaption><p>ONU and OLT quantitative indicators in the EasyPON system</p></figcaption></figure>
 
-### Graphs
+## Graphs
 
-#### Graph all ONU/Online ONU
+### Graph all ONU/Online ONU
 
-The ratio of all ONUs and online ONUs in the period of time
+The ratio of all ONUs and online ONUs in the period
 
 * The total number of terminals in the EasyPON system for the time and date you choose
 * Get the exact amount at a specific time by pointing to the graph
 
-It is possible to view data statistics for the last 24 hours, yesterday, 7, 30, and 90 days ago.
+It is possible to view data statistics for the last 24 hours, yesterday, 7, 30, and 90 days.
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
 <figure><img src=".gitbook/assets/Screenshot 2023-09-01 at 16.27.12.png" alt=""><figcaption><p>Graphical representation of the number of ONUs in the network to the total number of ONU</p></figcaption></figure>
 
-#### Graph Online ONU by OLT
-
-Amount of online ONU on all OLT connected to the EasyPON system.
-
-It is possible to view data statistics for the last 24 hours, yesterday, 7, 30, and 90 days ago.
-
-Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
-
-![Graphic display of the number of ONU by OLT](.gitbook/assets/DSWU76njw04\_EEl8ASxd7\_screenshot-2023-01-28-at-221501.png)
-
-#### Amount of errors by OLT in time
+### Amount of errors by OLT in time
 
 The graph represents the amount of appeared errors by OLT in time.
 
-It is possible to view data statistics for the last 24 hours, yesterday, 7, 30, and 90 days ago.
+It is possible to view data statistics for the last 24 hours, yesterday, 7, 30, and 90 days.
 
 Press the indicator in the legend to isolate its view on the graph or press back to select and view all data again. You can also press the Command key on Mac or Windows key on PC for multiple indicators selection and viewing them on the graph.
 
