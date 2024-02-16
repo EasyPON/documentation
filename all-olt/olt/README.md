@@ -7,25 +7,37 @@ description: >-
 
 # OLT information
 
+## OLT detailed information
+
+The detailed OLT information page contains:
+
+* [Main info](./#main-info)
+* [Quick actions bar ](./#quick-actions-bar)
+* [Slots & Ports panel](./#slots-and-ports)
+* [Graph all ONU / Online ONU](./#graph-all-onu-online-onu)
+* [Graph of the amount of errors by OLT in the time](./#amount-of-errors-by-olt-in-the-time-graph)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 22.16.33.png" alt=""><figcaption><p>OLT page</p></figcaption></figure>
+
 ## Main info&#x20;
 
 The following main information about OLT is available:
 
-* Hostname&#x20;
-* Type - [OLT type](../../easypon-information/supported-olts.md)
-* Name SNMP
-* Online Status
-* Status
-* SNMP port
-* Telnet port
-* Port ssh
-* Software version
+* **Hostname -** This refers to the unique identifier assigned to the OLT device within a network. It helps in distinguishing this device from others, especially when managing or addressing networked devices.
+* **OLT Type -** This specifies the model or category of the OLT. [OLT types](../../easypon-information/supported-olts.md) vary based on their capabilities, such as the number of supported connections, power levels, and compatibility with different optical network standards.
+* **Name SNMP (Simple Network Management Protocol) -** This is the identifier used within SNMP to manage and monitor the OLT. It facilitates the communication of management data between network devices and the management systems.
+* **Online Status -** Indicates whether the OLT is currently active and connected to the network. An online status means the device is operational and can manage the fiber optic lines connected to it.
+* **Status -** This broader term refers to its operational state, ad Active or Not Active. This option can be changed on the OLT edit form.
+* **SNMP Port -** The network port used by SNMP to communicate with the OLT. This port allows for the remote configuration, monitoring, and management of the device.
+* **Telnet Port -** This is the port used for Telnet access to the OLT. Telnet provides a user interface for configuring and managing the device via a command-line interface over the network.
+* **Port SSH (Secure Shell)**: Similar to the Telnet port but offers a secure channel for network communication. SSH is used for securely logging into the OLT, executing commands, and transferring files.
+* **Software Version -** Refers to the specific version of the firmware or software that is currently running on the OLT. This information is crucial for understanding the device's capabilities, compatibility, and any known issues or vulnerabilities.
 
-## Quick Actions Panel
+## Quick Actions Bar
 
-**Back** – back to the [OLT list](../)
+**Back** – return to the [OLT list](../)
 
-**Edit** - [OLT editing](../add-olt.md#edit-olt)
+**Edit** - open the [OLT editing](../add-olt.md#edit-olt) form.
 
 **Periodic tasks** - view [periodic tasks](../../access-and-management/periodic-tasks.md) for the OLT.
 
@@ -41,8 +53,6 @@ The following main information about OLT is available:
 **Get ONU** – synchronize all ONUs on the current OLT. With the help of Get ONU, it is possible to perform the synchronization process of all ONUs on the OLT Slots & Ports section. This option is available both from the Quick Actions Bar on the OLT page, in separate slots, and on individual OLT ports with an 'Up' Link Status.
 
 **Delete OLT** - delete the OLT from the EasyPON system. OLT can be deleted by pressing the Delete button in the Quick Actions Bar section on the OLT page. To delete the OLT from the EasyPON system user confirmation is required.
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 22.16.33.png" alt=""><figcaption><p>OLT page</p></figcaption></figure>
 
 ## Slots & Ports
 

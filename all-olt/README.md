@@ -23,15 +23,15 @@ With the help of the Quick Actions Bar, you can view documentation of this secti
 
 You can filter the OLT base by the following filter parameters:
 
-* [OLT type](../easypon-information/supported-olts.md)
-* Name
-* Hostname
-* Status
-* Online Status
-* Autosave
-* ONU min count
-* ONU max count
-* Shel
+* [**OLT type**](../easypon-information/supported-olts.md) **- the type of OLT.**
+* **Name - the name of OLT in the EasyPON system.**
+* **Hostname**
+* **Status**
+* **Online Status**
+* **Autosave**
+* **ONU min count**
+* **ONU max count**
+* **Shel**
 
 You can also use the Add saved search record and always have fast access for applying frequent search templates. You can always delete saved searches to clear the applied filter with the corresponding options.
 
@@ -40,17 +40,6 @@ You can also use the Add saved search record and always have fast access for app
 You can access basic information about the OLTs in the general sector. To explore further about any of them, you can navigate to the [OLT detailed info](./#olt-detailed-information) page by clicking on the arrow in the "View" column.
 
 ![All OLT page](<../.gitbook/assets/Screenshot 2023-10-02 at 18.23.35.png>)
-
-## OLT detailed information
-
-The detailed information page contains of:
-
-* Main info
-* [Quick actions panel](./#quick-actions-bar)&#x20;
-* [Slots & Ports bar](./#slots-and-ports)
-* [Tasks](./#tasks)
-* [Graph all ONU / Online ONU](./#graph-all-onu-online-onu)
-* [Graph of amount of errors by OLT in the time](./#amount-of-errors-by-olt-in-the-time-graph)
 
 {% content-ref url="add-olt.md" %}
 [add-olt.md](add-olt.md)

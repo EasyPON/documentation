@@ -14,19 +14,21 @@ For your convenience, we prepared standard drafts of presets so you can use them
 * [ZTE c320/300 v1 GPON preset](presets/zte-s320-300-v1-gpon.md)
 * [ZTE c320/300 v2 GPON preset](presets/zte-s320-300-v2-gpon.md)
 
+By default, a few distributed presets are also available in the EasyPON system as well. To use them it is required to assign OLT, ONU technology, and ONU type in the [edit Preset](presets.md#edit-preset-for-onu) form. Then you can select the assigned preset during [ONU registration](../onu-workspace/onu-registration.md).
+
 ## Preset list
 
 Displaying added Presets at the Presets list in the Preset for ONU section.&#x20;
 
 You can select items in the list to open a preset for the ONU on the specific page for viewing the selected Preset detailed information.
 
-![Preset for ONU section list](<../.gitbook/assets/Screenshot 2024-02-06 at 17.24.09.png>)
+![Preset for ONU section list](<../.gitbook/assets/Screenshot 2024-02-16 at 10.13.00.png>)
 
 Also, the **Add Preset** button is available in the section, which allows you to add new Presets. You can also find the Docs button to get to this manual section.
 
 ## Preset for ONU page
 
-By clicking the view button on the specific preset item in the Preset list you can view specific Preset for ONU page.
+By clicking the view button on the specific preset item in the Preset list you can view specific Preset for the ONU page.
 
 It is also possible to view the event logs of selected presets by pressing the Event Logs quick actions menu button. You will be redirected to [Event Logs](../event-log.md) filtered by specific preset
 
